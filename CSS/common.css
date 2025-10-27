@@ -1,0 +1,20 @@
+        /* 기본적인 마진/패딩 리셋 */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
+            overflow: hidden; /* 스크롤바가 생기지 않도록 방지 */
+        }
+
+        /* 1. 기본 설정 */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
+            /* 페이지 배경색을 살짝 어둡게 해서 창(카드)이 돋보이게 합니다. */
+            background-color: #f4f7f6; 
+        }

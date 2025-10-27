@@ -6,81 +6,13 @@
     <title>웹툰 분석 및 추천</title>
 
     <style>
-        /* 기본적인 마진/패딩 리셋 */
-        body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-            width: 100%;
-            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
-            overflow: hidden; /* 스크롤바가 생기지 않도록 방지 */
-        }
+        @import url(../CSS/common.css);
+        @import url(../CSS/main.css);
+        @import url(../CSS/sub.css);
 
-        /* 1. 배경 비디오 스타일 */
-        #bgVideo {
-            position: fixed; /* 화면에 고정 */
-            right: 0;
-            bottom: 0;
-            min-width: 100%; 
-            min-height: 100%;
-            width: auto;
-            height: auto;
-            z-index: -100; /* 콘텐츠 뒤로 보내기 */
-            object-fit: cover; /* 화면을 채우도록 크기 조정 */
-        }
-
-        /* 2. 콘텐츠 컨테이너 (버튼 중앙 정렬 담당) */
-        .main-container {
-            position: relative; /* 자식 요소(오버레이) 기준점 설정 */
-            height: 100vh;
-            width: 100vw;
-            
-            /* 버튼 중앙 정렬 */
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            z-index: 1; /* 비디오 위에 위치하도록 설정 */
-        }
-
-        /* 3. 비디오 위에 깔리는 반투명 오버레이 */
-        .video-overlay {
-            position: absolute;
-            top: 0;
-            left: 0;
-            height: 100%;
-            width: 100%;
-            /* 반투명한 검은색 막을 씌워 비디오 위 텍스트 가독성 높임 */
-            background: rgba(0, 0, 0, 0.4); 
-            z-index: 0; 
-        }
-
-        /* 4. 버튼 스타일 (기존과 동일) */
-        .cta-button {
-            position: relative; /* 오버레이 위로 버튼을 올림 */
-            z-index: 10;
-            
-            display: inline-block;
-            padding: 18px 40px;
-            background-color: lime; 
-            color: white;
-            border: 2px solid white; 
-            border-radius: 50px;
-            
-            text-decoration: none;
-            font-size: 24px;
-            font-weight: bold;
-            text-align: center;
-            
-            transition: all 0.3s ease;
-        }
-
-        .cta-button:hover {
-            background-color: white;
-            color: black;
-            transform: scale(1.05);
-            cursor: pointer;
-        }
+        
     </style>
+
 </head>
 <body>
     

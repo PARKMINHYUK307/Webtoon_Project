@@ -1,0 +1,76 @@
+/* 2. 대시보드 그리드를 감싸고 중앙 정렬하는 래퍼(Wrapper) */
+        .dashboard-wrapper {
+            display: flex;
+            justify-content: center; /* 가로 중앙 정렬 */
+            align-items: center;     /* 세로 중앙 정렬 */
+            min-height: 100vh;       /* 최소 높이를 화면 전체로 설정 */
+            padding: 20px;           /* 화면 가장자리와 약간의 여백 */
+            box-sizing: border-box;  /* 패딩이 크기에 포함되도록 설정 */
+        }
+
+        /* 3. 4개의 창을 2x2 그리드로 배치 */
+        .dashboard-grid {
+            display: grid;
+            /* 2개의 열(column)을 1:1 비율로 만듭니다 */
+            grid-template-columns: 1fr 1fr; 
+            /* 2개의 행(row)을 만듭니다 */
+            grid-template-rows: 1fr 1fr;
+            gap: 25px; /* 창과 창 사이의 간격 */
+            
+            width: 100%;
+            max-width: 1000px; /* 대시보드의 최대 너비 설정 */
+        }
+
+        /* 4. 개별 대시보드 창(아이템) 스타일 */
+        .dashboard-item {
+            background-color: white;
+            border-radius: 10px; /* 모서리를 둥글게 */
+            padding: 20px;
+            /* 그림자 효과로 입체감 부여 */
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            min-height: 250px; /* 창의 최소 높이 */
+
+            /* 내용물(텍스트 등)을 보기 좋게 정렬 */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        /* 마우스를 올렸을 때 살짝 떠오르는 효과 */
+        .dashboard-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+        }
+
+        /* 창 내부의 제목 스타일 */
+        .dashboard-item h3 {
+            margin-top: 0;
+            color: #333;
+        }
+
+        /* 창 내부의 설명 텍스트 스타일 */
+        .dashboard-item p {
+            color: #666;
+            text-align: center;
+        }
+
+        /* 5. 모바일 화면 대응 (화면 너비 768px 이하) */
+        @media (max-width: 768px) {
+            .dashboard-grid {
+                /* 2열이 아닌 1열로 변경 (창이 세로로 쌓임) */
+                grid-template-columns: 1fr;
+            }
+
+            .dashboard-wrapper {
+                /* 모바일에서는 세로 중앙 정렬 대신 위에서부터 보여줌 */
+                align-items: flex-start;
+                padding: 15px;
+            }
+
+            .dashboard-item {
+                min-height: 200px; /* 모바일에서 높이 살짝 줄임 */
+            }
+        }
