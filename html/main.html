@@ -1,35 +1,25 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>웹툰 분석 및 추천</title>
 
-    <style>
-        @import url(../CSS/common.css);
-        @import url(../CSS/main.css);
-        @import url(../CSS/sub.css);
-
-        
-    </style>
-
+    <!-- 통합된 CSS -->
+    <link rel="stylesheet" href="../CSS/style.css" />
 </head>
 <body>
-    
+
+    <!-- 🎬 배경 비디오 -->
     <video autoplay loop muted playsinline id="bgVideo">
-        <source src="./video/갓오하.mp4" type="video/mp4">
-        Your browser does not support the video tag.
+        <source src="video/godofhighschool.mp4" type="video/mp4" />
+        브라우저가 비디오 태그를 지원하지 않습니다.
     </video>
 
-    
+    <!-- 📘 콘텐츠 -->
     <div class="main-container">
-        
         <div class="video-overlay"></div>
-        
-        <a href="dashboard.html" class="cta-button">
-            웹툰 분석 및 추천
-        </a>
-
+        <a href="dashboard.html" class="cta-button">웹툰 분석 및 추천</a>
     </div>
 
 </body>
