@@ -1,76 +1,103 @@
-/* 2. 대시보드 그리드를 감싸고 중앙 정렬하는 래퍼(Wrapper) */
-        .dashboard-wrapper {
-            display: flex;
-            justify-content: center; /* 가로 중앙 정렬 */
-            align-items: center;     /* 세로 중앙 정렬 */
-            min-height: 100vh;       /* 최소 높이를 화면 전체로 설정 */
-            padding: 20px;           /* 화면 가장자리와 약간의 여백 */
-            box-sizing: border-box;  /* 패딩이 크기에 포함되도록 설정 */
-        }
+/* 카드 공통 스타일 (상단 요약, 차트, 랭킹) */
+.card,
+.chart-container,
+#ranking {
+    background-color: #FFFFFF;
+    border-radius: 12px; /* 더 둥글게 */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); /* 부드러운 그림자 */
+    padding: 1.5rem;
+}
 
-        /* 3. 4개의 창을 2x2 그리드로 배치 */
-        .dashboard-grid {
-            display: grid;
-            /* 2개의 열(column)을 1:1 비율로 만듭니다 */
-            grid-template-columns: 1fr 1fr; 
-            /* 2개의 행(row)을 만듭니다 */
-            grid-template-rows: 1fr 1fr;
-            gap: 25px; /* 창과 창 사이의 간격 */
-            
-            width: 100%;
-            max-width: 1000px; /* 대시보드의 최대 너비 설정 */
-        }
+/* 상단 요약 카드 내부 텍스트 */
+.card {
+    text-align: center;
+}
 
-        /* 4. 개별 대시보드 창(아이템) 스타일 */
-        .dashboard-item {
-            background-color: white;
-            border-radius: 10px; /* 모서리를 둥글게 */
-            padding: 20px;
-            /* 그림자 효과로 입체감 부여 */
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-            min-height: 250px; /* 창의 최소 높이 */
+.card-title {
+    font-size: 0.9rem;
+    color: #718096;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
 
-            /* 내용물(텍스트 등)을 보기 좋게 정렬 */
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
+.card-value {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #1A202C;
+}
 
-        /* 마우스를 올렸을 때 살짝 떠오르는 효과 */
-        .dashboard-item:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
-        }
+/* 차트 섹션 */
+#charts {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
 
-        /* 창 내부의 제목 스타일 */
-        .dashboard-item h3 {
-            margin-top: 0;
-            color: #333;
-        }
+/* 각 컴포넌트 제목 (h3) */
+h3 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #2D3748;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+}
 
-        /* 창 내부의 설명 텍스트 스타일 */
-        .dashboard-item p {
-            color: #666;
-            text-align: center;
-        }
+/* 랭킹 리스트 */
+#ranking ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
 
-        /* 5. 모바일 화면 대응 (화면 너비 768px 이하) */
-        @media (max-width: 768px) {
-            .dashboard-grid {
-                /* 2열이 아닌 1열로 변경 (창이 세로로 쌓임) */
-                grid-template-columns: 1fr;
-            }
+#ranking li {
+    padding: 0.7rem 0.2rem;
+    border-bottom: 1px solid #EDF2F7;
+    font-size: 0.9rem;
+    color: #4A5568;
+    display: flex;
+    align-items: center;
+}
 
-            .dashboard-wrapper {
-                /* 모바일에서는 세로 중앙 정렬 대신 위에서부터 보여줌 */
-                align-items: flex-start;
-                padding: 15px;
-            }
+#ranking li:last-child {
+    border-bottom: none;
+}
 
-            .dashboard-item {
-                min-height: 200px; /* 모바일에서 높이 살짝 줄임 */
-            }
-        }
+.rank-num {
+    font-weight: 700;
+    color: #4299E1; /* 포인트 색상 */
+    margin-right: 1rem;
+    width: 20px;
+    text-align: right;
+}
+
+/* 필터 컨트롤 (select, checkbox) */
+select,
+input[type="checkbox"] {
+    background-color: #2D3748;
+    color: #E2E8F0;
+    border-radius: 8px;
+    border: 1px solid #4A5568;
+    padding: 0.6rem 0.8rem;
+    width: 100%;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+
+select:focus {
+    outline: none;
+    border-color: #4299E1; /* 포커스 시 포인트 색상 */
+}
+
+/* 커스텀 체크박스 스타일 */
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    margin-top: 0.5rem;
+}
+
+input[type="checkbox"] {
+    width: 1.2em;
+    height: 1.2em;
+    accent-color: #4299E1;
+}
