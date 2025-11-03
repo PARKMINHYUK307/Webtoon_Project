@@ -10347,7 +10347,7 @@ const webtoonsData = {
       "completed": true,
       "age": "",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=786908",
+      "link": "https://series.naver.com/comic/detail.series?productNo=4860153",
       "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
     },
     {
@@ -29202,7 +29202,7 @@ const webtoonsData = {
       "completed": true,
       "age": "",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=745207",
+      "link": "https://series.naver.com/comic/detail.series?productNo=5039934",
       "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
     },
     {
@@ -31332,7 +31332,7 @@ const webtoonsData = {
       "completed": true,
       "age": "",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=791116",
+      "link": "https://series.naver.com/comic/detail.series?productNo=5899688",
       "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
     },
     {
