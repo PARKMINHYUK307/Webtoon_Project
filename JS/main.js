@@ -12,6 +12,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const rankingListEl = document.getElementById('rankingList');
     const ctxGenre = document.getElementById('genreChart');
     const ctxRating = document.getElementById('ratingChart');
+    const searchInput = document.getElementById('searchInput');
+    const webtoonList = document.getElementById('webtoonList');
+    
 
     let genreChartInstance, ratingChartInstance;
 
@@ -41,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 3. 필터 옵션 채우기
     function fillOptions() {
-        const genres = getAllGenres(webtoons);
+        const genres = getAllGenres(webtoonsData.webtoons);
         genres.forEach(g => {
             const opt = document.createElement('option');
             opt.value = g;
@@ -49,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
             genreSelect.appendChild(opt);
         });
 
-        const ages = getAllAges(webtoons);
+        const ages = getAllAges(webtoonsData.webtoons);
         ages.forEach(a => {
             const opt = document.createElement('option');
             opt.value = a;
@@ -183,6 +186,37 @@ document.addEventListener('DOMContentLoaded', () => {
             rankingListEl.innerHTML = '<li>데이터 없음</li>';
         }
     }
+
+        // 웹툰 카드 렌더링 함수
+    function renderWebtoons(list) {
+    webtoonList.innerHTML = ""; // 기존 목록 초기화
+    list.forEach(w => {
+        const div = document.createElement('div');
+        div.className = 'webtoon-card';
+        div.innerHTML = `
+        <img src="${w.thumbnail}" alt="${w.title}" width="100">
+        <h3>${w.title}</h3>
+        <p>작가: ${w.author}</p>
+        <p>평점: ${w.rating}</p>
+        <a href="${w.link}" target="_blank">보기</a>
+        `;
+        webtoonList.appendChild(div);
+    });
+    }
+
+    // 초기 전체 목록 렌더링
+    renderWebtoons(webtoons);
+
+    // 검색 이벤트
+    searchInput.addEventListener('input', () => {
+    const keyword = searchInput.value.toLowerCase();
+    const filtered = webtoons.filter(w => 
+        w.title.toLowerCase().includes(keyword) || 
+        w.author.toLowerCase().includes(keyword)
+    );
+    renderWebtoons(filtered);
+    });
+
 
     // 9. 모든 UI 렌더링을 통합하는 함수
     function renderAll() {

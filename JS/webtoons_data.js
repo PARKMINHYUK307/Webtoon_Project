@@ -12,7 +12,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=756056"
+      "link": "https://comic.naver.com/webtoon/list?titleId=756056",
+      "img" : "https://image-comic.pstatic.net/webtoon/758037/thumbnail/thumbnail_IMAG21_bbe528c8-7b30-4ea9-b06f-22122ce7d180.jpg"
     },
     {
       "id": 670144,
@@ -7209,6 +7210,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=783862"
+      
     },
     {
       "id": 794671,

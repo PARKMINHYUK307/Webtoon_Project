@@ -9,7 +9,8 @@ function normalizeData(webtoons) {
         completed: (typeof w.completed === 'boolean') ? w.completed : false,
         age: w.age || '정보없음',
         free: (typeof w.free === 'boolean') ? w.free : false,
-        link: w.link || '#'
+        link: w.link || '#',
+        
     }));
 }
 
