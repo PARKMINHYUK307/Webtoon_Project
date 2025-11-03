@@ -7,6 +7,7 @@ body {
     font-family: 'Noto Sans KR', sans-serif;
     background-color: #F8F9FA; /* 부드러운 배경색 */
     color: #2D3748; /* 기본 텍스트 색상 */
+    overflow:hidden;
 }
 
 /* 헤더 스타일 */

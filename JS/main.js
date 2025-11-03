@@ -54,18 +54,18 @@ function filterWebtoons() {
 
 function updateSummary(filtered) {
     if (filtered.length === 0) {
-        document.getElementById('avg-rating').innerHTML = '평균 별점<br>--';
-        document.getElementById('completion-rate').innerHTML = '완결 비율<br>--';
-        document.getElementById('free-rate').innerHTML = '무료 비율<br>--';
+        document.getElementById('avg-rating').innerHTML = '--';
+        document.getElementById('completion-rate').innerHTML = '--';
+        document.getElementById('free-rate').innerHTML = '--';
         return;
     }
     const avgRating = (filtered.reduce((acc, v) => acc + v.rating, 0) / filtered.length).toFixed(2);
     const completionRatio = (filtered.filter(w => w.completed).length / filtered.length * 100).toFixed(1) + '%';
     const freeRatio = (filtered.filter(w => w.free).length / filtered.length * 100).toFixed(1) + '%';
 
-    document.getElementById('avg-rating').innerHTML = `평균 별점<br>${avgRating}`;
-    document.getElementById('completion-rate').innerHTML = `완결 비율<br>${completionRatio}`;
-    document.getElementById('free-rate').innerHTML = `무료 비율<br>${freeRatio}`;
+    document.getElementById('avg-rating').innerHTML = `${avgRating}`;
+    document.getElementById('completion-rate').innerHTML = `${completionRatio}`;
+    document.getElementById('free-rate').innerHTML = `${freeRatio}`;
 }
 
 function updateCharts(filtered) {

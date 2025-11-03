@@ -64,9 +64,9 @@ function updateDashboardSummary(filtered) {
     const completedRatio = filtered.length ? (filtered.filter(w => w.completed).length / filtered.length * 100).toFixed(1) + "%" : "--";
     const freeRatio = filtered.length ? (filtered.filter(w => w.free).length / filtered.length * 100).toFixed(1) + "%" : "--";
 
-    document.getElementById('avg-rating').innerHTML = `평균 별점<br>${avgRating}`;
-    document.getElementById('completion-rate').innerHTML = `완결 비율<br>${completedRatio}`;
-    document.getElementById('free-rate').innerHTML = `무료 비율<br>${freeRatio}`;
+    document.getElementById('avg-rating').innerHTML = `${avgRating}`;
+    document.getElementById('completion-rate').innerHTML = `${completedRatio}`;
+    document.getElementById('free-rate').innerHTML = `${freeRatio}`;
 }
 
 let dashboardGenreChart, dashboardRatingChart;
