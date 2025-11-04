@@ -60,6 +60,34 @@ function updateDashboardSummary(filtered) {
     document.getElementById('completion-rate').innerHTML = `${completedRatio}`;
     document.getElementById('free-rate').innerHTML = `${freeRatio}`;
 }
+// ============================
+// ✅ [추가 코드 시작] — 숫자 표시 플러그인
+// ============================
+Chart.register({
+    id: 'valueLabelPlugin',
+    afterDatasetsDraw(chart) {
+        const { ctx } = chart;
+        chart.data.datasets.forEach((dataset, i) => {
+            const meta = chart.getDatasetMeta(i);
+            if (!meta.hidden) {
+                meta.data.forEach((element, index) => {
+                    const value = dataset.data[index];
+                    if (value > 0) {
+                        ctx.fillStyle = '#333';
+                        ctx.font = 'bold 12px Noto Sans KR';
+                        ctx.textAlign = 'center';
+                        ctx.textBaseline = 'bottom';
+                        const position = element.tooltipPosition();
+                        ctx.fillText(value, position.x, position.y - 10); // 👈 숫자 위치 조정
+                    }
+                });
+            }
+        });
+    }
+});
+// ============================
+// ✅ [추가 코드 끝]
+// ============================
 
 
 let dashboardGenreChart, dashboardRatingChart;
