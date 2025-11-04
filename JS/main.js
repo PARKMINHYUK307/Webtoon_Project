@@ -98,8 +98,7 @@ document.addEventListener('DOMContentLoaded', () => {
             card.className = 'webtoon-card';
             card.innerHTML = `
                 <a href="${w.link || '#'}" target="_blank">
-                    <<img src="${w.img || 'https://dummyimage.com/100x100/cccccc/ffffff&text=No+Image'}" alt="${w.title}">
-                    alt="${w.title}" onerror="this.src='https://via.placeholder.com/150x150?text=No+Image'">
+                    <img src="${w.img}" alt="${w.title}" onerror="this.src='https://via.placeholder.com/150x150?text=No+Image'">
                     <div class="webtoon-info">
                         <h4 class="webtoon-title">${w.title}</h4>
                         <p class="webtoon-author">${w.author}</p>
