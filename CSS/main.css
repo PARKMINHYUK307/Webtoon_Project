@@ -1,36 +1,35 @@
-/* Google Fonts에서 Noto Sans KR 폰트 가져오기 */
+/* Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap');
 
-/* 전체적인 레이아웃 및 기본 스타일 */
+/* ====== 기본 설정 ====== */
 body {
     margin: 0;
     font-family: 'Noto Sans KR', sans-serif;
-    background-color: #F8F9FA; /* 부드러운 배경색 */
-    color: #2D3748; /* 기본 텍스트 색상 */
-    overflow:hidden;
+    background-color: #F8F9FA;
+    color: #2D3748;
+    overflow: hidden;
 }
 
-/* 헤더 스타일 */
+/* ====== 헤더 ====== */
 header {
     background-color: #FFFFFF;
     color: #1A202C;
     padding: 1rem 2rem;
     font-size: 1.5rem;
     font-weight: 700;
-    border-bottom: 1px solid #E2E8F0; /* 깔끔한 하단 테두리 */
+    border-bottom: 1px solid #E2E8F0;
 }
 
-/* 메인 컨테이너 (사이드바 + 콘텐츠) */
+/* ====== 전체 컨테이너 ====== */
 #container {
     display: flex;
     height: calc(100vh - 65px);
 }
 
-/* 사이드바 필터 영역 */
+/* ====== 사이드바 ====== */
 #sidebar {
     width: 280px;
-    min-width: 240px;
-    background-color: #1A202C; /* 차분한 다크 네이비 */
+    background-color: #1A202C;
     color: #E2E8F0;
     padding: 2rem 1.5rem;
     display: flex;
@@ -52,7 +51,7 @@ header {
     font-weight: 500;
 }
 
-/* 메인 콘텐츠 영역 */
+/* ====== 메인 콘텐츠 ====== */
 #main-content {
     flex-grow: 1;
     padding: 2.5rem;
@@ -62,179 +61,162 @@ header {
     gap: 2rem;
 }
 
-/* 상단 요약 카드 섹션 */
+/* ====== 요약 카드 ====== */
 #summary-cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 1.5rem;
 }
 
-/* main.css 또는 sub.css 끝에 추가 */
-#results {
-    display: none;           /* 기본 숨김 */
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 80%;
-    max-height: 70%;
-    overflow-y: auto;
-    background-color: rgba(255, 255, 255, 0.95);
-    box-shadow: 0 0 15px rgba(0,0,0,0.3);
-    border-radius: 10px;
-    padding: 20px;
-    z-index: 999;
-}
-
-.search-card {
-    display: flex;
-    align-items: center;
-    padding: 10px;
-    margin-bottom: 10px;
-    border-bottom: 1px solid #ddd;
-    transition: background-color 0.2s;
-}
-
-.search-card:hover {
-    background-color: #f5f5f5;
-}
-
-.search-card img {
-    width: 80px;
-    height: 80px;
-    object-fit: cover;
-    border-radius: 5px;
-    margin-right: 15px;
-}
-
-.search-card .info h4 {
-    margin: 0;
-    font-size: 1.1rem;
-    color: #333;
-}
-
-.search-card .info p {
-    margin: 5px 0 0 0;
-    font-size: 0.9rem;
-    color: #666;
-}
-
-/* 모달 외부 클릭 시 숨기기 */
-body.active-modal #results {
-    display: block;
-}
-
-/* 스크롤바 스타일 (선택) */
-#results::-webkit-scrollbar {
-    width: 8px;
-}
-
-#results::-webkit-scrollbar-thumb {
-    background-color: rgba(0,0,0,0.2);
-    border-radius: 4px;
-}
-
-#results::-webkit-scrollbar-track {
-    background-color: rgba(0,0,0,0.05);
-}
-
-#resultsContainer {
-  display: none;
-  padding: 20px;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 16px;
-}
-
-.search-card {
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  padding: 8px;
-  text-align: center;
-  background: #fff;
-  transition: transform 0.2s;
-}
-.search-card:hover {
-  transform: scale(1.03);
-}
-
-/* 🔍 검색창 스타일 */
-.search-box {
-  text-align: center;
-  margin: 30px 0;
-}
-
-.search-box input {
-  width: 50%;
-  padding: 10px;
-  border-radius: 8px;
-  border: 1px solid #ccc;
-  font-size: 1rem;
-}
-
-/* 🔍 모달 전체 영역 */
+/* ====== 모달 ====== */
 .modal {
-  display: none; /* 기본적으로 숨김 */
-  position: fixed;
-  z-index: 1000;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.4); /* 반투명 배경 */
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
-/* 🔍 모달 내용 박스 */
+/* 모달 내부 */
 .modal-content {
-  position: relative;
-  background-color: #fff;
-  margin: 10% auto; /* 화면 상단에서 10% 떨어져서 중앙 정렬 */
-  padding: 20px;
-  border-radius: 12px;
-  width: 70%;
-  max-height: 60vh; /* 화면 절반 정도만 차지 */
-  overflow-y: auto;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    position: relative;
+    background-color: #fff;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 12px;
+    width: 80%;
+    max-width: 1000px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
 }
 
 /* 닫기 버튼 */
 .close {
-  position: absolute;
-  right: 15px;
-  top: 10px;
-  font-size: 28px;
-  font-weight: bold;
-  color: #333;
-  cursor: pointer;
+    position: absolute;
+    right: 15px;
+    top: 10px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
 }
-
 .close:hover {
-  color: #ff5555;
+    color: #ff5555;
 }
 
-/* 검색 결과 카드 */
-.search-card {
+/* ====== 모달 내부 배치 ====== */
+.modal-body {
+    display: flex;
+    gap: 20px;
+    height: 500px;
+}
+
+/* 왼쪽 검색결과 리스트 */
+#resultsContainer {
+    flex: 1;
+    border-right: 1px solid #ddd;
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
+/* 리스트 항목 */
+#resultsContainer .webtoon-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+    transition: background 0.2s;
+}
+#resultsContainer .webtoon-item:hover {
+    background-color: #f4f4f4;
+}
+#resultsContainer .webtoon-item img {
+    width: 60px;
+    height: 60px;
+    border-radius: 6px;
+    object-fit: cover;
+}
+
+/* 오른쪽 상세보기 영역 */
+#webtoonDetail {
+    flex: 1.5;
+    padding: 10px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.hidden {
+    display: none;
+}
+
+/* 상세보기 내부 */
+.modal-detail-view {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+}
+
+/* 웹툰 보러가기 링크 중앙 정렬 */
+.modal-left {
   display: flex;
-  align-items: center;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 10px;
-  margin: 10px 0;
-  transition: background 0.2s;
+  flex-direction: column;
+  align-items: center; /* 중앙 정렬 */
+  font-size: 25px;
+  font-style: bold;
+  justify-content: flex-start;
 }
 
-.search-card:hover {
-  background: #f0f0f0;
+
+/* 왼쪽 썸네일 */
+.modal-left img {
+    width: 100%;
+    max-width: 250px;
+    border-radius: 10px;
+    object-fit: cover;
 }
 
-.search-card img {
-  width: 70px;
-  height: 70px;
-  border-radius: 8px;
-  margin-right: 10px;
+/* 오른쪽 텍스트 */
+.modal-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.modal-right h2 {
+    font-size: 1.4rem;
+    margin-bottom: 10px;
+}
+.modal-right p {
+    margin-bottom: 8px;
+    line-height: 1.6;
 }
 
-.search-card .info h4 {
-  margin: 0;
-  font-size: 1.1rem;
+/* ====== 스크롤바 ====== */
+.modal-content::-webkit-scrollbar {
+    width: 8px;
+}
+.modal-content::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+.modal-content::-webkit-scrollbar-track {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* ====== 반응형 ====== */
+@media (max-width: 800px) {
+    .modal-body {
+        flex-direction: column;
+    }
+    #resultsContainer {
+        border-right: none;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 10px;
+    }
 }

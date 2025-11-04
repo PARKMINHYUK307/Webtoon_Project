@@ -14,27 +14,22 @@
 <body>
     <header>
         <!-- 헤더 내용 -->
-        네이버 웹툰 데이터 분석 대시보드
+        네이버 웹툰 데이터 분석
     </header>
     
-            <!--  검색 입력창 (그대로 유지 가능) -->
-    <div class="search-box">
-    <h1>웹툰 검색</h1>
-    <input type="text" id="searchInput" placeholder="웹툰 제목 또는 작가를 입력하세요">
-    </div>
-
-    <!--  모달로 표시될 검색 결과 -->
-    <div id="resultsModal" class="modal">
-    <div class="modal-content">
-        <span id="closeModal" class="close">&times;</span>
-        <h2>검색 결과</h2>
-        <div id="resultsContainer"></div>
-    </div>
-    </div>
-
     <div id="container">
-        <!-- 사이드바 필터 -->
+        <!-- 🔹 사이드바: 검색 + 필터 통합 -->
         <aside id="sidebar">
+            <section>
+                <h2>웹툰 검색</h2>
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    placeholder="웹툰 제목 또는 작가를 입력하세요"
+                    style="width: 100%; padding: 8px; border-radius: 6px; border: none; margin-bottom: 10px;"
+                >
+            </section>
+
             <section>
                 <h2>웹툰 필터</h2>
                 <div>
@@ -53,6 +48,11 @@
                     <input type="checkbox" id="completed">
                     <label for="completed">완결만 보기</label>
                 </div>
+                <div class="checkbox-container">
+                    <input type="checkbox" id="incomplete">
+                    <label for="incomplete">연재중만 보기</label>
+                </div>
+
             </section>
         </aside>
 
@@ -73,25 +73,26 @@
                     <div id="free-rate" class="card-value">--</div>
                 </div>
             </section>
+ 
 
-            <!-- 웹툰 목록이 표시될 컨테이너 -->
-            <section id="webtoon-list-section">
-                <h3>웹툰 목록</h3>
-                <div id="webtoon-container">
-                    <!-- 자바스크립트로 웹툰 카드가 여기에 추가됩니다. -->
-                </div>
-            </section>
 
             <!-- 2. 차트 -->
-            <section id="charts">
-                <div class="chart-container">
-                    <h3>장르별 웹툰 수</h3>
-                    <canvas id="genreChart"></canvas>
+           <section id="charts">
+            <div class="chart-container">
+                <h3>장르별 평점 통계</h3>
+                <!--  체크박스 추가 -->
+                <div class="chart-controls">
+                <label><input type="checkbox" id="avgRatingToggle" checked> 평균 평점</label>
+                <label><input type="checkbox" id="minRatingToggle"> 최소 평점</label>
+                <label><input type="checkbox" id="maxRatingToggle"> 최대 평점</label>
                 </div>
-                <div class="chart-container">
-                    <h3>평점별 분포</h3>
-                    <canvas id="ratingChart"></canvas>
-                </div>
+                <canvas id="genreChart"></canvas>
+            </div>
+
+            <div class="chart-container">
+                <h3>평점별 분포</h3>
+                <canvas id="ratingChart"></canvas>
+            </div>
             </section>
 
             <!-- 4. 랭킹 -->
@@ -99,6 +100,38 @@
                 <h3>TOP 10</h3>
                 <ul id="rankingList"></ul>
             </section>
+                
+        <div id="resultsModal" class="modal">
+        <div class="modal-content">
+            <span id="closeModal" class="close">&times;</span>
+            <h2>검색 결과</h2>
+
+            <!-- 가로로 나란히 배치될 영역 -->
+            <div class="modal-body">
+            <!-- 🔹 왼쪽: 검색 결과 리스트 -->
+            <div id="resultsContainer"></div>
+
+            <!-- 🔹 오른쪽: 상세보기 -->
+            <div id="webtoonDetail" class="webtoon-detail hidden">
+                <div class="modal-detail-view">
+                <!-- 좌측 이미지 -->
+                <div class="modal-left">
+                    <img id="detailThumbnail" src="" alt="" />
+                </div>
+                <!-- 우측 상세정보 -->
+                <div class="modal-right">
+                    <h2 id="detailTitle"></h2>
+                    <p id="detailAuthor"></p>
+                    <p id="detailGenre"></p>
+                    <p id="detailDescription"></p>
+                </div>
+                </div>
+            </div>
+            </div>
+        </div>
+        </div>
+
+
         </main>
     </div>
 
