@@ -14,11 +14,23 @@
 <body>
     <header>
         <!-- 헤더 내용 -->
+         네이버 웹툰 데이터 분석
     </header>
+    
+            <!--  검색 입력창 (그대로 유지 가능) -->
+    <div class="search-box">
+    <h1>웹툰 검색</h1>
+    <input type="text" id="searchInput" placeholder="웹툰 제목 또는 작가를 입력하세요">
+    </div>
 
-    <input type="text" id="searchInput" placeholder="웹툰 제목 또는 작가 검색">
-    <div id="webtoonList"></div>
-
+    <!--  모달로 표시될 검색 결과 -->
+    <div id="resultsModal" class="modal">
+    <div class="modal-content">
+        <span id="closeModal" class="close">&times;</span>
+        <h2>검색 결과</h2>
+        <div id="resultsContainer"></div>
+    </div>
+    </div>
 
     <div id="container">
         <!-- 사이드바 필터 -->
@@ -89,6 +101,8 @@
             </section>
         </main>
     </div>
+
+  
 
     <!-- JavaScript -->
     <script src="./js/webtoons_data.js"></script> <!-- 대용량 데이터 -->

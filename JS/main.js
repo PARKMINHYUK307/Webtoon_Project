@@ -12,9 +12,18 @@ document.addEventListener('DOMContentLoaded', () => {
     const rankingListEl = document.getElementById('rankingList');
     const ctxGenre = document.getElementById('genreChart');
     const ctxRating = document.getElementById('ratingChart');
-    const searchInput = document.getElementById('searchInput');
-    const webtoonList = document.getElementById('webtoonList');
-    
+    const searchInput = document.getElementById("searchInput");
+    const resultsContainer = document.getElementById('resultsContainer');
+    const modal = document.getElementById("resultsModal");
+    const closeModal = document.getElementById("closeModal");
+
+    console.log(
+  document.getElementById("searchInput"),
+  document.getElementById("resultsModal"),
+  document.getElementById("closeModal"),
+  document.getElementById("resultsContainer")
+);
+
 
     let genreChartInstance, ratingChartInstance;
 
@@ -67,7 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const ageFilter = ageSelect.value;
         const completedOnly = completedCheckbox.checked;
 
-        return webtoons.filter(w => {
+        return webtoonsData.webtoons.filter(w => {
             const checkGenre = genreFilter === 'all' || (w.genre && w.genre.includes(genreFilter));
             const checkAge = ageFilter === 'all' || w.age === ageFilter;
             const checkComplete = !completedOnly || w.completed;
@@ -89,7 +98,8 @@ document.addEventListener('DOMContentLoaded', () => {
             card.className = 'webtoon-card';
             card.innerHTML = `
                 <a href="${w.link || '#'}" target="_blank">
-                    <img src="${w.thumbnail}" alt="${w.title}" onerror="this.src='https://via.placeholder.com/150x150?text=No+Image'">
+                    <<img src="${w.img || 'https://dummyimage.com/100x100/cccccc/ffffff&text=No+Image'}" alt="${w.title}">
+                    alt="${w.title}" onerror="this.src='https://via.placeholder.com/150x150?text=No+Image'">
                     <div class="webtoon-info">
                         <h4 class="webtoon-title">${w.title}</h4>
                         <p class="webtoon-author">${w.author}</p>
@@ -187,37 +197,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-        // 웹툰 카드 렌더링 함수
-    function renderWebtoons(list) {
-    webtoonList.innerHTML = ""; // 기존 목록 초기화
-    list.forEach(w => {
-        const div = document.createElement('div');
-        div.className = 'webtoon-card';
-        div.innerHTML = `
-        <img src="${w.thumbnail}" alt="${w.title}" width="100">
-        <h3>${w.title}</h3>
-        <p>작가: ${w.author}</p>
-        <p>평점: ${w.rating}</p>
-        <a href="${w.link}" target="_blank">보기</a>
-        `;
-        webtoonList.appendChild(div);
-    });
-    }
-
-    // 초기 전체 목록 렌더링
-    renderWebtoons(webtoons);
-
-    // 검색 이벤트
-    searchInput.addEventListener('input', () => {
-    const keyword = searchInput.value.toLowerCase();
-    const filtered = webtoons.filter(w => 
-        w.title.toLowerCase().includes(keyword) || 
-        w.author.toLowerCase().includes(keyword)
-    );
-    renderWebtoons(filtered);
-    });
-
-
     // 9. 모든 UI 렌더링을 통합하는 함수
     function renderAll() {
         const filtered = filterWebtoons();
@@ -227,11 +206,61 @@ document.addEventListener('DOMContentLoaded', () => {
         updateRanking(filtered);
     }
 
+    searchInput.addEventListener('input', () => {
+    const keyword = searchInput.value.trim().toLowerCase();
+
+    // 검색어가 없으면 모달 닫기
+    if (!keyword) {
+        modal.style.display = 'none';
+        resultsContainer.innerHTML = '';
+        return;
+    }
+
+    // 검색 결과 필터링
+    const filtered = webtoonsData.webtoons.filter(w =>
+        w.title.toLowerCase().includes(keyword) ||
+        w.author.toLowerCase().includes(keyword)
+    );
+
+    // 모달 열기
+    modal.style.display = 'block';
+    resultsContainer.innerHTML = '';
+
+    if (filtered.length === 0) {
+        resultsContainer.innerHTML = '<p>검색 결과가 없습니다.</p>';
+        return;
+    }
+
+    filtered.forEach(w => {
+        const card = document.createElement('div');
+        card.className = 'search-card';
+        card.innerHTML = `
+        <img src="${w.img || 'https://via.placeholder.com/150'}" alt="${w.title}">
+        <div class="info">
+            <h4>${w.title}</h4>
+            <p>${w.author}</p>
+        </div>
+        `;
+        resultsContainer.appendChild(card);
+    });
+    });
+
+    // 닫기 버튼
+    closeModal.addEventListener('click', () => {
+    modal.style.display = 'none';
+    searchInput.value = '';
+    });
+
+    // 모달 밖 클릭 시 닫기
+    window.addEventListener('click', (e) => {
+    if (e.target === modal) {
+        modal.style.display = 'none';
+        searchInput.value = '';
+    }
+});
+
     // --- 초기화 및 이벤트 리스너 설정 ---
     fillOptions();
-    renderAll();
 
-    genreSelect.addEventListener('change', renderAll);
-    ageSelect.addEventListener('change', renderAll);
-    completedCheckbox.addEventListener('change', renderAll);
+    
 });
