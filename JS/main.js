@@ -263,3 +263,33 @@ document.addEventListener('DOMContentLoaded', () => {
 
     
 });
+/* ========================== */
+/* 👇 [추가 코드 시작] 작은 수 데이터 표시용 플러그인 👇 */
+/* ========================== */
+Chart.register({
+    id: 'valueLabelPlugin',
+    afterDatasetsDraw(chart) {
+        const { ctx } = chart;
+        chart.data.datasets.forEach((dataset, i) => {
+            const meta = chart.getDatasetMeta(i);
+            if (!meta.hidden) {
+                meta.data.forEach((element, index) => {
+                    const value = dataset.data[index];
+                    if (value > 0) { // 0 이상인 경우만 표시
+                        ctx.fillStyle = '#333';
+                        ctx.font = 'bold 12px Noto Sans KR';
+                        ctx.textAlign = 'center';
+                        ctx.textBaseline = 'bottom';
+                        const position = element.tooltipPosition();
+                        ctx.fillText(value, position.x, position.y - 5);
+                    }
+                });
+            }
+        });
+    }
+});
+/* ========================== */
+/* 👆 [추가 코드 끝] 👆 */
+/* ========================== */
+
+
