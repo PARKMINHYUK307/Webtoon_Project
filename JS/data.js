@@ -60,9 +60,7 @@ function updateDashboardSummary(filtered) {
     document.getElementById('completion-rate').innerHTML = `${completedRatio}`;
     document.getElementById('free-rate').innerHTML = `${freeRatio}`;
 }
-// ============================
-// ✅ [추가 코드 시작] — 숫자 표시 플러그인
-// ============================
+//  차트 숫자 위치조정
 Chart.register({
     id: 'valueLabelPlugin',
     afterDatasetsDraw(chart) {
@@ -85,17 +83,14 @@ Chart.register({
         });
     }
 });
-// ============================
-// ✅ [추가 코드 끝]
-// ============================
 
 
 let dashboardGenreChart, dashboardRatingChart;
 
-//트 업데이트
-function updateDashboardCharts(filtered) {
-  const ctxGenre = document.getElementById('genreChart');
-  const ctxRating = document.getElementById('ratingChart');
+// 차트 업데이트
+// function updateDashboardCharts(filtered) {
+//   const ctxGenre = document.getElementById('genreChart');
+//   const ctxRating = document.getElementById('ratingChart');
 
   // 디버깅 로그
   console.log("ctxGenre:", ctxGenre, "ctxRating:", ctxRating);
@@ -150,40 +145,39 @@ function updateDashboardCharts(filtered) {
     buckets[idx]++;
   });
 
-  if (window.dashboardRatingChart) window.dashboardRatingChart.destroy();
-  window.dashboardRatingChart = new Chart(ratingCtx, {
-    type: 'bar',
-    data: {
-      labels: Array.from({ length: 10 }, (_, i) => `${i + 1}`),
-      datasets: [{ label: '평점 분포', data: buckets, backgroundColor: '#118ab2' }]
-    },
-    options: {
-      responsive: true,
-      plugins: { legend: { display: false } },
-      scales: { y: { beginAtZero: true } }
-    }
+//   if (window.dashboardRatingChart) window.dashboardRatingChart.destroy();
+//   window.dashboardRatingChart = new Chart(ratingCtx, {
+//     type: 'bar',
+//     data: {
+//       labels: Array.from({ length: 10 }, (_, i) => `${i + 1}`),
+//       datasets: [{ label: '평점 분포', data: buckets, backgroundColor: '#118ab2' }]
+//     },
+//     options: {
+//       responsive: true,
+//       plugins: { legend: { display: false } },
+//       scales: { y: { beginAtZero: true } }
+//     }
 //   });
 // }
 
-//킹 업데이트
-function updateDashboardRanking(filtered) {
-    const rankingList = document.getElementById('rankingList');
-    rankingList.innerHTML = '';
-    const sorted = filtered.slice().sort((a, b) => b.rating - a.rating).slice(0, 10);
-    if (sorted.length === 0) {
-        const li = document.createElement('li');
-        li.style.color = '#ef476f';
-        li.textContent = '데이터 없음';
-        rankingList.appendChild(li);
-        return;
-    }
-    sorted.forEach((w, i) => {
-        const li = document.createElement('li');
-        li.innerHTML = `<span class="rank-num">${i + 1}</span><a href="${w.link}" target="_blank">${w.title}</a> (${w.rating.toFixed(2)})`;
-        rankingList.appendChild(li);
-    });
-}
-
+// 인기 랭킹 업데이트
+// function updateDashboardRanking(filtered) {
+//     const rankingList = document.getElementById('rankingList');
+//     rankingList.innerHTML = '';
+//     const sorted = filtered.slice().sort((a, b) => b.rating - a.rating).slice(0, 10);
+//     if (sorted.length === 0) {
+//         const li = document.createElement('li');
+//         li.style.color = '#ef476f';
+//         li.textContent = '데이터 없음';
+//         rankingList.appendChild(li);
+//         return;
+//     }
+//     sorted.forEach((w, i) => {
+//         const li = document.createElement('li');
+//         li.innerHTML = `<span class="rank-num">${i + 1}</span><a href="${w.link}" target="_blank">${w.title}</a> (${w.rating.toFixed(2)})`;
+//         rankingList.appendChild(li);
+//     });
+// }
 
 // 전체 렌더링
 function renderDashboardAll() {

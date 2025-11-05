@@ -510,7 +510,6 @@ filterButtons.forEach(btn => {
     // 필터 변경 시 갱신
     genreSelect.addEventListener('change', renderAll);
     ageSelect.addEventListener('change', renderAll);
-    
 });
 
 
