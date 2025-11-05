@@ -38,12 +38,7 @@
                         <option value="all" selected>메인 장르 전체</option>
                     </select>
                 </div>
-                <div>
-                    <label for="genre">서브 장르</label>
-                    <select id="genre">
-                        <option value="all" selected>서브 장르 전체</option>
-                    </select>
-                </div>
+          
                 <div>
                     <label for="age">연령</label>
                     <select id="age">
@@ -57,6 +52,34 @@
                 <div class="checkbox-container">
                     <input type="checkbox" id="incomplete">
                     <label for="incomplete">연재중만 보기</label>
+                </div>
+               <div id="filter-buttons" class="filter-buttons">
+                <!-- 자음 -->
+                <span class="filter-btn" data-type="korean">ㄱ</span>
+                <span class="filter-btn" data-type="korean">ㄴ</span>
+                <span class="filter-btn" data-type="korean">ㄷ</span>
+                <span class="filter-btn" data-type="korean">ㄹ</span>
+                <span class="filter-btn" data-type="korean">ㅁ</span>
+                <span class="filter-btn" data-type="korean">ㅂ</span>
+                <span class="filter-btn" data-type="korean">ㅅ</span>
+                <span class="filter-btn" data-type="korean">ㅇ</span>
+                <span class="filter-btn" data-type="korean">ㅈ</span>
+                <span class="filter-btn" data-type="korean">ㅊ</span>
+                <span class="filter-btn" data-type="korean">ㅋ</span>
+                <span class="filter-btn" data-type="korean">ㅌ</span>
+                <span class="filter-btn" data-type="korean">ㅍ</span>
+                <span class="filter-btn" data-type="korean">ㅎ</span>
+
+                <!-- 숫자 -->
+                <span class="filter-btn" data-type="number">1</span>
+                <span class="filter-btn" data-type="number">2</span>
+                <span class="filter-btn" data-type="number">3</span>
+                <span class="filter-btn" data-type="number">4</span>
+                <span class="filter-btn" data-type="number">5</span>
+                <span class="filter-btn" data-type="number">6</span>
+                <span class="filter-btn" data-type="number">7</span>
+                <span class="filter-btn" data-type="number">8</span>
+                <span class="filter-btn" data-type="number">9</span>
                 </div>
 
             </section>
@@ -147,5 +170,6 @@
     <script src="./js/webtoons_data.js"></script> <!-- 대용량 데이터 -->
     <script src="./js/data.js"></script> <!-- 누락되었던 스크립트 추가 -->
     <script src="./js/main.js"></script> <!-- 메인 로직 -->
+    
 </body>
 </html>

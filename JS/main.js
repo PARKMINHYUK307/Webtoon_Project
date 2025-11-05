@@ -13,8 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const modal = document.getElementById("resultsModal");
     const closeModal = document.getElementById("closeModal");
     const webtoonDetail = document.getElementById('webtoonDetail');
-
-
+    const filterButtons = document.querySelectorAll('.filter-btn');
 
     // --- 데이터 관련 함수 ---
     function getAllGenres(data) {
@@ -279,14 +278,20 @@ function updateCharts(filtered) {
     data: {
       labels: genreLabels,
       datasets: datasets
+
     },
     options: {
       responsive: true,
+      layout: {
+      padding: {
+        top: 10 // ⬅ 그래프 위쪽 여백 확보 (20~40 사이로 조정 가능)
+      }
+    },
       plugins: { legend: { display: true } },
       scales: {
         y: {
           beginAtZero: true,
-          max: (avgToggle || minToggle || maxToggle) ? 10 : undefined
+          max: (avgToggle || minToggle || maxToggle) ? 12 : undefined
         }
       }
     }
@@ -450,6 +455,54 @@ Chart.register({
 });
 
 
+
+  const consonantRanges = {
+    'ㄱ': ['가', '나'],
+    'ㄴ': ['나', '다'],
+    'ㄷ': ['다', '라'],
+    'ㄹ': ['라', '마'],
+    'ㅁ': ['마', '바'],
+    'ㅂ': ['바', '사'],
+    'ㅅ': ['사', '아'],
+    'ㅇ': ['아', '자'],
+    'ㅈ': ['자', '차'],
+    'ㅊ': ['차', '카'],
+    'ㅋ': ['카', '타'],
+    'ㅌ': ['타', '파'],
+    'ㅍ': ['파', '하'],
+    'ㅎ': ['하', '힣']
+  };
+
+// 통합 클릭 핸들러
+filterButtons.forEach(btn => {
+  btn.addEventListener('click', () => {
+    // 모든 버튼 active 해제
+    filterButtons.forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+
+    const type = btn.dataset.type;
+    const value = btn.textContent;
+    let filteredData = [];
+
+    if (type === 'korean') {
+      const range = consonantRanges[value];
+      if (!range) return;
+      const [start, end] = range;
+      filteredData = webtoonsData.webtoons.filter(w => {
+        const first = w.title.charAt(0);
+        return first >= start && first < end;
+      });
+    } else if (type === 'number') {
+      filteredData = webtoonsData.webtoons.filter(w => {
+        return w.title.charAt(0) === value;
+      });
+    } 
+
+    //  모달창에 결과 표시 (기존 검색 UI 재활용)
+    showSearchResults(filteredData);
+  });
+  });
+
     // 초기화
     fillOptions();
     renderAll();
@@ -459,33 +512,12 @@ Chart.register({
     ageSelect.addEventListener('change', renderAll);
     
 });
-/* ========================== */
-/* 👇 [추가 코드 시작] 작은 수 데이터 표시용 플러그인 👇 */
-/* ========================== */
-Chart.register({
-    id: 'valueLabelPlugin',
-    afterDatasetsDraw(chart) {
-        const { ctx } = chart;
-        chart.data.datasets.forEach((dataset, i) => {
-            const meta = chart.getDatasetMeta(i);
-            if (!meta.hidden) {
-                meta.data.forEach((element, index) => {
-                    const value = dataset.data[index];
-                    if (value > 0) { // 0 이상인 경우만 표시
-                        ctx.fillStyle = '#333';
-                        ctx.font = 'bold 12px Noto Sans KR';
-                        ctx.textAlign = 'center';
-                        ctx.textBaseline = 'bottom';
-                        const position = element.tooltipPosition();
-                        ctx.fillText(value, position.x, position.y - 5);
-                    }
-                });
-            }
-        });
-    }
-});
-/* ========================== */
-/* 👆 [추가 코드 끝] 👆 */
-/* ========================== */
+
+
+   
+
+
+
+
 
 

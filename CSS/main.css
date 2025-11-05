@@ -220,3 +220,31 @@ header {
         padding-bottom: 10px;
     }
 }
+
+.filter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.filter-btn {
+  background-color: #2d2d3a;
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 14px;
+  transition: 0.2s;
+}
+
+.filter-btn:hover {
+  background-color: #4e4e63;
+}
+
+.filter-btn.active {
+  background-color: #00aaff;
+  color: #fff;
+}
+
