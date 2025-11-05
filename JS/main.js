@@ -147,7 +147,9 @@ modal.style.display = "block";
       <!-- 왼쪽 썸네일 -->
       <div class="modal-left" >
         <img src="${w.img}" alt="${w.title}"></br></br>
-        <a href="${w.link}" target="_blank" class="webtoon-link">웹툰 보러가기</a>
+        <a href="${w.link}" target="_blank" class="webtoon-link" style="background-color: #03C75A; color: white; font-weight: bold; border: 2px solid #03B159; border-radius: 8px; padding: 6px 12px; text-decoration: none;">
+                        웹툰 보러가기
+                    </a>
       </div>
 
       <!-- 오른쪽 텍스트 -->
@@ -396,7 +398,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         sorted.slice(0, 10).forEach((w, i) => {
             const li = document.createElement('li');
-            li.innerHTML = `<span class="rank-num">${i+1 }</span><a href="${w.link || '#'}" target="_blank">${w.title}</a> <span class="rank-rating">${(w.rating || 0).toFixed(2)}</span>`;
+            li.innerHTML = `<span class="rank-num">${i+1 }</span><a href="${w.link || '#'}" target="_blank">${w.title}</a>&nbsp<span class="rank-rating">(평점 : ${(w.rating || 0).toFixed(2)})</span>`;
             rankingListEl.appendChild(li);
         });
 
