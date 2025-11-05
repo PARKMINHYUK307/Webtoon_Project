@@ -248,3 +248,31 @@ header {
   color: #fff;
 }
 
+/* 🔄 새로고침 버튼 스타일 */
+.refresh-btn {
+  background-color: #2d3436;
+  color: #00b894;
+  border: 1px solid #555;
+  border-radius: 6px;
+  padding: 4px 8px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-left: 8px; /* 제목과 간격 */
+  vertical-align: middle;
+  transition: all 0.2s ease;
+}
+
+.refresh-btn:hover {
+  background-color: #00b894;
+  color: #fff;
+}
+
+/* 🔍 제목과 버튼이 한 줄에 깔끔하게 정렬되게 */
+#sidebar h2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}

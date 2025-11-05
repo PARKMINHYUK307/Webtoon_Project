@@ -100,44 +100,44 @@ document.addEventListener('DOMContentLoaded', () => {
 }
 
     // 검색 결과 표시
-    function showSearchResults(filteredData) {
-    
-    const keyword = searchInput.value.trim();
+    function showSearchResults() {
+  //  검색창 + 장르/연령/완결 여부 필터 통합
+  let filteredData = filterWebtoons();
 
-    //  '*' 입력 시 전체 웹툰 표시
-    if (keyword === "*") {
-        filteredData = webtoonsData.webtoons;
-    }
+  const keyword = searchInput.value.trim();
 
-    resultsContainer.innerHTML = "";
-    webtoonDetail.classList.add("hidden");
+  // '*' 입력 시 전체 웹툰 표시
+  if (keyword === "*") {
+    filteredData = webtoonsData.webtoons;
+  }
 
-    if (filteredData.length === 0) {
-        resultsContainer.innerHTML = '<p class="no-data">검색 결과가 없습니다.</p>';
-        modal.style.display = "block";
-        return;
-    }
+  resultsContainer.innerHTML = "";
+  webtoonDetail.classList.add("hidden");
 
-    filteredData.forEach(w => {
-        const item = document.createElement("div");
-        item.classList.add("webtoon-item");
-        item.innerHTML = `
-        <img src="${w.img}" alt="${w.title}" 
-            onerror="this.src='https://via.placeholder.com/150x150?text=No+Image'">
-        <div>
-            <strong>${w.title}</strong><br>
-            <small>${w.author}</small>
-            <
-        </div>
-        `;
-
-        //  리스트 클릭 시 오른쪽 상세영역 업데이트
-        item.addEventListener("click", () => showWebtoonDetail(w));
-        resultsContainer.appendChild(item);
-    });
-
+  if (filteredData.length === 0) {
+    resultsContainer.innerHTML = '<p class="no-data">검색 결과가 없습니다.</p>';
     modal.style.display = "block";
-    }
+    return;
+  }
+
+  filteredData.forEach(w => {
+  const item = document.createElement("div");
+  item.classList.add("webtoon-item");
+  item.innerHTML = `
+    <img src="${w.img}" alt="${w.title}" 
+         onerror="this.src='../img/한교동.png'">  
+    <div>
+      <strong>${w.title}</strong><br>
+      <small>${w.author}</small>
+    </div>
+  `;
+  item.addEventListener("click", () => showWebtoonDetail(w));
+  resultsContainer.appendChild(item);
+});
+
+modal.style.display = "block";
+
+}
 
     // 상세보기 업데이트
   function showWebtoonDetail(w) {
@@ -161,11 +161,15 @@ document.addEventListener('DOMContentLoaded', () => {
     </div>
   `;
 }
-    // 모달 닫기
-    closeModal.addEventListener("click", () => {
-    modal.style.display = "none";
-    });
+   // --- 모달 닫기 ---
+closeModal.addEventListener("click", () => {
+  modal.style.display = "none";
 
+  // 자음/숫자 버튼 상태 초기화
+  const filterButtons = document.querySelectorAll('.filter-btn');
+  filterButtons.forEach(btn => btn.classList.remove('active'));
+});
+    
 
 
     // --- 요약 정보 ---
@@ -201,7 +205,7 @@ function updateCharts(filtered) {
   const ratingCtx = ctxRating.getContext('2d');
 
   // === 장르별 데이터 집계 ===
-  const genreMap = {};
+   const genreMap = {};
   filtered.forEach(w => {
     if (!w.genre) return;
     w.genre.forEach(g => {
@@ -214,7 +218,21 @@ function updateCharts(filtered) {
     });
   });
 
-  const genreLabels = Object.keys(genreMap);
+  // === 장르 순서 정렬 ===
+  const preferredOrder = ["스토리", "옴니버스", "드라마", "에피소드"];
+  let genreLabels = Object.keys(genreMap);
+
+  genreLabels.sort((a, b) => {
+    const ai = preferredOrder.indexOf(a);
+    const bi = preferredOrder.indexOf(b);
+
+    if (ai !== -1 && bi !== -1) return ai - bi;
+    if (ai !== -1) return -1;
+    if (bi !== -1) return 1;
+    return a.localeCompare(b, "ko");
+  });
+
+  // === 집계 데이터 ===
   const genreCounts = genreLabels.map(g => genreMap[g].count);
   const avgRatings = genreLabels.map(g => (genreMap[g].sum / genreMap[g].count).toFixed(2));
   const minRatings = genreLabels.map(g => genreMap[g].min.toFixed(2));
@@ -309,7 +327,7 @@ function updateCharts(filtered) {
   window.dashboardRatingChart = new Chart(ratingCtx, {
     type: 'bar',
     data: {
-      labels: Array.from({ length: 10 }, (_, i) => `${i + 1}`),
+      labels: Array.from({ length: 10 }, (_, i) => `${i }`),
       datasets: [
         { label: '평점 분포', data: buckets, backgroundColor: '#ef476f' }
       ]
@@ -378,7 +396,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         sorted.slice(0, 10).forEach((w, i) => {
             const li = document.createElement('li');
-            li.innerHTML = `<span class="rank-num">${i + 1}</span><a href="${w.link || '#'}" target="_blank">${w.title}</a> <span class="rank-rating">${(w.rating || 0).toFixed(2)}</span>`;
+            li.innerHTML = `<span class="rank-num">${i+1 }</span><a href="${w.link || '#'}" target="_blank">${w.title}</a> <span class="rank-rating">${(w.rating || 0).toFixed(2)}</span>`;
             rankingListEl.appendChild(li);
         });
 
@@ -420,31 +438,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-// -- 숫자 표시 플러그인 --
-
-Chart.register({
-    id: 'valueLabelPlugin',
-    afterDatasetsDraw(chart) {
-        const { ctx } = chart;
-        chart.data.datasets.forEach((dataset, i) => {
-            const meta = chart.getDatasetMeta(i);
-            if (!meta.hidden) {
-                meta.data.forEach((element, index) => {
-                    const value = dataset.data[index];
-                    if (value > 0) {
-                        ctx.fillStyle = '#333';
-                        ctx.font = 'bold 12px Noto Sans KR';
-                        ctx.textAlign = 'center';
-                        ctx.textBaseline = 'bottom';
-                        const position = element.tooltipPosition();
-                        ctx.fillText(value, position.x, position.y - -1); // 👈 숫자 위치 조정
-                    }
-                });
-            }
-        });
-    }
-});
-// ============================
 
     ['avgRatingToggle', 'minRatingToggle', 'maxRatingToggle'].forEach(id => {
   const el = document.getElementById(id);
@@ -473,7 +466,7 @@ Chart.register({
     'ㅎ': ['하', '힣']
   };
 
-// 통합 클릭 핸들러
+// --- 통합 클릭 핸들러 ---
 filterButtons.forEach(btn => {
   btn.addEventListener('click', () => {
     // 모든 버튼 active 해제
@@ -496,11 +489,35 @@ filterButtons.forEach(btn => {
       filteredData = webtoonsData.webtoons.filter(w => {
         return w.title.charAt(0) === value;
       });
-    } 
+    }
 
-    //  모달창에 결과 표시 (기존 검색 UI 재활용)
+    //  모달창 표시
     showSearchResults(filteredData);
+
+    //  모달 닫힐 때 active 상태 자동 해제
+    const handleClose = () => {
+      btn.classList.remove('active');
+      // 한 번만 실행되게 이벤트 제거
+      closeModal.removeEventListener('click', handleClose);
+      window.removeEventListener('click', handleOutside);
+    };
+
+    //  외부 클릭으로 닫힐 때도 처리
+    const handleOutside = (e) => {
+      if (e.target === modal) {
+        btn.classList.remove('active');
+        window.removeEventListener('click', handleOutside);
+      }
+    };
+
+    closeModal.addEventListener('click', handleClose);
+    window.addEventListener('click', handleOutside);
   });
+  });
+
+  // 새로고침 버튼
+  document.getElementById("refreshBtn").addEventListener("click", () => {
+  location.reload();
   });
 
     // 초기화
@@ -510,6 +527,7 @@ filterButtons.forEach(btn => {
     // 필터 변경 시 갱신
     genreSelect.addEventListener('change', renderAll);
     ageSelect.addEventListener('change', renderAll);
+    searchInput.addEventListener("input", showSearchResults);
 });
 
 
