@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', () => {
   webtoonDetail.innerHTML = `
     <div class="modal-detail-view">
       <!-- 왼쪽 썸네일 -->
-      <div class="modal-left">
+      <div class="modal-left" >
         <img src="${w.img}" alt="${w.title}"></br></br>
         <a href="${w.link}" target="_blank" class="webtoon-link">웹툰 보러가기</a>
       </div>
