@@ -302,7 +302,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=675823",
-      "img": "https://image-comic.pstatic.net/webtoon/756056/thumbnail/thumbnail_IMAG21_3918756620199735600.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/675823/thumbnail/thumbnail_IMAG21_3689918564437145954.jpg"
     },
     {
       "id": 759418,
@@ -318,7 +318,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=759418",
-      "img": "https://image-comic.pstatic.net/webtoon/670144/thumbnail/thumbnail_IMAG21_7221863093259232866.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/759418/thumbnail/thumbnail_IMAG21_4063153283285804080.jpg"
     },
     {
       "id": 738177,
@@ -334,7 +334,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=738177",
-      "img": "https://image-comic.pstatic.net/webtoon/732071/thumbnail/thumbnail_IMAG21_4064045901943038563.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/738177/thumbnail/thumbnail_IMAG21_3846971490381095522.jpg"
     },
     {
       "id": 742048,
@@ -350,7 +350,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=742048",
-      "img": "https://image-comic.pstatic.net/webtoon/703844/thumbnail/thumbnail_IMAG21_5ddcb40e-1f6a-40f3-b2c4-6cd9a7eee843.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/742048/thumbnail/thumbnail_IMAG21_3906085672174694448.jpg"
     },
     {
       "id": 318995,
@@ -366,7 +366,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=318995",
-      "img": "https://image-comic.pstatic.net/webtoon/785701/thumbnail/thumbnail_IMAG21_b93b84ea-264c-47e2-9f55-24e719e65eb9.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/318995/thumbnail/thumbnail_IMAG21_38f18e00-09f2-4a0c-b36a-3aa56dfe0b3b.jpg"
     },
     {
       "id": 730258,
@@ -382,7 +382,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=730258",
-      "img": "https://image-comic.pstatic.net/webtoon/729963/thumbnail/thumbnail_IMAG21_4063480735854060601.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/730258/thumbnail/thumbnail_IMAG21_7076061240723268705.jpg"
     },
     {
       "id": 732255,
@@ -398,7 +398,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=732255",
-      "img": "https://image-comic.pstatic.net/webtoon/799793/thumbnail/thumbnail_IMAG21_159366cb-7675-4353-9a2e-251870997dea.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/732255/thumbnail/thumbnail_IMAG21_7003152621128278577.jpg"
     },
     {
       "id": 731297,
@@ -414,7 +414,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=731297",
-      "img": "https://image-comic.pstatic.net/webtoon/790239/thumbnail/thumbnail_IMAG21_04139513-d311-4814-807d-677f9e8b56e8.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/731297/thumbnail/thumbnail_IMAG21_7378132269245019700.jpg"
     },
     {
       "id": 790453,
@@ -430,7 +430,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=790453",
-      "img": "https://image-comic.pstatic.net/webtoon/753385/thumbnail/thumbnail_IMAG21_3618701920697791794.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/790453/thumbnail/thumbnail_IMAG21_abd8870d-071d-4a9d-83bd-9d15c6866f47.jpg"
     },
     {
       "id": 715159,
@@ -446,7 +446,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=715159",
-      "img": "https://image-comic.pstatic.net/webtoon/788167/thumbnail/thumbnail_IMAG21_9d85dac5-3e9d-4734-9184-95d5c5c8fa5e.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/715159/thumbnail/thumbnail_IMAG21_3847537954288906805.jpg"
     },
     {
       "id": 733728,
@@ -462,7 +462,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=733728",
-      "img": "https://image-comic.pstatic.net/webtoon/766504/thumbnail/thumbnail_IMAG21_3690756206838952499.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/733728/thumbnail/thumbnail_IMAG21_3919368837772895284.jpg"
     },
     {
       "id": 802865,
@@ -478,7 +478,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=802865",
-      "img": "https://image-comic.pstatic.net/webtoon/729040/thumbnail/thumbnail_IMAG21_0e9c370a-2f23-43d6-bc3b-b09c176e5a38.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/802865/thumbnail/thumbnail_IMAG21_9c102547-7b81-4dbb-9b8f-e7e852b31a88.jpg"
     },
     {
       "id": 762777,
@@ -494,7 +494,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=762777",
-      "img": "https://image-comic.pstatic.net/webtoon/749055/thumbnail/thumbnail_IMAG21_3833186033305989218.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/762777/thumbnail/thumbnail_IMAG21_4062872710188053603.jpg"
     },
     {
       "id": 578108,
@@ -510,7 +510,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=578108",
-      "img": "https://image-comic.pstatic.net/webtoon/702165/thumbnail/thumbnail_IMAG21_3558186977464759396.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/578108/thumbnail/thumbnail_IMAG21_3847255186543294776.jpg"
     },
     {
       "id": 483796,
@@ -526,7 +526,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=483796",
-      "img": "https://image-comic.pstatic.net/webtoon/799503/thumbnail/thumbnail_IMAG21_34f3cf97-e658-48bd-80c2-ca4397b1ecfd.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/483796/thumbnail/thumbnail_IMAG21_7221859789707620662.jpg"
     },
     {
       "id": 774832,
@@ -542,7 +542,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=774832",
-      "img": "https://image-comic.pstatic.net/webtoon/798333/thumbnail/thumbnail_IMAG21_bf3cc38f-56d5-44d3-b6c8-1cc1707b8cab.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/774832/thumbnail/thumbnail_IMAG21_b90a49f3-7ef2-4898-94b3-acfa634b3ed7.jpg"
     },
     {
       "id": 725830,
@@ -558,7 +558,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=725830",
-      "img": "https://image-comic.pstatic.net/webtoon/791676/thumbnail/thumbnail_IMAG21_7f45de8b-8074-480a-a2c8-9b1cfb53a252.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/725830/thumbnail/thumbnail_IMAG21_3847820532316661304.jpg"
     },
     {
       "id": 712362,
@@ -574,7 +574,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=712362",
-      "img": "https://image-comic.pstatic.net/webtoon/774706/thumbnail/thumbnail_IMAG21_3919031304916776244.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/712362/thumbnail/thumbnail_IMAG21_537a5e13-3bff-439e-896c-bc054602ee36.jpg"
     },
     {
       "id": 740386,
@@ -605,8 +605,8 @@ const webtoonsData = {
       "completed": true,
       "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=750571",
-      "img": "https://image-comic.pstatic.net/webtoon/759418/thumbnail/thumbnail_IMAG21_4063153283285804080.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=3821531",
+      "img": "https://comicthumb-phinf.pstatic.net/20181217_57/pocket_1545012785557hYPoP_JPEG/_001__%281%29.jpg?type=m260"
     },
     {
       "id": 761463,
@@ -622,7 +622,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=761463",
-      "img": "https://image-comic.pstatic.net/webtoon/738177/thumbnail/thumbnail_IMAG21_3846971490381095522.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/761463/thumbnail/thumbnail_IMAG21_4049643580358354484.jpg"
     },
     {
       "id": 794980,
@@ -638,7 +638,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=794980",
-      "img": "https://image-comic.pstatic.net/webtoon/742048/thumbnail/thumbnail_IMAG21_3906085672174694448.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/794980/thumbnail/thumbnail_IMAG21_e3165fc4-8753-4b64-99e1-8fc9bd9ce29d.jpg"
     },
     {
       "id": 794103,
@@ -654,7 +654,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=794103",
-      "img": "https://image-comic.pstatic.net/webtoon/318995/thumbnail/thumbnail_IMAG21_38f18e00-09f2-4a0c-b36a-3aa56dfe0b3b.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/794103/thumbnail/thumbnail_IMAG21_3906702472394138467.jpg"
     },
     {
       "id": 729255,
@@ -670,7 +670,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=729255",
-      "img": "https://image-comic.pstatic.net/webtoon/730258/thumbnail/thumbnail_IMAG21_7076061240723268705.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/729255/thumbnail/thumbnail_IMAG21_3904678280063967794.jpg"
     },
     {
       "id": 72939,
@@ -686,7 +686,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=72939",
-      "img": "https://image-comic.pstatic.net/webtoon/732255/thumbnail/thumbnail_IMAG21_7003152621128278577.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/72939/thumbnail/thumbnail_IMAG21_06ddc5f3-a88e-421d-bdf0-06dcd215614d.jpg"
     },
     {
       "id": 50422,
@@ -702,7 +702,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=50422",
-      "img": "https://image-comic.pstatic.net/webtoon/731297/thumbnail/thumbnail_IMAG21_7378132269245019700.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/50422/thumbnail/thumbnail_IMAG21_3474300833845764409.jpg"
     },
     {
       "id": 786933,
@@ -718,7 +718,7 @@ const webtoonsData = {
       "age": "",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=786933",
-      "img": "https://image-comic.pstatic.net/webtoon/790453/thumbnail/thumbnail_IMAG21_abd8870d-071d-4a9d-83bd-9d15c6866f47.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/786933/thumbnail/thumbnail_IMAG21_7017511156377139249.jpg"
     },
     {
       "id": 670151,
@@ -734,7 +734,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=670151",
-      "img": "https://image-comic.pstatic.net/webtoon/715159/thumbnail/thumbnail_IMAG21_3847537954288906805.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/670151/thumbnail/thumbnail_IMAG21_7161067980685588024.jpg"
     },
     {
       "id": 764022,
@@ -750,7 +750,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=764022",
-      "img": "https://image-comic.pstatic.net/webtoon/733728/thumbnail/thumbnail_IMAG21_3919368837772895284.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/764022/thumbnail/thumbnail_IMAG21_af00a1de-9cad-4feb-8d32-a7450900ccd4.jpg"
     },
     {
       "id": 773524,
@@ -766,7 +766,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=773524",
-      "img": "https://image-comic.pstatic.net/webtoon/802865/thumbnail/thumbnail_IMAG21_9c102547-7b81-4dbb-9b8f-e7e852b31a88.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/773524/thumbnail/thumbnail_IMAG21_7149293130308793392.jpg"
     },
     {
       "id": 739112,
@@ -782,7 +782,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=739112",
-      "img": "https://image-comic.pstatic.net/webtoon/762777/thumbnail/thumbnail_IMAG21_4062872710188053603.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/739112/thumbnail/thumbnail_IMAG21_7089336744150590770.jpg"
     },
     {
       "id": 147175,
@@ -798,7 +798,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=147175",
-      "img": "https://image-comic.pstatic.net/webtoon/578108/thumbnail/thumbnail_IMAG21_3847255186543294776.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/147175/thumbnail/thumbnail_IMAG21_3906931372625835875.jpg"
     },
     {
       "id": 700844,
@@ -814,7 +814,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=700844",
-      "img": "https://image-comic.pstatic.net/webtoon/483796/thumbnail/thumbnail_IMAG21_7221859789707620662.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/700844/thumbnail/thumbnail_IMAG21_4135202081180039526.jpg"
     },
     {
       "id": 718021,
@@ -830,7 +830,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=718021",
-      "img": "https://image-comic.pstatic.net/webtoon/774832/thumbnail/thumbnail_IMAG21_b90a49f3-7ef2-4898-94b3-acfa634b3ed7.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/718021/thumbnail/thumbnail_IMAG21_7378080789753586790.jpg"
     },
     {
       "id": 801698,
@@ -846,7 +846,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=801698",
-      "img": "https://image-comic.pstatic.net/webtoon/725830/thumbnail/thumbnail_IMAG21_3847820532316661304.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/801698/thumbnail/thumbnail_IMAG21_52e81ef5-fb49-4f99-801c-0e13c5691c67."
     },
     {
       "id": 787372,
@@ -862,7 +862,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=787372",
-      "img": "https://image-comic.pstatic.net/webtoon/712362/thumbnail/thumbnail_IMAG21_537a5e13-3bff-439e-896c-bc054602ee36.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/787372/thumbnail/thumbnail_IMAG21_5e2871be-3114-4b55-be8d-2c7c57906cdf.jpg"
     },
     {
       "id": 733076,
@@ -878,7 +878,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=733076",
-      "img": "https://image-comic.pstatic.net/webtoon/740386/thumbnail/thumbnail_IMAG21_3617904774804235106.JPEG"
+      "img": "https://image-comic.pstatic.net/webtoon/733076/thumbnail/thumbnail_IMAG21_3474356899475907889.jpg"
     },
     {
       "id": 727798,
@@ -894,7 +894,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=727798",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/727798/thumbnail/thumbnail_IMAG21_b8ef26fe-3b02-402b-a0da-e9d6c2811249.jpg"
     },
     {
       "id": 802835,
@@ -910,7 +910,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=802835",
-      "img": "https://image-comic.pstatic.net/webtoon/761463/thumbnail/thumbnail_IMAG21_4049643580358354484.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/802835/thumbnail/thumbnail_IMAG21_72a81c26-26f6-41dc-8645-237de4484445.jpg"
     },
     {
       "id": 113121,
@@ -926,7 +926,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=113121",
-      "img": "https://image-comic.pstatic.net/webtoon/794980/thumbnail/thumbnail_IMAG21_e3165fc4-8753-4b64-99e1-8fc9bd9ce29d.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/113121/thumbnail/thumbnail_IMAG21_3907213951362152804.jpg"
     },
     {
       "id": 802117,
@@ -942,7 +942,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=802117",
-      "img": "https://image-comic.pstatic.net/webtoon/794103/thumbnail/thumbnail_IMAG21_3906702472394138467.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/802117/thumbnail/thumbnail_IMAG21_15a0d966-695b-45ce-a050-e42a40f31559.jpg"
     },
     {
       "id": 701535,
@@ -958,7 +958,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=701535",
-      "img": "https://image-comic.pstatic.net/webtoon/729255/thumbnail/thumbnail_IMAG21_3904678280063967794.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/701535/thumbnail/thumbnail_IMAG21_2abe5b1a-9104-417f-9995-0db15c6db7be.jpg"
     },
     {
       "id": 395442,
@@ -974,7 +974,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=395442",
-      "img": "https://image-comic.pstatic.net/webtoon/72939/thumbnail/thumbnail_IMAG21_06ddc5f3-a88e-421d-bdf0-06dcd215614d.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/395442/thumbnail/thumbnail_IMAG21_7005124028283643489.jpg"
     },
     {
       "id": 740034,
@@ -990,7 +990,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=740034",
-      "img": "https://image-comic.pstatic.net/webtoon/50422/thumbnail/thumbnail_IMAG21_3474300833845764409.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/740034/thumbnail/thumbnail_IMAG21_4122589587559375417.jpg"
     },
     {
       "id": 233265,
@@ -1006,7 +1006,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=233265",
-      "img": "https://image-comic.pstatic.net/webtoon/786933/thumbnail/thumbnail_IMAG21_7017511156377139249.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/233265/thumbnail/thumbnail_IMAG21_3703144606179080290.jpg"
     },
     {
       "id": 746744,
@@ -1022,7 +1022,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=746744",
-      "img": "https://image-comic.pstatic.net/webtoon/670151/thumbnail/thumbnail_IMAG21_7161067980685588024.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/746744/thumbnail/thumbnail_IMAG21_7016998761661478449.jpg"
     },
     {
       "id": 668101,
@@ -1038,7 +1038,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=668101",
-      "img": "https://image-comic.pstatic.net/webtoon/764022/thumbnail/thumbnail_IMAG21_af00a1de-9cad-4feb-8d32-a7450900ccd4.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/668101/thumbnail/thumbnail_IMAG21_3761740664713340212.jpg"
     },
     {
       "id": 744375,
@@ -1054,7 +1054,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=744375",
-      "img": "https://image-comic.pstatic.net/webtoon/773524/thumbnail/thumbnail_IMAG21_7149293130308793392.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/744375/thumbnail/thumbnail_IMAG21_3905855836361155637.jpg"
     },
     {
       "id": 792317,
@@ -1070,7 +1070,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=792317",
-      "img": "https://image-comic.pstatic.net/webtoon/739112/thumbnail/thumbnail_IMAG21_7089336744150590770.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/792317/thumbnail/thumbnail_IMAG21_524ed207-a4c2-4864-b8e1-3aef96a7ba41.jpg"
     },
     {
       "id": 761599,
@@ -1086,7 +1086,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=761599",
-      "img": "https://image-comic.pstatic.net/webtoon/147175/thumbnail/thumbnail_IMAG21_3906931372625835875.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/761599/thumbnail/thumbnail_IMAG21_e6f4166e-fe8c-4b91-9115-ddb3393b218a.jpg"
     },
     {
       "id": 741891,
@@ -1102,7 +1102,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=741891",
-      "img": "https://image-comic.pstatic.net/webtoon/700844/thumbnail/thumbnail_IMAG21_4135202081180039526.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/741891/thumbnail/thumbnail_IMAG21_47b971e4-00b6-451b-862e-1060bae5a80d.jpg"
     },
     {
       "id": 744384,
@@ -1118,7 +1118,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=744384",
-      "img": "https://image-comic.pstatic.net/webtoon/718021/thumbnail/thumbnail_IMAG21_7378080789753586790.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/744384/thumbnail/thumbnail_IMAG21_983858cb-960c-418d-8311-8208b5babd03.jpg"
     },
     {
       "id": 792780,
@@ -1134,7 +1134,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=792780",
-      "img": "https://image-comic.pstatic.net/webtoon/801698/thumbnail/thumbnail_IMAG21_52e81ef5-fb49-4f99-801c-0e13c5691c67."
+      "img": "https://image-comic.pstatic.net/webtoon/792780/thumbnail/thumbnail_IMAG21_3617014355049527398.jpg"
     },
     {
       "id": 524353,
@@ -1150,7 +1150,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=524353",
-      "img": "https://image-comic.pstatic.net/webtoon/787372/thumbnail/thumbnail_IMAG21_5e2871be-3114-4b55-be8d-2c7c57906cdf.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/524353/thumbnail/thumbnail_IMAG21_7378695236364874039.jpg"
     },
     {
       "id": 769658,
@@ -1166,7 +1166,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=769658",
-      "img": "https://image-comic.pstatic.net/webtoon/733076/thumbnail/thumbnail_IMAG21_3474356899475907889.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/769658/thumbnail/thumbnail_IMAG21_3559023722976457571.jpg"
     },
     {
       "id": 693431,
@@ -1182,7 +1182,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=693431",
-      "img": "https://image-comic.pstatic.net/webtoon/727798/thumbnail/thumbnail_IMAG21_b8ef26fe-3b02-402b-a0da-e9d6c2811249.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/693431/thumbnail/thumbnail_IMAG21_4121129229976418354.jpg"
     },
     {
       "id": 132459,
@@ -1198,7 +1198,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=132459",
-      "img": "https://image-comic.pstatic.net/webtoon/802835/thumbnail/thumbnail_IMAG21_72a81c26-26f6-41dc-8645-237de4484445.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/132459/thumbnail/thumbnail_IMAG21_4063766828711949875.jpg"
     },
     {
       "id": 69113,
@@ -1214,7 +1214,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=69113",
-      "img": "https://image-comic.pstatic.net/webtoon/113121/thumbnail/thumbnail_IMAG21_3907213951362152804.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/69113/thumbnail/thumbnail_IMAG21_3762531411021674040.jpg"
     },
     {
       "id": 655277,
@@ -1230,7 +1230,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=655277",
-      "img": "https://image-comic.pstatic.net/webtoon/802117/thumbnail/thumbnail_IMAG21_15a0d966-695b-45ce-a050-e42a40f31559.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/655277/thumbnail/thumbnail_IMAG21_7378366478110045542.jpg"
     },
     {
       "id": 89097,
@@ -1246,7 +1246,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=89097",
-      "img": "https://image-comic.pstatic.net/webtoon/701535/thumbnail/thumbnail_IMAG21_2abe5b1a-9104-417f-9995-0db15c6db7be.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/89097/thumbnail/thumbnail_IMAG21_7149523100124657717.jpg"
     },
     {
       "id": 708453,
@@ -1262,7 +1262,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=708453",
-      "img": "https://image-comic.pstatic.net/webtoon/395442/thumbnail/thumbnail_IMAG21_7005124028283643489.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/708453/thumbnail/thumbnail_IMAG21_3979264764465985075.jpg"
     },
     {
       "id": 801950,
@@ -1278,7 +1278,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=801950",
-      "img": "https://image-comic.pstatic.net/webtoon/740034/thumbnail/thumbnail_IMAG21_4122589587559375417.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/801950/thumbnail/thumbnail_IMAG21_6be7579d-98b8-420f-b430-8ffdbd36ce2c.jpg"
     },
     {
       "id": 786622,
@@ -1294,7 +1294,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=786622",
-      "img": "https://image-comic.pstatic.net/webtoon/233265/thumbnail/thumbnail_IMAG21_3703144606179080290.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/786622/thumbnail/thumbnail_IMAG21_7378365564084105528.jpg"
     },
     {
       "id": 773085,
@@ -1310,7 +1310,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=773085",
-      "img": "https://image-comic.pstatic.net/webtoon/746744/thumbnail/thumbnail_IMAG21_7016998761661478449.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/773085/thumbnail/thumbnail_IMAG21_3545232734168572464.jpg"
     },
     {
       "id": 729767,
@@ -1326,7 +1326,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=729767",
-      "img": "https://image-comic.pstatic.net/webtoon/668101/thumbnail/thumbnail_IMAG21_3761740664713340212.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/729767/thumbnail/thumbnail_IMAG21_7003723478116938549.jpg"
     },
     {
       "id": 783524,
@@ -1342,7 +1342,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=783524",
-      "img": "https://image-comic.pstatic.net/webtoon/744375/thumbnail/thumbnail_IMAG21_3905855836361155637.jpg"
+      "img": "https://i.namu.wiki/i/OZDmV4aYw7CSx0LuW2wagcsS9t2cexw_7WDh7DVXSg2M7bz9OZ2FHYVr7hzajo6HHqPiNjL2HRKR0OFjqwXnlQacugxmJs7ctYXdmC3atHJ9HyvRfiYsL2xM9W61c3flNBWHyQ_XPprm1eFogYpCSA.webp"
     },
     {
       "id": 728126,
@@ -1358,7 +1358,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=728126",
-      "img": "https://image-comic.pstatic.net/webtoon/792317/thumbnail/thumbnail_IMAG21_524ed207-a4c2-4864-b8e1-3aef96a7ba41.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/728126/thumbnail/thumbnail_IMAG21_7148391724836479793.jpg"
     },
     {
       "id": 400737,
@@ -1374,7 +1374,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=400737",
-      "img": "https://image-comic.pstatic.net/webtoon/761599/thumbnail/thumbnail_IMAG21_e6f4166e-fe8c-4b91-9115-ddb3393b218a.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/400737/thumbnail/thumbnail_IMAG21_4050255823654434100.jpg"
     },
     {
       "id": 662774,
@@ -1390,7 +1390,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=662774",
-      "img": "https://image-comic.pstatic.net/webtoon/741891/thumbnail/thumbnail_IMAG21_47b971e4-00b6-451b-862e-1060bae5a80d.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/662774/thumbnail/thumbnail_IMAG21_3618421729916171318.jpg"
     },
     {
       "id": 317365,
@@ -1406,7 +1406,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=317365",
-      "img": "https://image-comic.pstatic.net/webtoon/744384/thumbnail/thumbnail_IMAG21_983858cb-960c-418d-8311-8208b5babd03.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/317365/thumbnail/thumbnail_IMAG21_3906082562554214707.jpg"
     },
     {
       "id": 800775,
@@ -1422,7 +1422,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=800775",
-      "img": "https://image-comic.pstatic.net/webtoon/792780/thumbnail/thumbnail_IMAG21_3617014355049527398.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/800775/thumbnail/thumbnail_IMAG21_830d46fe-5485-4575-a437-236d4e9d9328.jpg"
     },
     {
       "id": 716776,
@@ -1438,7 +1438,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=716776",
-      "img": "https://image-comic.pstatic.net/webtoon/524353/thumbnail/thumbnail_IMAG21_7378695236364874039.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/716776/thumbnail/thumbnail_IMAG21_3474075630677615202.jpg"
     },
     {
       "id": 26115,
@@ -1454,7 +1454,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=26115",
-      "img": "https://image-comic.pstatic.net/webtoon/769658/thumbnail/thumbnail_IMAG21_3559023722976457571.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/26115/thumbnail/thumbnail_IMAG21_3762531226455586098.jpg"
     },
     {
       "id": 685460,
@@ -1470,7 +1470,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=685460",
-      "img": "https://image-comic.pstatic.net/webtoon/693431/thumbnail/thumbnail_IMAG21_4121129229976418354.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/685460/thumbnail/thumbnail_IMAG21_6c04897d-d64e-4d43-b0ed-1f8add0db7f5.jpeg"
     },
     {
       "id": 15441,
@@ -1486,7 +1486,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=15441",
-      "img": "https://image-comic.pstatic.net/webtoon/132459/thumbnail/thumbnail_IMAG21_4063766828711949875.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/15441/thumbnail/thumbnail_IMAG21_3559311795828045361.jpg"
     },
     {
       "id": 761104,
@@ -1502,7 +1502,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=761104",
-      "img": "https://image-comic.pstatic.net/webtoon/69113/thumbnail/thumbnail_IMAG21_3762531411021674040.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/761104/thumbnail/thumbnail_IMAG21_d167ed04-9e4d-40ad-9ad3-2d6773f3aa3d.jpg"
     },
     {
       "id": 686911,
@@ -1518,7 +1518,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=686911",
-      "img": "https://image-comic.pstatic.net/webtoon/655277/thumbnail/thumbnail_IMAG21_7378366478110045542.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/686911/thumbnail/thumbnail_IMAG21_7220736290720866871.jpg"
     },
     {
       "id": 678499,
@@ -1534,7 +1534,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=678499",
-      "img": "https://image-comic.pstatic.net/webtoon/89097/thumbnail/thumbnail_IMAG21_7149523100124657717.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/678499/thumbnail/thumbnail_IMAG21_7293637192863802165.jpg"
     },
     {
       "id": 768094,
@@ -1549,8 +1549,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=768094",
-      "img": "https://image-comic.pstatic.net/webtoon/708453/thumbnail/thumbnail_IMAG21_3979264764465985075.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=9870093&isWebtoonAgreePopUp=true",
+      "img": "https://comicthumb-phinf.pstatic.net/20230615_280/pocket_1686808946339BLL2a_JPEG/%B4%EB%C7%A5%C0%CC%B9%CC%C1%F6_1%C8%AD.jpg?type=m260"
     },
     {
       "id": 642700,
@@ -1566,7 +1566,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=642700",
-      "img": "https://image-comic.pstatic.net/webtoon/801950/thumbnail/thumbnail_IMAG21_6be7579d-98b8-420f-b430-8ffdbd36ce2c.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/642700/thumbnail/thumbnail_IMAG21_3990808532753867319.jpg"
     },
     {
       "id": 163295,
@@ -1582,7 +1582,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=163295",
-      "img": "https://image-comic.pstatic.net/webtoon/786622/thumbnail/thumbnail_IMAG21_7378365564084105528.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/163295/thumbnail/thumbnail_IMAG21_3689684377097484594.jpg"
     },
     {
       "id": 729047,
@@ -1598,7 +1598,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=729047",
-      "img": "https://image-comic.pstatic.net/webtoon/773085/thumbnail/thumbnail_IMAG21_3545232734168572464.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/729047/thumbnail/thumbnail_IMAG21_3a569ac9-9ba9-448e-8438-eb2b8bdab961.jpg"
     },
     {
       "id": 655748,
@@ -1614,7 +1614,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=655748",
-      "img": "https://image-comic.pstatic.net/webtoon/729767/thumbnail/thumbnail_IMAG21_7003723478116938549.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/655748/thumbnail/thumbnail_IMAG21_3545566976207500390.jpg"
     },
     {
       "id": 753380,
@@ -1630,7 +1630,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=753380",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/753380/thumbnail/thumbnail_IMAG21_7147272215088739427.jpg"
     },
     {
       "id": 752803,
@@ -1646,7 +1646,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=752803",
-      "img": "https://image-comic.pstatic.net/webtoon/728126/thumbnail/thumbnail_IMAG21_7148391724836479793.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/752803/thumbnail/thumbnail_IMAG21_3486175559378088501.jpg"
     },
     {
       "id": 800007,
@@ -1662,7 +1662,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=800007",
-      "img": "https://image-comic.pstatic.net/webtoon/400737/thumbnail/thumbnail_IMAG21_4050255823654434100.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/800007/thumbnail/thumbnail_IMAG21_94598f8a-9416-450c-b729-105a30afb676.jpg"
     },
     {
       "id": 791255,
@@ -1678,7 +1678,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=791255",
-      "img": "https://image-comic.pstatic.net/webtoon/662774/thumbnail/thumbnail_IMAG21_3618421729916171318.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/791255/thumbnail/thumbnail_IMAG21_3760897357159490150.jpg"
     },
     {
       "id": 774088,
@@ -1694,7 +1694,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=774088",
-      "img": "https://image-comic.pstatic.net/webtoon/317365/thumbnail/thumbnail_IMAG21_3906082562554214707.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/774088/thumbnail/thumbnail_IMAG21_3703477547765740901.jpg"
     },
     {
       "id": 784835,
@@ -1710,7 +1710,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=784835",
-      "img": "https://image-comic.pstatic.net/webtoon/800775/thumbnail/thumbnail_IMAG21_830d46fe-5485-4575-a437-236d4e9d9328.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/784835/thumbnail/thumbnail_IMAG21_8b77461e-329b-4df3-81e2-6bee3697e929.jpg"
     },
     {
       "id": 776601,
@@ -1726,7 +1726,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=776601",
-      "img": "https://image-comic.pstatic.net/webtoon/716776/thumbnail/thumbnail_IMAG21_3474075630677615202.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/776601/thumbnail/thumbnail_IMAG21_7365135131254864183.jpg"
     },
     {
       "id": 753509,
@@ -1758,7 +1758,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=750582",
-      "img": "https://image-comic.pstatic.net/webtoon/685460/thumbnail/thumbnail_IMAG21_6c04897d-d64e-4d43-b0ed-1f8add0db7f5.jpeg"
+      "img": "https://image-comic.pstatic.net/webtoon/750582/thumbnail/thumbnail_IMAG21_7293407407885333561.jpg"
     },
     {
       "id": 765158,
@@ -1774,7 +1774,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=765158",
-      "img": "https://image-comic.pstatic.net/webtoon/15441/thumbnail/thumbnail_IMAG21_3559311795828045361.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/765158/thumbnail/thumbnail_IMAG21_1a3c20c6-14fc-44c7-8f88-7512dbcb2321.jpg"
     },
     {
       "id": 728751,
@@ -1789,8 +1789,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=728751",
-      "img": "https://image-comic.pstatic.net/webtoon/761104/thumbnail/thumbnail_IMAG21_d167ed04-9e4d-40ad-9ad3-2d6773f3aa3d.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4164912",
+      "img": "https://comicthumb-phinf.pstatic.net/20190517_194/pocket_1558101172765tjJW2_JPEG/_600x860.jpg?type=m260"
     },
     {
       "id": 792949,
@@ -1806,7 +1806,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=792949",
-      "img": "https://image-comic.pstatic.net/webtoon/686911/thumbnail/thumbnail_IMAG21_7220736290720866871.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/792949/thumbnail/thumbnail_IMAG21_3990579812924732979.jpg"
     },
     {
       "id": 727826,
@@ -1822,7 +1822,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=727826",
-      "img": "https://image-comic.pstatic.net/webtoon/678499/thumbnail/thumbnail_IMAG21_7293637192863802165.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/727826/thumbnail/thumbnail_IMAG21_7364060719433135459.jpg"
     },
     {
       "id": 778228,
@@ -1838,7 +1838,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=778228",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/778228/thumbnail/thumbnail_IMAG21_4051047668904440884.jpg"
     },
     {
       "id": 684435,
@@ -1854,7 +1854,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=684435",
-      "img": "https://image-comic.pstatic.net/webtoon/642700/thumbnail/thumbnail_IMAG21_3990808532753867319.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/684435/thumbnail/thumbnail_IMAG21_7221301422420406626.jpg"
     },
     {
       "id": 748534,
@@ -1870,7 +1870,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=748534",
-      "img": "https://image-comic.pstatic.net/webtoon/163295/thumbnail/thumbnail_IMAG21_3689684377097484594.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/748534/thumbnail/thumbnail_IMAG21_78389d6b-badf-4424-b7dd-0a6c781065ba.jpg"
     },
     {
       "id": 797512,
@@ -1886,7 +1886,7 @@ const webtoonsData = {
       "age": "",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=797512",
-      "img": "https://image-comic.pstatic.net/webtoon/729047/thumbnail/thumbnail_IMAG21_3a569ac9-9ba9-448e-8438-eb2b8bdab961.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/797512/thumbnail/thumbnail_IMAG21_7017560819100692837.jpg"
     },
     {
       "id": 730466,
@@ -1902,7 +1902,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=730466",
-      "img": "https://image-comic.pstatic.net/webtoon/655748/thumbnail/thumbnail_IMAG21_3545566976207500390.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/730466/thumbnail/thumbnail_IMAG21_3774407060858364978.jpg"
     },
     {
       "id": 63454,
@@ -1918,7 +1918,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=63454",
-      "img": "https://image-comic.pstatic.net/webtoon/753380/thumbnail/thumbnail_IMAG21_7147272215088739427.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/63454/thumbnail/thumbnail_IMAG21_3761967358066897763.jpg"
     },
     {
       "id": 687137,
@@ -1934,7 +1934,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=687137",
-      "img": "https://image-comic.pstatic.net/webtoon/752803/thumbnail/thumbnail_IMAG21_3486175559378088501.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/687137/thumbnail/thumbnail_IMAG21_4135487963601776950.jpg"
     },
     {
       "id": 727476,
@@ -1949,8 +1949,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=727476",
-      "img": "https://image-comic.pstatic.net/webtoon/800007/thumbnail/thumbnail_IMAG21_94598f8a-9416-450c-b729-105a30afb676.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4114797",
+      "img": "https://comicthumb-phinf.pstatic.net/20210222_186/pocket_1613975862805Es7Le_JPEG/___.jpg?type=m260"
     },
     {
       "id": 783534,
@@ -1966,7 +1966,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=783534",
-      "img": "https://image-comic.pstatic.net/webtoon/791255/thumbnail/thumbnail_IMAG21_3760897357159490150.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/783534/thumbnail/thumbnail_IMAG21_2fee6e6d-99f8-4629-8f9a-dfcc49fcb3ad.jpg"
     },
     {
       "id": 24777,
@@ -1982,7 +1982,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=24777",
-      "img": "https://image-comic.pstatic.net/webtoon/774088/thumbnail/thumbnail_IMAG21_3703477547765740901.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/24777/thumbnail/thumbnail_IMAG21_7221019964670959973.jpg"
     },
     {
       "id": 733284,
@@ -1998,7 +1998,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=733284",
-      "img": "https://image-comic.pstatic.net/webtoon/784835/thumbnail/thumbnail_IMAG21_8b77461e-329b-4df3-81e2-6bee3697e929.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/733284/thumbnail/thumbnail_IMAG21_7364567791760913761.jpg"
     },
     {
       "id": 783538,
@@ -2011,10 +2011,10 @@ const webtoonsData = {
       "description": "마왕이 사라진뒤 몇 년 후, 구원자의 꿈에 다시 마왕이 나타난다. 자신을 구해달라는 마왕의 계시(?)를 받은 용사는 다시 한 번 세상을 혼란에 빠트리기 위해 여행을 떠나게 되는데…",
       "rating": 9.68,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=783538",
-      "img": "https://image-comic.pstatic.net/webtoon/776601/thumbnail/thumbnail_IMAG21_7365135131254864183.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=11116452",
+      "img": "https://comicthumb-phinf.pstatic.net/20240510_63/pocket_17153257138782zsLT_JPEG/300_430.jpg?type=m260"
     },
     {
       "id": 770844,
@@ -2030,7 +2030,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=770844",
-      "img": "https://image-comic.pstatic.net/webtoon/753509/thumbnail/thumbnail_IMAG21_7220222612514879842.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/770844/thumbnail/thumbnail_IMAG21_ec749654-04d8-42d5-a252-f203897aff26.jpg"
     },
     {
       "id": 746835,
@@ -2045,8 +2045,8 @@ const webtoonsData = {
       "completed": true,
       "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=746835",
-      "img": "https://image-comic.pstatic.net/webtoon/750582/thumbnail/thumbnail_IMAG21_7293407407885333561.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5265201",
+      "img": "https://comicthumb-phinf.pstatic.net/20210428_252/pocket_1619593461069pkneL_JPEG/__690x1000.jpg?type=m260"
     },
     {
       "id": 785812,
@@ -2062,7 +2062,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=785812",
-      "img": "https://image-comic.pstatic.net/webtoon/765158/thumbnail/thumbnail_IMAG21_1a3c20c6-14fc-44c7-8f88-7512dbcb2321.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/785812/thumbnail/thumbnail_IMAG21_7291439068095145059.jpg"
     },
     {
       "id": 170785,
@@ -2078,7 +2078,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=170785",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/170785/thumbnail/thumbnail_IMAG21_7076336131417322338.jpg"
     },
     {
       "id": 546624,
@@ -2094,7 +2094,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=546624",
-      "img": "https://image-comic.pstatic.net/webtoon/792949/thumbnail/thumbnail_IMAG21_3990579812924732979.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/546624/thumbnail/thumbnail_IMAG21_7076387800776456546.jpg"
     },
     {
       "id": 621494,
@@ -2110,7 +2110,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=621494",
-      "img": "https://image-comic.pstatic.net/webtoon/727826/thumbnail/thumbnail_IMAG21_7364060719433135459.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/621494/thumbnail/thumbnail_IMAG21_3631643159654773347.jpg"
     },
     {
       "id": 785727,
@@ -2126,7 +2126,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=785727",
-      "img": "https://image-comic.pstatic.net/webtoon/778228/thumbnail/thumbnail_IMAG21_4051047668904440884.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/785727/thumbnail/thumbnail_IMAG21_577eb300-8278-423b-b1f8-cca37f54adb8.jpg"
     },
     {
       "id": 776302,
@@ -2142,7 +2142,7 @@ const webtoonsData = {
       "age": "",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=776302",
-      "img": "https://image-comic.pstatic.net/webtoon/684435/thumbnail/thumbnail_IMAG21_7221301422420406626.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/776302/thumbnail/thumbnail_IMAG21_3630799807661551715.JPEG"
     },
     {
       "id": 690020,
@@ -2158,7 +2158,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=690020",
-      "img": "https://image-comic.pstatic.net/webtoon/748534/thumbnail/thumbnail_IMAG21_78389d6b-badf-4424-b7dd-0a6c781065ba.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/690020/thumbnail/thumbnail_IMAG21_7161063380792850740.JPEG"
     },
     {
       "id": 762236,
@@ -2173,8 +2173,8 @@ const webtoonsData = {
       "completed": true,
       "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=762236",
-      "img": "https://image-comic.pstatic.net/webtoon/797512/thumbnail/thumbnail_IMAG21_7017560819100692837.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5790266",
+      "img": "https://comicthumb-phinf.pstatic.net/20210111_16/pocket_1610341238889taSKl_JPEG/_300_434.jpg?type=m260"
     },
     {
       "id": 771933,
@@ -2190,7 +2190,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=771933",
-      "img": "https://image-comic.pstatic.net/webtoon/730466/thumbnail/thumbnail_IMAG21_3774407060858364978.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/771933/thumbnail/thumbnail_IMAG21_7378410428507435365.jpg"
     },
     {
       "id": 795259,
@@ -2206,7 +2206,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=795259",
-      "img": "https://image-comic.pstatic.net/webtoon/63454/thumbnail/thumbnail_IMAG21_3761967358066897763.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/795259/thumbnail/thumbnail_IMAG21_3690471433347360052.jpg"
     },
     {
       "id": 205528,
@@ -2222,7 +2222,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=205528",
-      "img": "https://image-comic.pstatic.net/webtoon/687137/thumbnail/thumbnail_IMAG21_4135487963601776950.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/205528/thumbnail/thumbnail_IMAG21_3979268045065773877.jpg"
     },
     {
       "id": 798293,
@@ -2238,7 +2238,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=798293",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/798293/thumbnail/thumbnail_IMAG21_7ffec96d-3939-4039-b2ee-a011d6741bfd.jpeg"
     },
     {
       "id": 795929,
@@ -2254,7 +2254,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=795929",
-      "img": "https://image-comic.pstatic.net/webtoon/783534/thumbnail/thumbnail_IMAG21_2fee6e6d-99f8-4629-8f9a-dfcc49fcb3ad.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/795929/thumbnail/thumbnail_IMAG21_15a77e3d-669f-4658-991d-b73071283f6d.jpg"
     },
     {
       "id": 802819,
@@ -2270,7 +2270,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=802819",
-      "img": "https://image-comic.pstatic.net/webtoon/24777/thumbnail/thumbnail_IMAG21_7221019964670959973.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/802819/thumbnail/thumbnail_IMAG21_fa9e3190-5aec-4778-9deb-0c1226f162a9.jpg"
     },
     {
       "id": 802389,
@@ -2286,7 +2286,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=802389",
-      "img": "https://image-comic.pstatic.net/webtoon/733284/thumbnail/thumbnail_IMAG21_7364567791760913761.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/802389/thumbnail/thumbnail_IMAG21_2c396e53-5710-47b4-b9ae-0b9582454479.jpg"
     },
     {
       "id": 679570,
@@ -2302,7 +2302,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=679570",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/679570/thumbnail/thumbnail_IMAG21_7292229616941622839.JPEG"
     },
     {
       "id": 718020,
@@ -2318,7 +2318,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=718020",
-      "img": "https://image-comic.pstatic.net/webtoon/770844/thumbnail/thumbnail_IMAG21_ec749654-04d8-42d5-a252-f203897aff26.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/718020/thumbnail/thumbnail_IMAG21_4050196633952531512.jpg"
     },
     {
       "id": 682222,
@@ -2334,7 +2334,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=682222",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/682222/thumbnail/thumbnail_IMAG21_3906930093550875234.jpg"
     },
     {
       "id": 665170,
@@ -2350,7 +2350,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=665170",
-      "img": "https://image-comic.pstatic.net/webtoon/785812/thumbnail/thumbnail_IMAG21_7291439068095145059.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/665170/thumbnail/thumbnail_IMAG21_3833748996231619681.jpg"
     },
     {
       "id": 784837,
@@ -2366,7 +2366,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=784837",
-      "img": "https://image-comic.pstatic.net/webtoon/170785/thumbnail/thumbnail_IMAG21_7076336131417322338.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/784837/thumbnail/thumbnail_IMAG21_a78dc172-0702-4ab5-9437-6f970511a633.jpg"
     },
     {
       "id": 735982,
@@ -2382,7 +2382,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=735982",
-      "img": "https://image-comic.pstatic.net/webtoon/546624/thumbnail/thumbnail_IMAG21_7076387800776456546.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/735982/thumbnail/thumbnail_IMAG21_3760563088431200307.jpg"
     },
     {
       "id": 724817,
@@ -2398,7 +2398,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=724817",
-      "img": "https://image-comic.pstatic.net/webtoon/621494/thumbnail/thumbnail_IMAG21_3631643159654773347.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/724817/thumbnail/thumbnail_IMAG21_3979320834478257253.JPEG"
     },
     {
       "id": 694946,
@@ -2414,7 +2414,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=694946",
-      "img": "https://image-comic.pstatic.net/webtoon/785727/thumbnail/thumbnail_IMAG21_577eb300-8278-423b-b1f8-cca37f54adb8.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/694946/thumbnail/thumbnail_IMAG21_7219613466748924005.jpg"
     },
     {
       "id": 798331,
@@ -2430,7 +2430,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=798331",
-      "img": "https://image-comic.pstatic.net/webtoon/776302/thumbnail/thumbnail_IMAG21_3630799807661551715.JPEG"
+      "img": "https://image-comic.pstatic.net/webtoon/798331/thumbnail/thumbnail_IMAG21_8acd8214-c3df-427a-b0a5-d6ec3bd2811f.jpg"
     },
     {
       "id": 770015,
@@ -2446,7 +2446,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=770015",
-      "img": "https://image-comic.pstatic.net/webtoon/690020/thumbnail/thumbnail_IMAG21_7161063380792850740.JPEG"
+      "img": "https://image-comic.pstatic.net/webtoon/770015/thumbnail/thumbnail_IMAG21_3473180452099483234.jpg"
     },
     {
       "id": 758675,
@@ -2462,7 +2462,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=758675",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/758675/thumbnail/thumbnail_IMAG21_0a767a41-049d-4f56-ac93-b69bd2b04540.jpg"
     },
     {
       "id": 800504,
@@ -2478,7 +2478,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=800504",
-      "img": "https://image-comic.pstatic.net/webtoon/771933/thumbnail/thumbnail_IMAG21_7378410428507435365.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/800504/thumbnail/thumbnail_IMAG21_de7f2718-2ed9-4688-890d-fc73b9179c1d.jpg"
     },
     {
       "id": 783518,
@@ -2494,7 +2494,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=783518",
-      "img": "https://image-comic.pstatic.net/webtoon/795259/thumbnail/thumbnail_IMAG21_3690471433347360052.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/783518/thumbnail/thumbnail_IMAG21_7147551697234442294.jpg"
     },
     {
       "id": 316909,
@@ -2510,7 +2510,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=316909",
-      "img": "https://image-comic.pstatic.net/webtoon/205528/thumbnail/thumbnail_IMAG21_3979268045065773877.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/316909/thumbnail/thumbnail_IMAG21_3473513801691247160.jpg"
     },
     {
       "id": 772235,
@@ -2526,7 +2526,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=772235",
-      "img": "https://image-comic.pstatic.net/webtoon/798293/thumbnail/thumbnail_IMAG21_7ffec96d-3939-4039-b2ee-a011d6741bfd.jpeg"
+      "img": "https://image-comic.pstatic.net/webtoon/772235/thumbnail/thumbnail_IMAG21_3761972859165356595.jpg"
     },
     {
       "id": 784129,
@@ -2542,7 +2542,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=784129",
-      "img": "https://image-comic.pstatic.net/webtoon/795929/thumbnail/thumbnail_IMAG21_15a77e3d-669f-4658-991d-b73071283f6d.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/784129/thumbnail/thumbnail_IMAG21_7090461523070759481.jpg"
     },
     {
       "id": 765322,
@@ -2558,7 +2558,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=765322",
-      "img": "https://image-comic.pstatic.net/webtoon/802819/thumbnail/thumbnail_IMAG21_fa9e3190-5aec-4778-9deb-0c1226f162a9.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/765322/thumbnail/thumbnail_IMAG21_47daec60-5392-4de5-889e-2a8e9d22fde0.jpg"
     },
     {
       "id": 731019,
@@ -2574,7 +2574,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=731019",
-      "img": "https://image-comic.pstatic.net/webtoon/802389/thumbnail/thumbnail_IMAG21_2c396e53-5710-47b4-b9ae-0b9582454479.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/731019/thumbnail/thumbnail_IMAG21_3546921368509047602.jpg"
     },
     {
       "id": 557678,
@@ -2590,7 +2590,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=557678",
-      "img": "https://image-comic.pstatic.net/webtoon/679570/thumbnail/thumbnail_IMAG21_7292229616941622839.JPEG"
+      "img": "https://image-comic.pstatic.net/webtoon/557678/thumbnail/thumbnail_IMAG21_7378081708856324965.jpg"
     },
     {
       "id": 804333,
@@ -2606,7 +2606,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=804333",
-      "img": "https://image-comic.pstatic.net/webtoon/718020/thumbnail/thumbnail_IMAG21_4050196633952531512.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/804333/thumbnail/thumbnail_IMAG21_5f5bec29-b0aa-4260-8dc8-ce4bf09bab3c.jpg"
     },
     {
       "id": 801483,
@@ -2622,7 +2622,7 @@ const webtoonsData = {
       "age": "",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=801483",
-      "img": "https://image-comic.pstatic.net/webtoon/682222/thumbnail/thumbnail_IMAG21_3906930093550875234.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/801483/thumbnail/thumbnail_IMAG21_54f91501-7236-4b40-9b12-72a53eff97ca.jpg"
     },
     {
       "id": 756060,
@@ -2638,7 +2638,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=756060",
-      "img": "https://image-comic.pstatic.net/webtoon/665170/thumbnail/thumbnail_IMAG21_3833748996231619681.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/756060/thumbnail/thumbnail_IMAG21_3991091308334036582.jpg"
     },
     {
       "id": 507276,
@@ -2654,7 +2654,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=507276",
-      "img": "https://image-comic.pstatic.net/webtoon/784837/thumbnail/thumbnail_IMAG21_a78dc172-0702-4ab5-9437-6f970511a633.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/507276/thumbnail/thumbnail_IMAG21_3834078629818021689.jpg"
     },
     {
       "id": 770477,
@@ -2670,7 +2670,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=770477",
-      "img": "https://image-comic.pstatic.net/webtoon/735982/thumbnail/thumbnail_IMAG21_3760563088431200307.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/770477/thumbnail/thumbnail_IMAG21_352e4a32-9adc-4954-a7b0-ce0ff6cd5243.jpeg"
     },
     {
       "id": 734012,
@@ -2686,7 +2686,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=734012",
-      "img": "https://image-comic.pstatic.net/webtoon/724817/thumbnail/thumbnail_IMAG21_3979320834478257253.JPEG"
+      "img": "https://image-comic.pstatic.net/webtoon/734012/thumbnail/thumbnail_IMAG21_7291951658754455138.jpg"
     },
     {
       "id": 793863,
@@ -2702,7 +2702,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=793863",
-      "img": "https://image-comic.pstatic.net/webtoon/694946/thumbnail/thumbnail_IMAG21_7219613466748924005.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/793863/thumbnail/thumbnail_IMAG21_4063198183615246948.jpg"
     },
     {
       "id": 733080,
@@ -2718,7 +2718,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=733080",
-      "img": "https://image-comic.pstatic.net/webtoon/798331/thumbnail/thumbnail_IMAG21_8acd8214-c3df-427a-b0a5-d6ec3bd2811f.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/733080/thumbnail/thumbnail_IMAG21_695718f1-bb72-4e12-b027-ead169dc9f90.jpg"
     },
     {
       "id": 693429,
@@ -2734,7 +2734,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=693429",
-      "img": "https://image-comic.pstatic.net/webtoon/770015/thumbnail/thumbnail_IMAG21_3473180452099483234.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/693429/thumbnail/thumbnail_IMAG21_3689636002125591600.jpg"
     },
     {
       "id": 764130,
@@ -2750,7 +2750,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=764130",
-      "img": "https://image-comic.pstatic.net/webtoon/758675/thumbnail/thumbnail_IMAG21_0a767a41-049d-4f56-ac93-b69bd2b04540.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/764130/thumbnail/thumbnail_IMAG21_7077799551393019444.jpg"
     },
     {
       "id": 721457,
@@ -2766,7 +2766,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=721457",
-      "img": "https://image-comic.pstatic.net/webtoon/800504/thumbnail/thumbnail_IMAG21_de7f2718-2ed9-4688-890d-fc73b9179c1d.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/721457/thumbnail/thumbnail_IMAG21_3763146962245073202.jpg"
     },
     {
       "id": 710755,
@@ -2782,7 +2782,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=710755",
-      "img": "https://image-comic.pstatic.net/webtoon/783518/thumbnail/thumbnail_IMAG21_7147551697234442294.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/710755/thumbnail/thumbnail_IMAG21_7149010736293230390.jpg"
     },
     {
       "id": 258207,
@@ -2798,7 +2798,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=258207",
-      "img": "https://image-comic.pstatic.net/webtoon/316909/thumbnail/thumbnail_IMAG21_3473513801691247160.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/258207/thumbnail/thumbnail_IMAG21_3905859357365264997.jpg"
     },
     {
       "id": 783527,
@@ -2814,7 +2814,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=783527",
-      "img": "https://image-comic.pstatic.net/webtoon/772235/thumbnail/thumbnail_IMAG21_3761972859165356595.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/783527/thumbnail/thumbnail_IMAG21_e43d251c-2624-4f7d-871f-3c829ba25efa.jpg"
     },
     {
       "id": 226807,
@@ -2830,7 +2830,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=226807",
-      "img": "https://image-comic.pstatic.net/webtoon/784129/thumbnail/thumbnail_IMAG21_7090461523070759481.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/226807/thumbnail/thumbnail_IMAG21_4051043279447549494.jpg"
     },
     {
       "id": 72938,
@@ -2846,7 +2846,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=72938",
-      "img": "https://image-comic.pstatic.net/webtoon/765322/thumbnail/thumbnail_IMAG21_47daec60-5392-4de5-889e-2a8e9d22fde0.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/72938/thumbnail/thumbnail_IMAG21_3919882335456552548.jpg"
     },
     {
       "id": 767979,
@@ -2862,7 +2862,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=767979",
-      "img": "https://image-comic.pstatic.net/webtoon/731019/thumbnail/thumbnail_IMAG21_3546921368509047602.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/767979/thumbnail/thumbnail_IMAG21_3616779956457398840.jpg"
     },
     {
       "id": 801277,
@@ -2878,7 +2878,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=801277",
-      "img": "https://image-comic.pstatic.net/webtoon/557678/thumbnail/thumbnail_IMAG21_7378081708856324965.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/801277/thumbnail/thumbnail_IMAG21_704c7b5b-4662-4998-b388-735f1505dc34.jpg"
     },
     {
       "id": 783596,
@@ -2894,7 +2894,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=783596",
-      "img": "https://image-comic.pstatic.net/webtoon/804333/thumbnail/thumbnail_IMAG21_5f5bec29-b0aa-4260-8dc8-ce4bf09bab3c.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/783596/thumbnail/thumbnail_IMAG21_a2c613eb-8ef0-439d-bab8-cbfaec83a960.jpg"
     },
     {
       "id": 721463,
@@ -2910,7 +2910,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=721463",
-      "img": "https://image-comic.pstatic.net/webtoon/801483/thumbnail/thumbnail_IMAG21_54f91501-7236-4b40-9b12-72a53eff97ca.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/721463/thumbnail/thumbnail_IMAG21_7293351140307461431.jpg"
     },
     {
       "id": 723790,
@@ -2926,7 +2926,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=723790",
-      "img": "https://image-comic.pstatic.net/webtoon/756060/thumbnail/thumbnail_IMAG21_3991091308334036582.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/723790/thumbnail/thumbnail_IMAG21_7365462798655578725.jpg"
     },
     {
       "id": 679567,
@@ -2942,7 +2942,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=679567",
-      "img": "https://image-comic.pstatic.net/webtoon/507276/thumbnail/thumbnail_IMAG21_3834078629818021689.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/679567/thumbnail/thumbnail_IMAG21_4135823322496839777.JPEG"
     },
     {
       "id": 720128,
@@ -2958,7 +2958,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=720128",
-      "img": "https://image-comic.pstatic.net/webtoon/770477/thumbnail/thumbnail_IMAG21_352e4a32-9adc-4954-a7b0-ce0ff6cd5243.jpeg"
+      "img": "https://image-comic.pstatic.net/webtoon/720128/thumbnail/thumbnail_IMAG21_3702349449657868642.JPEG"
     },
     {
       "id": 729938,
@@ -2973,8 +2973,8 @@ const webtoonsData = {
       "completed": false,
       "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=729938",
-      "img": "https://image-comic.pstatic.net/webtoon/734012/thumbnail/thumbnail_IMAG21_7291951658754455138.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4247472",
+      "img": "https://comicthumb-phinf.pstatic.net/20251001_55/pocket_1759288762163oR68m_JPEG/%B1%DD%C8%A5%B7%C9.jpg?type=m260"
     },
     {
       "id": 770030,
@@ -2990,7 +2990,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=770030",
-      "img": "https://image-comic.pstatic.net/webtoon/793863/thumbnail/thumbnail_IMAG21_4063198183615246948.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/770030/thumbnail/thumbnail_IMAG21_3760841466767095601.jpg"
     },
     {
       "id": 758662,
@@ -3006,7 +3006,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=758662",
-      "img": "https://image-comic.pstatic.net/webtoon/733080/thumbnail/thumbnail_IMAG21_695718f1-bb72-4e12-b027-ead169dc9f90.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/758662/thumbnail/thumbnail_IMAG21_0c8a2c9e-b2de-4346-8ac6-c8e2c0a5bfe5.jpg"
     },
     {
       "id": 774504,
@@ -3022,7 +3022,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=774504",
-      "img": "https://image-comic.pstatic.net/webtoon/693429/thumbnail/thumbnail_IMAG21_3689636002125591600.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/774504/thumbnail/thumbnail_IMAG21_7233120970521798242.jpg"
     },
     {
       "id": 557672,
@@ -3038,7 +3038,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=557672",
-      "img": "https://image-comic.pstatic.net/webtoon/764130/thumbnail/thumbnail_IMAG21_7077799551393019444.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/557672/thumbnail/thumbnail_IMAG21_7365744050293924710.jpg"
     },
     {
       "id": 653344,
@@ -3054,7 +3054,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=653344",
-      "img": "https://image-comic.pstatic.net/webtoon/721457/thumbnail/thumbnail_IMAG21_3763146962245073202.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/653344/thumbnail/thumbnail_IMAG21_3545521711584000313.jpg"
     },
     {
       "id": 795333,
@@ -3070,7 +3070,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=795333",
-      "img": "https://image-comic.pstatic.net/webtoon/710755/thumbnail/thumbnail_IMAG21_7149010736293230390.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/795333/thumbnail/thumbnail_IMAG21_ed9c8b02-6fe0-405f-b58c-d37be88e18d2.jpg"
     },
     {
       "id": 770590,
@@ -3085,8 +3085,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=770590",
-      "img": "https://image-comic.pstatic.net/webtoon/258207/thumbnail/thumbnail_IMAG21_3905859357365264997.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6115289",
+      "img": "https://comicthumb-phinf.pstatic.net/20210416_281/pocket_16185509499165wAoR_JPEG/__690x1000.jpg?type=m260"
     },
     {
       "id": 471181,
@@ -3102,7 +3102,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=471181",
-      "img": "https://image-comic.pstatic.net/webtoon/783527/thumbnail/thumbnail_IMAG21_e43d251c-2624-4f7d-871f-3c829ba25efa.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/471181/thumbnail/thumbnail_IMAG21_7306581567301039461.jpg"
     },
     {
       "id": 801699,
@@ -3118,7 +3118,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=801699",
-      "img": "https://image-comic.pstatic.net/webtoon/226807/thumbnail/thumbnail_IMAG21_4051043279447549494.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/801699/thumbnail/thumbnail_IMAG21_f40b0153-89bb-4bf1-8cb0-592c1c2657f9.jpg"
     },
     {
       "id": 739113,
@@ -3134,7 +3134,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=739113",
-      "img": "https://image-comic.pstatic.net/webtoon/72938/thumbnail/thumbnail_IMAG21_3919882335456552548.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/739113/thumbnail/thumbnail_IMAG21_3904679375327683896.jpg"
     },
     {
       "id": 528781,
@@ -3150,7 +3150,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=528781",
-      "img": "https://image-comic.pstatic.net/webtoon/767979/thumbnail/thumbnail_IMAG21_3616779956457398840.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/528781/thumbnail/thumbnail_IMAG21_7075498484060140902.jpg"
     },
     {
       "id": 460689,
@@ -3166,7 +3166,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=460689",
-      "img": "https://image-comic.pstatic.net/webtoon/801277/thumbnail/thumbnail_IMAG21_704c7b5b-4662-4998-b388-735f1505dc34.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/460689/thumbnail/thumbnail_IMAG21_7077186049761621606.jpg"
     },
     {
       "id": 325630,
@@ -3182,7 +3182,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=325630",
-      "img": "https://image-comic.pstatic.net/webtoon/783596/thumbnail/thumbnail_IMAG21_a2c613eb-8ef0-439d-bab8-cbfaec83a960.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/325630/thumbnail/thumbnail_IMAG21_4050479002234742326.jpg"
     },
     {
       "id": 780988,
@@ -3198,7 +3198,7 @@ const webtoonsData = {
       "age": "",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=780988",
-      "img": "https://image-comic.pstatic.net/webtoon/721463/thumbnail/thumbnail_IMAG21_7293351140307461431.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/780988/thumbnail/thumbnail_IMAG21_7306583757680830051.jpg"
     },
     {
       "id": 336945,
@@ -3214,7 +3214,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=336945",
-      "img": "https://image-comic.pstatic.net/webtoon/723790/thumbnail/thumbnail_IMAG21_7365462798655578725.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/336945/thumbnail/thumbnail_IMAG21_7090465925328220211.jpg"
     },
     {
       "id": 777830,
@@ -3230,7 +3230,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=777830",
-      "img": "https://image-comic.pstatic.net/webtoon/679567/thumbnail/thumbnail_IMAG21_4135823322496839777.JPEG"
+      "img": "https://image-comic.pstatic.net/webtoon/777830/thumbnail/thumbnail_IMAG21_7219326523406760241.jpg"
     },
     {
       "id": 783053,
@@ -3246,7 +3246,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=783053",
-      "img": "https://image-comic.pstatic.net/webtoon/720128/thumbnail/thumbnail_IMAG21_3702349449657868642.JPEG"
+      "img": "https://image-comic.pstatic.net/webtoon/783053/thumbnail/thumbnail_IMAG21_1135578a-87ec-48ba-b2c5-c7b93b21f91c.jpg"
     },
     {
       "id": 750570,
@@ -3262,7 +3262,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=750570",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/750570/thumbnail/thumbnail_IMAG21_3977632182233938274.jpg"
     },
     {
       "id": 733077,
@@ -3278,7 +3278,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=733077",
-      "img": "https://image-comic.pstatic.net/webtoon/770030/thumbnail/thumbnail_IMAG21_3760841466767095601.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/733077/thumbnail/thumbnail_IMAG21_7221070537880396901.jpg"
     },
     {
       "id": 22073,
@@ -3294,7 +3294,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=22073",
-      "img": "https://image-comic.pstatic.net/webtoon/758662/thumbnail/thumbnail_IMAG21_0c8a2c9e-b2de-4346-8ac6-c8e2c0a5bfe5.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/22073/thumbnail/thumbnail_IMAG21_3558750124956006245.jpg"
     },
     {
       "id": 784815,
@@ -3309,8 +3309,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=784815",
-      "img": "https://image-comic.pstatic.net/webtoon/774504/thumbnail/thumbnail_IMAG21_7233120970521798242.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6744948",
+      "img": "https://comicthumb-phinf.pstatic.net/20211112_55/pocket_1636682374089Jglbl_JPEG/1%C8%AD%B1%C7%C8%A3%BD%E6%B3%D7%C0%CF%28300x430%29.jpg?type=m260"
     },
     {
       "id": 703851,
@@ -3326,7 +3326,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=703851",
-      "img": "https://image-comic.pstatic.net/webtoon/557672/thumbnail/thumbnail_IMAG21_7365744050293924710.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/703851/thumbnail/thumbnail_IMAG21_3906928993989124913.jpg"
     },
     {
       "id": 741894,
@@ -3341,8 +3341,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=741894",
-      "img": "https://image-comic.pstatic.net/webtoon/653344/thumbnail/thumbnail_IMAG21_3545521711584000313.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4961685",
+      "img": "https://comicthumb-phinf.pstatic.net/20200319_63/pocket_1584588294495vqMsF_JPEG/_690x100.jpg?type=m260"
     },
     {
       "id": 758666,
@@ -3358,7 +3358,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=758666",
-      "img": "https://image-comic.pstatic.net/webtoon/795333/thumbnail/thumbnail_IMAG21_ed9c8b02-6fe0-405f-b58c-d37be88e18d2.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/758666/thumbnail/thumbnail_IMAG21_7364564497641911606.jpg"
     },
     {
       "id": 733395,
@@ -3374,7 +3374,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=733395",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/733395/thumbnail/thumbnail_IMAG21_7219324312320762213.jpg"
     },
     {
       "id": 787730,
@@ -3390,7 +3390,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=787730",
-      "img": "https://image-comic.pstatic.net/webtoon/471181/thumbnail/thumbnail_IMAG21_7306581567301039461.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/787730/thumbnail/thumbnail_IMAG21_7293356821793825843.jpg"
     },
     {
       "id": 703841,
@@ -3406,7 +3406,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=703841",
-      "img": "https://image-comic.pstatic.net/webtoon/801699/thumbnail/thumbnail_IMAG21_f40b0153-89bb-4bf1-8cb0-592c1c2657f9.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/703841/thumbnail/thumbnail_IMAG21_3847262860878045540.jpg"
     },
     {
       "id": 764165,
@@ -3422,7 +3422,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=764165",
-      "img": "https://image-comic.pstatic.net/webtoon/739113/thumbnail/thumbnail_IMAG21_3904679375327683896.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/764165/thumbnail/thumbnail_IMAG21_3558518132328248162.jpg"
     },
     {
       "id": 505715,
@@ -3438,7 +3438,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=505715",
-      "img": "https://image-comic.pstatic.net/webtoon/528781/thumbnail/thumbnail_IMAG21_7075498484060140902.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/505715/thumbnail/thumbnail_IMAG21_3847824934725497145.jpg"
     },
     {
       "id": 741825,
@@ -3454,7 +3454,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=741825",
-      "img": "https://image-comic.pstatic.net/webtoon/460689/thumbnail/thumbnail_IMAG21_7077186049761621606.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/741825/thumbnail/thumbnail_IMAG21_0a05e5c3-8278-43ea-bbfb-99140c7f072c.jpg"
     },
     {
       "id": 721461,
@@ -3470,7 +3470,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=721461",
-      "img": "https://image-comic.pstatic.net/webtoon/325630/thumbnail/thumbnail_IMAG21_4050479002234742326.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/721461/thumbnail/thumbnail_IMAG21_4121138245951109217.jpg"
     },
     {
       "id": 414612,
@@ -3486,7 +3486,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=414612",
-      "img": "https://image-comic.pstatic.net/webtoon/780988/thumbnail/thumbnail_IMAG21_7306583757680830051.jpg"
+      "img": "https://i.namu.wiki/i/oF922bXJRZ1OVtRNfsvQarcxOKfJBqBKKWAlEK2JbQM4FpOQEbrvOlqknf2GmDVcLrrsB6ulRZpZo15U1Zf5DyCriibZ5dWIZVhgZE4erSBmCuPPD2hN6Z3MoFJ8ULyXLaDE1ZnHqIC0BI36HXEtKQ.webp"
     },
     {
       "id": 722728,
@@ -3502,7 +3502,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=722728",
-      "img": "https://image-comic.pstatic.net/webtoon/336945/thumbnail/thumbnail_IMAG21_7090465925328220211.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/722728/thumbnail/thumbnail_IMAG21_7219604888893809206.jpg"
     },
     {
       "id": 769685,
@@ -3518,7 +3518,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=769685",
-      "img": "https://image-comic.pstatic.net/webtoon/777830/thumbnail/thumbnail_IMAG21_7219326523406760241.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/769685/thumbnail/thumbnail_IMAG21_3486174674662142521.jpg"
     },
     {
       "id": 787495,
@@ -3534,7 +3534,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=787495",
-      "img": "https://image-comic.pstatic.net/webtoon/783053/thumbnail/thumbnail_IMAG21_1135578a-87ec-48ba-b2c5-c7b93b21f91c.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/787495/thumbnail/thumbnail_IMAG21_270c3e41-5c3c-42d9-bfae-86d8135af8c1.jpg"
     },
     {
       "id": 687915,
@@ -3550,7 +3550,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=687915",
-      "img": "https://image-comic.pstatic.net/webtoon/750570/thumbnail/thumbnail_IMAG21_3977632182233938274.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/687915/thumbnail/thumbnail_IMAG21_d46ad6b8-e9a8-4bc8-b501-e62adfee0eb6.jpg"
     },
     {
       "id": 801951,
@@ -3566,7 +3566,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=801951",
-      "img": "https://image-comic.pstatic.net/webtoon/733077/thumbnail/thumbnail_IMAG21_7221070537880396901.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/801951/thumbnail/thumbnail_IMAG21_84d3ca84-2df0-483f-a3f8-9169f42ea89c.jpg"
     },
     {
       "id": 780170,
@@ -3582,7 +3582,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=780170",
-      "img": "https://image-comic.pstatic.net/webtoon/22073/thumbnail/thumbnail_IMAG21_3558750124956006245.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/780170/thumbnail/thumbnail_IMAG21_25735c55-4f4a-409e-b280-3aa11060c173.jpg"
     },
     {
       "id": 773797,
@@ -3598,7 +3598,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=773797",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/773797/thumbnail/thumbnail_IMAG21_37c6a85a-d3a6-4afc-909a-420973f63019.jpg"
     },
     {
       "id": 803909,
@@ -3630,7 +3630,7 @@ const webtoonsData = {
       "age": "",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=801740",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/801740/thumbnail/thumbnail_IMAG21_8b6442e6-e974-4a4c-86f2-93a9ed78c623.jpg"
     },
     {
       "id": 670150,
@@ -3646,7 +3646,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=670150",
-      "img": "https://image-comic.pstatic.net/webtoon/758666/thumbnail/thumbnail_IMAG21_7364564497641911606.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/670150/thumbnail/thumbnail_IMAG21_7292516799121273648.jpg"
     },
     {
       "id": 747271,
@@ -3662,7 +3662,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=747271",
-      "img": "https://image-comic.pstatic.net/webtoon/733395/thumbnail/thumbnail_IMAG21_7219324312320762213.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/747271/thumbnail/thumbnail_IMAG21_d46b4a69-6de0-41be-b368-ce5e74ab8f76.jpg"
     },
     {
       "id": 659934,
@@ -3678,7 +3678,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=659934",
-      "img": "https://image-comic.pstatic.net/webtoon/787730/thumbnail/thumbnail_IMAG21_7293356821793825843.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/659934/thumbnail/thumbnail_IMAG21_4049970156015204708.jpg"
     },
     {
       "id": 721920,
@@ -3694,7 +3694,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=721920",
-      "img": "https://image-comic.pstatic.net/webtoon/703841/thumbnail/thumbnail_IMAG21_3847262860878045540.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/721920/thumbnail/thumbnail_IMAG21_3472895876159255601.jpg"
     },
     {
       "id": 628876,
@@ -3710,7 +3710,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=628876",
-      "img": "https://image-comic.pstatic.net/webtoon/764165/thumbnail/thumbnail_IMAG21_3558518132328248162.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/628876/thumbnail/thumbnail_IMAG21_7004898859606696244.jpg"
     },
     {
       "id": 72498,
@@ -3726,7 +3726,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=72498",
-      "img": "https://image-comic.pstatic.net/webtoon/505715/thumbnail/thumbnail_IMAG21_3847824934725497145.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/72498/thumbnail/thumbnail_IMAG21_3618421527216862769.jpg"
     },
     {
       "id": 771063,
@@ -3742,7 +3742,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=771063",
-      "img": "https://image-comic.pstatic.net/webtoon/741825/thumbnail/thumbnail_IMAG21_0a05e5c3-8278-43ea-bbfb-99140c7f072c.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/771063/thumbnail/thumbnail_IMAG21_3835156151229506357.jpg"
     },
     {
       "id": 797728,
@@ -3758,7 +3758,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=797728",
-      "img": "https://image-comic.pstatic.net/webtoon/721461/thumbnail/thumbnail_IMAG21_4121138245951109217.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/797728/thumbnail/thumbnail_IMAG21_7004614984478175842.jpg"
     },
     {
       "id": 778741,
@@ -3774,7 +3774,7 @@ const webtoonsData = {
       "age": "",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=778741",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/778741/thumbnail/thumbnail_IMAG21_3558185878037280353.jpg"
     },
     {
       "id": 387517,
@@ -3790,7 +3790,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=387517",
-      "img": "https://image-comic.pstatic.net/webtoon/722728/thumbnail/thumbnail_IMAG21_7219604888893809206.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/387517/thumbnail/thumbnail_IMAG21_3979267143877879088.jpg"
     },
     {
       "id": 756054,
@@ -3805,8 +3805,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=756054",
-      "img": "https://image-comic.pstatic.net/webtoon/769685/thumbnail/thumbnail_IMAG21_3486174674662142521.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4361770&isWebtoonAgreePopUp=true",
+      "img": "https://comicthumb-phinf.pstatic.net/20190726_129/pocket_1564115930335idd9r_JPEG/001.jpg?type=m260"
     },
     {
       "id": 803934,
@@ -3822,7 +3822,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=803934",
-      "img": "https://image-comic.pstatic.net/webtoon/787495/thumbnail/thumbnail_IMAG21_270c3e41-5c3c-42d9-bfae-86d8135af8c1.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/803934/thumbnail/thumbnail_IMAG21_4fabee83-c9ef-4a00-96f3-0ed4a45b90b5.jpg"
     },
     {
       "id": 776134,
@@ -3838,7 +3838,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=776134",
-      "img": "https://image-comic.pstatic.net/webtoon/687915/thumbnail/thumbnail_IMAG21_d46ad6b8-e9a8-4bc8-b501-e62adfee0eb6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/776134/thumbnail/thumbnail_IMAG21_7148166316345812277.jpg"
     },
     {
       "id": 733280,
@@ -3870,7 +3870,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=763308",
-      "img": "https://image-comic.pstatic.net/webtoon/780170/thumbnail/thumbnail_IMAG21_25735c55-4f4a-409e-b280-3aa11060c173.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/763308/thumbnail/thumbnail_IMAG21_3474636398885155683.jpg"
     },
     {
       "id": 788170,
@@ -3886,7 +3886,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=788170",
-      "img": "https://image-comic.pstatic.net/webtoon/773797/thumbnail/thumbnail_IMAG21_37c6a85a-d3a6-4afc-909a-420973f63019.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/788170/thumbnail/thumbnail_IMAG21_7221576313225962034.jpg"
     },
     {
       "id": 787729,
@@ -3902,7 +3902,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=787729",
-      "img": "https://image-comic.pstatic.net/webtoon/803909/thumbnail/thumbnail_IMAG21_c3c805b3-5ab9-4f16-918c-6f8554cabc17.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/787729/thumbnail/thumbnail_IMAG21_d6ca420b-0d77-40ec-b59b-8e44f785e79d.jpg"
     },
     {
       "id": 739350,
@@ -3918,7 +3918,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=739350",
-      "img": "https://image-comic.pstatic.net/webtoon/801740/thumbnail/thumbnail_IMAG21_8b6442e6-e974-4a4c-86f2-93a9ed78c623.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/739350/thumbnail/thumbnail_IMAG21_7018358871305893425.jpg"
     },
     {
       "id": 800360,
@@ -3934,7 +3934,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=800360",
-      "img": "https://image-comic.pstatic.net/webtoon/670150/thumbnail/thumbnail_IMAG21_7292516799121273648.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/800360/thumbnail/thumbnail_IMAG21_66a2bf1b-8c5d-4f08-9383-3834eefe1c70.jpg"
     },
     {
       "id": 750184,
@@ -3950,7 +3950,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=750184",
-      "img": "https://image-comic.pstatic.net/webtoon/747271/thumbnail/thumbnail_IMAG21_d46b4a69-6de0-41be-b368-ce5e74ab8f76.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/750184/thumbnail/thumbnail_IMAG21_adfbd65f-18fa-4268-81db-ec88ae4aa8b1.jpg"
     },
     {
       "id": 774039,
@@ -3966,7 +3966,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=774039",
-      "img": "https://image-comic.pstatic.net/webtoon/659934/thumbnail/thumbnail_IMAG21_4049970156015204708.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/774039/thumbnail/thumbnail_IMAG21_baed2068-c7f0-4f57-af10-c355f2b560f8.jpg"
     },
     {
       "id": 514917,
@@ -3982,7 +3982,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=514917",
-      "img": "https://image-comic.pstatic.net/webtoon/721920/thumbnail/thumbnail_IMAG21_3472895876159255601.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/514917/thumbnail/thumbnail_IMAG21_3832626389655239013.jpg"
     },
     {
       "id": 799165,
@@ -3998,7 +3998,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=799165",
-      "img": "https://image-comic.pstatic.net/webtoon/628876/thumbnail/thumbnail_IMAG21_7004898859606696244.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/799165/thumbnail/thumbnail_IMAG21_e4cf53a5-8d69-435d-95eb-a68a0128580e.jpg"
     },
     {
       "id": 776300,
@@ -4011,10 +4011,10 @@ const webtoonsData = {
       "description": "\"내 스마트폰이 사람으로 변해버렸다?\" 대학교 새내기인 나리가 돌연 사람으로 변해버린 자신의 스마트폰, 우주를 만나며 겪게 되는 좌충우돌 캠퍼스 로맨스.",
       "rating": 9.23,
       "completed": true,
-      "age": "",
+      "age": "18세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=776300",
-      "img": "https://image-comic.pstatic.net/webtoon/72498/thumbnail/thumbnail_IMAG21_3618421527216862769.jpg"
+      "link": "https://www.webtoonguide.com/ko/db/content-info/4440",
+      "img": "https://conist-cdn.com/8c/21/c781936d7c22184b207c06b25174"
     },
     {
       "id": 731939,
@@ -4030,7 +4030,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=731939",
-      "img": "https://image-comic.pstatic.net/webtoon/771063/thumbnail/thumbnail_IMAG21_3835156151229506357.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/731939/thumbnail/thumbnail_IMAG21_3618133653574859107.jpg"
     },
     {
       "id": 790416,
@@ -4046,7 +4046,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=790416",
-      "img": "https://image-comic.pstatic.net/webtoon/797728/thumbnail/thumbnail_IMAG21_7004614984478175842.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/790416/thumbnail/thumbnail_IMAG21_055ba017-9ab1-413f-8dab-dcab9b6ef090.jpg"
     },
     {
       "id": 709628,
@@ -4062,7 +4062,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=709628",
-      "img": "https://image-comic.pstatic.net/webtoon/778741/thumbnail/thumbnail_IMAG21_3558185878037280353.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/709628/thumbnail/thumbnail_IMAG21_7162466371390223920.jpg"
     },
     {
       "id": 742349,
@@ -4078,7 +4078,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=742349",
-      "img": "https://image-comic.pstatic.net/webtoon/387517/thumbnail/thumbnail_IMAG21_3979267143877879088.jpg"
+      "img": "https://i.namu.wiki/i/qJT1CzPcf94Zddx6wq5PYX9KesPHXpxgpzBAVCVFUqNA3rF47N9rKt2pMnDXYs19yOMMjHurHDvkw-IqaJOYt1NkMPrKonEPL5KxrwQ4PMluu3Le_E3faxeVSOpt60xOEJsJGy_HC-siLGziYlp8GQ.webp"
     },
     {
       "id": 762073,
@@ -4094,7 +4094,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=762073",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/762073/thumbnail/thumbnail_IMAG21_7306023187142227507.jpg"
     },
     {
       "id": 790880,
@@ -4110,7 +4110,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=790880",
-      "img": "https://image-comic.pstatic.net/webtoon/803934/thumbnail/thumbnail_IMAG21_4fabee83-c9ef-4a00-96f3-0ed4a45b90b5.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/790880/thumbnail/thumbnail_IMAG21_7147554785329688629.jpg"
     },
     {
       "id": 64997,
@@ -4126,7 +4126,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=64997",
-      "img": "https://image-comic.pstatic.net/webtoon/776134/thumbnail/thumbnail_IMAG21_7148166316345812277.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/64997/thumbnail/thumbnail_IMAG21_3834645974328108595.jpg"
     },
     {
       "id": 770068,
@@ -4142,7 +4142,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=770068",
-      "img": "https://image-comic.pstatic.net/webtoon/733280/thumbnail/thumbnail_IMAG21_d0cac92e-cbe4-42ef-aec0-a81ecffb26ef.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/770068/thumbnail/thumbnail_IMAG21_b5e21984-464b-4529-91fa-3ecc4428e690.jpg"
     },
     {
       "id": 772853,
@@ -4158,7 +4158,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=772853",
-      "img": "https://image-comic.pstatic.net/webtoon/763308/thumbnail/thumbnail_IMAG21_3474636398885155683.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/772853/thumbnail/thumbnail_IMAG21_b39e6531-f358-4add-91b3-24f0017ec5d8.jpg"
     },
     {
       "id": 791632,
@@ -4174,7 +4174,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=791632",
-      "img": "https://image-comic.pstatic.net/webtoon/788170/thumbnail/thumbnail_IMAG21_7221576313225962034.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/791632/thumbnail/thumbnail_IMAG21_0e5ee34e-898a-4106-8652-35525f24afa9.jpg"
     },
     {
       "id": 746534,
@@ -4190,7 +4190,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=746534",
-      "img": "https://image-comic.pstatic.net/webtoon/787729/thumbnail/thumbnail_IMAG21_d6ca420b-0d77-40ec-b59b-8e44f785e79d.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/746534/thumbnail/thumbnail_IMAG21_2df4002b-4597-4eed-8cdd-cb77eb73ad83.jpg"
     },
     {
       "id": 651667,
@@ -4205,8 +4205,8 @@ const webtoonsData = {
       "completed": true,
       "age": "15세 이용가",
       "free": false,
-      "link": "https://comic.naver.com/webtoon/list?titleId=651667",
-      "img": "https://image-comic.pstatic.net/webtoon/739350/thumbnail/thumbnail_IMAG21_7018358871305893425.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=2707904",
+      "img": "https://comicthumb-phinf.pstatic.net/20170317_26/pocket_1489748089290Shl3J_JPEG/image.JPEG?type=m260"
     },
     {
       "id": 729044,
@@ -4222,7 +4222,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=729044",
-      "img": "https://image-comic.pstatic.net/webtoon/800360/thumbnail/thumbnail_IMAG21_66a2bf1b-8c5d-4f08-9383-3834eefe1c70.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/729044/thumbnail/thumbnail_IMAG21_3761970677308024417.jpg"
     },
     {
       "id": 721459,
@@ -4238,7 +4238,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=721459",
-      "img": "https://image-comic.pstatic.net/webtoon/750184/thumbnail/thumbnail_IMAG21_adfbd65f-18fa-4268-81db-ec88ae4aa8b1.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/721459/thumbnail/thumbnail_IMAG21_3689066437925941305.jpg"
     },
     {
       "id": 796779,
@@ -4254,7 +4254,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=796779",
-      "img": "https://image-comic.pstatic.net/webtoon/774039/thumbnail/thumbnail_IMAG21_baed2068-c7f0-4f57-af10-c355f2b560f8.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/796779/thumbnail/thumbnail_IMAG21_58fd7363-864b-4abb-b623-32f7352ccf30.jpg"
     },
     {
       "id": 651670,
@@ -4270,7 +4270,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=651670",
-      "img": "https://image-comic.pstatic.net/webtoon/514917/thumbnail/thumbnail_IMAG21_3832626389655239013.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/651670/thumbnail/thumbnail_IMAG21_7234013791244333107.jpg"
     },
     {
       "id": 148975,
@@ -4286,7 +4286,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=148975",
-      "img": "https://image-comic.pstatic.net/webtoon/799165/thumbnail/thumbnail_IMAG21_e4cf53a5-8d69-435d-95eb-a68a0128580e.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/148975/thumbnail/thumbnail_IMAG21_7292235130924708454.jpg"
     },
     {
       "id": 752390,
@@ -4302,7 +4302,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=752390",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/752390/thumbnail/thumbnail_IMAG21_3616500697580003890.jpg"
     },
     {
       "id": 632341,
@@ -4318,7 +4318,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=632341",
-      "img": "https://image-comic.pstatic.net/webtoon/731939/thumbnail/thumbnail_IMAG21_3618133653574859107.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/632341/thumbnail/thumbnail_IMAG21_3978993364777646179.jpg"
     },
     {
       "id": 55150,
@@ -4349,8 +4349,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=761254",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4090286",
+      "img": "https://comicthumb-phinf.pstatic.net/20191223_225/pocket_15770807081134wK21_JPEG/2__%28%29_%281%29.jpg?type=m260"
     },
     {
       "id": 752340,
@@ -4397,8 +4397,8 @@ const webtoonsData = {
       "completed": true,
       "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=749639",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5188165",
+      "img": "https://comicthumb-phinf.pstatic.net/20200707_135/pocket_1594105677773xvC6m_JPEG/__690x100.jpg?type=m260"
     },
     {
       "id": 794154,
@@ -4446,7 +4446,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=797410",
-      "img": "https://image-comic.pstatic.net/webtoon/772853/thumbnail/thumbnail_IMAG21_b39e6531-f358-4add-91b3-24f0017ec5d8.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/797410/thumbnail/thumbnail_IMAG21_9852442e-217e-4ec7-92a7-21c0ada85dc7.jpg"
     },
     {
       "id": 551649,
@@ -4523,10 +4523,10 @@ const webtoonsData = {
       "description": "학교 최강의 파이터와 전교 1등 모범생, 너무나 다른 두 소꿉친구의 몸이 바뀌어버렸다!과연 둘은 서로의 자리를 지키며 원래의 몸으로 돌아갈 수 있을까?키스를 하면 돌아가는 두 남녀의 화끈한 학원 액션 로맨스!",
       "rating": 9.34,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=787671",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5286262",
+      "img": "https://comicthumb-phinf.pstatic.net/20200710_58/pocket_1594355547237e7gbm_JPEG/1_.jpg?type=m260"
     },
     {
       "id": 720120,
@@ -4573,8 +4573,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=784825",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6748367",
+      "img": "https://comicthumb-phinf.pstatic.net/20211103_129/pocket_1635932747965i1UPs_JPEG/%B9%E8%B3%CA%C0%CC%B9%CC%C1%F6%28%BC%BC%B7%CE%29.jpg?type=m260"
     },
     {
       "id": 783523,
@@ -4861,8 +4861,8 @@ const webtoonsData = {
       "completed": true,
       "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=750574",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=3091931",
+      "img": "https://comicthumb-phinf.pstatic.net/20171117_279/pocket_15108955237537JP9E_JPEG/___.jpg?type=m260"
     },
     {
       "id": 733006,
@@ -4891,10 +4891,10 @@ const webtoonsData = {
       "description": "어렸을 적 자신을 도와주었던 민호를 짝사랑 하던 한미남. 그러나 민호는 전학을 가게 되고 한미남의 짝사랑은 끝나는 줄 알았지만, 대학교에서 운명적인 만남을 하게 되는데...?!",
       "rating": 9.89,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=776298",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5032091",
+      "img": "https://comicthumb-phinf.pstatic.net/20200420_133/pocket_1587369536994sBGcc_JPEG/_.jpg?type=m260"
     },
     {
       "id": 602930,
@@ -5582,7 +5582,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=700858",
-      "img": "https://image-comic.pstatic.net/webtoon/797468/thumbnail/thumbnail_IMAG21_31b5356a-65c6-4ae3-a8af-92b1c959357f.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/700858/thumbnail/thumbnail_IMAG21_4049916052244674610.jpg"
     },
     {
       "id": 732955,
@@ -5675,10 +5675,10 @@ const webtoonsData = {
       "description": "세계 인구가 급증하자 피가 풍족해진 뱀파이어들은 피의 맛과 질을 고르기 시작했다.그후 인간의 피를 와인처럼 숙성시켜 마시는 시대가 왔다.그 중 최고의 와인제작사 킹스턴 와이너리의 대표자리를 친형에게 빼앗긴 해리는 한국에서 작은 와인바에서 혈액 브로커로 살아간다. 어느 날, 해리를 찾아온 여고생 연서가 천문학적인 가치의 피를 가졌음을 알고 연서에게 혈액제공 독점계약을 제안한다. 돈이 필요한 연서는 계약을 받아들이고 해리의 관리를 받게 되면서 종을 초월한 로맨스가 싹터가는데...",
       "rating": 9.75,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=769692",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5032617",
+      "img": "https://comicthumb-phinf.pstatic.net/20200420_56/pocket_1587368330641vymyb_JPEG/_Bloodtype_L_TitleImage_01.jpg?type=m260"
     },
     {
       "id": 784107,
@@ -6061,8 +6061,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=729089",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4206645",
+      "img": "https://comicthumb-phinf.pstatic.net/20190605_280/pocket_1559727454362tKLPe_JPEG/300_430.jpg?type=m260"
     },
     {
       "id": 790713,
@@ -6381,8 +6381,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": false,
-      "link": "https://comic.naver.com/webtoon/list?titleId=752462",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5290983&isWebtoonAgreePopUp=true",
+      "img": "https://comicthumb-phinf.pstatic.net/20200708_35/pocket_1594196210907dE781_JPEG/_01.jpg?type=m260"
     },
     {
       "id": 119874,
@@ -6654,7 +6654,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=530312",
-      "img": "https://image-comic.pstatic.net/webtoon/745186/thumbnail/thumbnail_IMAG21_7221583812171817316.JPEG"
+      "img": "https://image-comic.pstatic.net/webtoon/530312/thumbnail/thumbnail_IMAG21_7219662064237098805.JPEG"
     },
     {
       "id": 783865,
@@ -6670,7 +6670,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=783865",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/783865/thumbnail/thumbnail_IMAG21_d88f2cf6-b945-4e53-a5dc-ca6a69608ac8.jpg"
     },
     {
       "id": 449854,
@@ -6957,8 +6957,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=729003",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4172609",
+      "img": "https://comicthumb-phinf.pstatic.net/20200325_156/pocket_1585124592087yXduu_JPEG/_50_430.jpg?type=m260"
     },
     {
       "id": 758663,
@@ -7582,7 +7582,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=608259",
-      "img": "https://image-comic.pstatic.net/webtoon/160461/thumbnail/thumbnail_IMAG21_7306356361445586992.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/608259/thumbnail/thumbnail_IMAG21_3544667585191634022.jpg"
     },
     {
       "id": 478262,
@@ -7853,8 +7853,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=772020",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6005849&isWebtoonAgreePopUp=true",
+      "img": "https://comicthumb-phinf.pstatic.net/20211229_269/pocket_1640781438540NDheu_JPEG/%B7%CE%C6%C7%BA%F9%C0%C7%B8%B8%C8%AD_%BD%C3%C1%F02%28%BC%F6%C1%A4%29.jpg?type=m260"
     },
     {
       "id": 715935,
@@ -7915,10 +7915,10 @@ const webtoonsData = {
       "description": "서운대 완벽여신 안다름의 완.벽.한. 추락. 바로……엿같은 익명의 대학 커뮤니티 어플, '캠모' 때문에…!모든 걸 포기하고 싶던 순간.그녀의 손을 잡아준 유일한 사람, 이무열.그리고 그녀를 유혹하는 무열의 의미심장한 한 마디….“원한다면, 범인이 누군지 알려줄 수 있을 것 같은데.”각기 다른 이유로 루머의 중심에 선 네 남녀가 뭉쳤다!교내 대중의 심판대, 캠모에서전교생을 휘두르는 익명의 범인을 찾기 위해!낭만 가득 캠퍼스에서의심과 함께 피어오르는 두 커플의 핑크빛 기류.지금부터 그들의 익명 추적 로코가 시작된다…!",
       "rating": 9.67,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=801249",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6533524&isWebtoonAgreePopUp=true",
+      "img": "https://comicthumb-phinf.pstatic.net/20210824_284/pocket_1629783764043BGhkp_JPEG/_300x430.jpg?type=m260"
     },
     {
       "id": 730202,
@@ -7933,8 +7933,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=730202",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4271799&isWebtoonAgreePopUp=true",
+      "img": "https://comicthumb-phinf.pstatic.net/20190619_89/pocket_1560920458396k0qGk_JPEG/___300_430.jpg?type=m260"
     },
     {
       "id": 758678,
@@ -7982,7 +7982,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=360613",
-      "img": "https://image-comic.pstatic.net/webtoon/733033/thumbnail/thumbnail_IMAG21_7291716145078428473.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/360613/thumbnail/thumbnail_IMAG21_7162239841088267574.jpg"
     },
     {
       "id": 768097,
@@ -7998,7 +7998,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=768097",
-      "img": "https://image-comic.pstatic.net/webtoon/750576/thumbnail/thumbnail_IMAG21_7148111155359277623.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/768097/thumbnail/thumbnail_IMAG21_3760568572396714034.jpg"
     },
     {
       "id": 784842,
@@ -8014,7 +8014,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=784842",
-      "img": "https://image-comic.pstatic.net/webtoon/794742/thumbnail/thumbnail_IMAG21_761b9cda-5024-4109-bd3d-77e07ca6010f.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/784842/thumbnail/thumbnail_IMAG21_3761462695181889638.jpg"
     },
     {
       "id": 51007,
@@ -8030,7 +8030,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=51007",
-      "img": "https://image-comic.pstatic.net/webtoon/803010/thumbnail/thumbnail_IMAG21_39c36855-22e9-43eb-b0af-65fe8204d568.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/51007/thumbnail/thumbnail_IMAG21_7221581794358944611.jpg"
     },
     {
       "id": 579416,
@@ -8046,7 +8046,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=579416",
-      "img": "https://image-comic.pstatic.net/webtoon/773645/thumbnail/thumbnail_IMAG21_3774642342723793973.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/579416/thumbnail/thumbnail_IMAG21_4121696603866412899.jpg"
     },
     {
       "id": 277235,
@@ -8062,7 +8062,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=277235",
-      "img": "https://image-comic.pstatic.net/webtoon/792125/thumbnail/thumbnail_IMAG21_74ba68fa-63d8-41d1-9db2-09f6235dbd2d.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/277235/thumbnail/thumbnail_IMAG21_3473232117116187697.jpg"
     },
     {
       "id": 752414,
@@ -8078,7 +8078,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=752414",
-      "img": "https://image-comic.pstatic.net/webtoon/716164/thumbnail/thumbnail_IMAG21_3702347237732738658.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/752414/thumbnail/thumbnail_IMAG21_e93d3826-db41-4606-9d0c-5184d5bd2d09.jpg"
     },
     {
       "id": 803216,
@@ -8094,7 +8094,7 @@ const webtoonsData = {
       "age": "",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=803216",
-      "img": "https://image-comic.pstatic.net/webtoon/70920/thumbnail/thumbnail_IMAG21_4135824413405046374.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/803216/thumbnail/thumbnail_IMAG21_bffaeb88-47d0-4faa-9521-4f250b8821de.jpg"
     },
     {
       "id": 783552,
@@ -8110,7 +8110,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=783552",
-      "img": "https://image-comic.pstatic.net/webtoon/750558/thumbnail/thumbnail_IMAG21_7148167415155931235.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/783552/thumbnail/thumbnail_IMAG21_7865e109-e5c6-4015-9eb2-7d7bac2b1e54.jpg"
     },
     {
       "id": 786206,
@@ -8126,7 +8126,7 @@ const webtoonsData = {
       "age": "",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=786206",
-      "img": "https://image-comic.pstatic.net/webtoon/797582/thumbnail/thumbnail_IMAG21_c1588ed1-f012-4592-ae45-ff9b177fe9f9.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/786206/thumbnail/thumbnail_IMAG21_7089339153526568249.jpg"
     },
     {
       "id": 714185,
@@ -8142,7 +8142,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=714185",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/714185/thumbnail/thumbnail_IMAG21_3905807478569382193.jpg"
     },
     {
       "id": 766503,
@@ -8158,7 +8158,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=766503",
-      "img": "https://image-comic.pstatic.net/webtoon/715935/thumbnail/thumbnail_IMAG21_4f9e4aeb-7ff9-4ade-b960-63c1fad08a0b.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/766503/thumbnail/thumbnail_IMAG21_7075216802824400997.jpg"
     },
     {
       "id": 795926,
@@ -8174,7 +8174,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=795926",
-      "img": "https://image-comic.pstatic.net/webtoon/780983/thumbnail/thumbnail_IMAG21_3558466274943657061.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/795926/thumbnail/thumbnail_IMAG21_52d94324-8830-48f3-b2a8-33a719391799.jpeg"
     },
     {
       "id": 622646,
@@ -8190,7 +8190,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=622646",
-      "img": "https://image-comic.pstatic.net/webtoon/802039/thumbnail/thumbnail_IMAG21_a7a82a34-586c-4acf-b6f2-ab052be786f1.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/622646/thumbnail/thumbnail_IMAG21_3690762800418939961.jpg"
     },
     {
       "id": 755668,
@@ -8206,7 +8206,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=755668",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/755668/thumbnail/thumbnail_IMAG21_4051332219785065524.jpg"
     },
     {
       "id": 789612,
@@ -8222,7 +8222,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=789612",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/789612/thumbnail/thumbnail_IMAG21_20551414-7199-4250-9a58-320adb86fcef.jpg"
     },
     {
       "id": 783862,
@@ -8238,7 +8238,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=783862",
-      "img": "https://image-comic.pstatic.net/webtoon/758678/thumbnail/thumbnail_IMAG21_4134920430093100089.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/783862/thumbnail/thumbnail_IMAG21_b6f9ba07-4dfb-40cc-ada9-f397489e7b6d.jpg"
     },
     {
       "id": 794671,
@@ -8254,7 +8254,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=794671",
-      "img": "https://image-comic.pstatic.net/webtoon/794939/thumbnail/thumbnail_IMAG21_23006afc-accd-46f6-8014-c955c4aa6241.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/794671/thumbnail/thumbnail_IMAG21_48d943f4-b3e7-4d33-9438-4d6babc67be5.jpg"
     },
     {
       "id": 737021,
@@ -8286,7 +8286,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=796152",
-      "img": "https://image-comic.pstatic.net/webtoon/768097/thumbnail/thumbnail_IMAG21_3760568572396714034.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/796152/thumbnail/thumbnail_IMAG21_26b9c1d8-ca2d-4fc7-87ea-a3334634236a.jpg"
     },
     {
       "id": 624632,
@@ -8302,7 +8302,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=624632",
-      "img": "https://image-comic.pstatic.net/webtoon/784842/thumbnail/thumbnail_IMAG21_3761462695181889638.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/624632/thumbnail/thumbnail_IMAG21_7365745159166963810.jpg"
     },
     {
       "id": 748535,
@@ -8318,7 +8318,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=748535",
-      "img": "https://image-comic.pstatic.net/webtoon/51007/thumbnail/thumbnail_IMAG21_7221581794358944611.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/748535/thumbnail/thumbnail_IMAG21_f5c02af8-97c3-430a-9f6d-25e45173f07a.jpg"
     },
     {
       "id": 773644,
@@ -8334,7 +8334,7 @@ const webtoonsData = {
       "age": "",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=773644",
-      "img": "https://image-comic.pstatic.net/webtoon/579416/thumbnail/thumbnail_IMAG21_4121696603866412899.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/773644/thumbnail/thumbnail_IMAG21_4051331141728494135.jpg"
     },
     {
       "id": 786269,
@@ -8350,7 +8350,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=786269",
-      "img": "https://image-comic.pstatic.net/webtoon/277235/thumbnail/thumbnail_IMAG21_3473232117116187697.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/786269/thumbnail/thumbnail_IMAG21_b3eb90c9-7e2f-4140-9c52-06a3f26a584a.jpg"
     },
     {
       "id": 776655,
@@ -8366,7 +8366,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=776655",
-      "img": "https://image-comic.pstatic.net/webtoon/752414/thumbnail/thumbnail_IMAG21_e93d3826-db41-4606-9d0c-5184d5bd2d09.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/776655/thumbnail/thumbnail_IMAG21_03f3b4c0-493d-436e-bfca-5cb4c6649278.jpg"
     },
     {
       "id": 655746,
@@ -8382,7 +8382,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=655746",
-      "img": "https://image-comic.pstatic.net/webtoon/803216/thumbnail/thumbnail_IMAG21_bffaeb88-47d0-4faa-9521-4f250b8821de.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/655746/thumbnail/thumbnail_IMAG21_3977301010156642611.jpg"
     },
     {
       "id": 784826,
@@ -8398,7 +8398,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=784826",
-      "img": "https://image-comic.pstatic.net/webtoon/783552/thumbnail/thumbnail_IMAG21_7865e109-e5c6-4015-9eb2-7d7bac2b1e54.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/784826/thumbnail/thumbnail_IMAG21_7364060724469250145.jpg"
     },
     {
       "id": 796894,
@@ -8414,7 +8414,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=796894",
-      "img": "https://image-comic.pstatic.net/webtoon/786206/thumbnail/thumbnail_IMAG21_7089339153526568249.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/796894/thumbnail/thumbnail_IMAG21_3473180633326577200.jpg"
     },
     {
       "id": 24965,
@@ -8430,7 +8430,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=24965",
-      "img": "https://image-comic.pstatic.net/webtoon/714185/thumbnail/thumbnail_IMAG21_3905807478569382193.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/24965/thumbnail/thumbnail_IMAG21_3906928963954959927.jpg"
     },
     {
       "id": 783591,
@@ -8446,7 +8446,7 @@ const webtoonsData = {
       "age": "",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=783591",
-      "img": "https://image-comic.pstatic.net/webtoon/766503/thumbnail/thumbnail_IMAG21_7075216802824400997.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/783591/thumbnail/thumbnail_IMAG21_7365182212753799221.jpg"
     },
     {
       "id": 660366,
@@ -8462,7 +8462,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=660366",
-      "img": "https://image-comic.pstatic.net/webtoon/795926/thumbnail/thumbnail_IMAG21_52d94324-8830-48f3-b2a8-33a719391799.jpeg"
+      "img": "https://image-comic.pstatic.net/webtoon/660366/thumbnail/thumbnail_IMAG21_3774688497130353974.jpg"
     },
     {
       "id": 660333,
@@ -8894,7 +8894,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=789429",
-      "img": "https://image-comic.pstatic.net/webtoon/765776/thumbnail/thumbnail_IMAG21_7076617804832073011.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/789429/thumbnail/thumbnail_IMAG21_3834031570720010288.jpg"
     },
     {
       "id": 720190,
@@ -8910,7 +8910,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=720190",
-      "img": "https://image-comic.pstatic.net/webtoon/797760/thumbnail/thumbnail_IMAG21_23126df1-63b2-4998-8a77-99bfa3e598cc.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/720190/thumbnail/thumbnail_IMAG21_7305744817343051829.jpg"
     },
     {
       "id": 729038,
@@ -8926,7 +8926,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=729038",
-      "img": "https://image-comic.pstatic.net/webtoon/708427/thumbnail/thumbnail_IMAG21_3846416468920067169.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/729038/thumbnail/thumbnail_IMAG21_3774634638324215862.jpg"
     },
     {
       "id": 784255,
@@ -8942,7 +8942,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=784255",
-      "img": "https://image-comic.pstatic.net/webtoon/783117/thumbnail/thumbnail_IMAG21_7364620379494637924.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/784255/thumbnail/thumbnail_IMAG21_7003999451307455078.jpg"
     },
     {
       "id": 724274,
@@ -8958,7 +8958,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=724274",
-      "img": "https://image-comic.pstatic.net/webtoon/759940/thumbnail/thumbnail_IMAG21_3976787538998813497.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/724274/thumbnail/thumbnail_IMAG21_4049917182727512368.jpg"
     },
     {
       "id": 735078,
@@ -8974,7 +8974,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=735078",
-      "img": "https://image-comic.pstatic.net/webtoon/665174/thumbnail/thumbnail_IMAG21_7365748456896356661.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/735078/thumbnail/thumbnail_IMAG21_bbbfa6c0-bd41-4c59-a7fb-a44776497691.jpg"
     },
     {
       "id": 316908,
@@ -8990,7 +8990,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=316908",
-      "img": "https://image-comic.pstatic.net/webtoon/729964/thumbnail/thumbnail_IMAG21_3625061d-dadd-4e0c-96cd-9fcf1fe584c9.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/316908/thumbnail/thumbnail_IMAG21_3487306071257985889.jpg"
     },
     {
       "id": 797253,
@@ -9006,7 +9006,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=797253",
-      "img": "https://image-comic.pstatic.net/webtoon/733274/thumbnail/thumbnail_IMAG21_3847534478888428385.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/797253/thumbnail/thumbnail_IMAG21_3adf296f-505b-4824-98b0-61c28432fb2d.jpg"
     },
     {
       "id": 791140,
@@ -9022,7 +9022,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=791140",
-      "img": "https://image-comic.pstatic.net/webtoon/409100/thumbnail/thumbnail_IMAG21_3906702464596206694.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/791140/thumbnail/thumbnail_IMAG21_28c779aa-48bf-47bc-8a52-fd0ede76a9c5.jpg"
     },
     {
       "id": 799838,
@@ -9038,7 +9038,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=799838",
-      "img": "https://image-comic.pstatic.net/webtoon/773916/thumbnail/thumbnail_IMAG21_bde2067c-3112-4b2e-a62e-335ddb0f4cc2.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/799838/thumbnail/thumbnail_IMAG21_e19883fb-74f1-4491-9b72-8731946a11fc.jpg"
     },
     {
       "id": 733488,
@@ -9054,7 +9054,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=733488",
-      "img": "https://image-comic.pstatic.net/webtoon/768472/thumbnail/thumbnail_IMAG21_3906699182466283824.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/733488/thumbnail/thumbnail_IMAG21_4049127711853208369.jpg"
     },
     {
       "id": 774043,
@@ -9070,7 +9070,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=774043",
-      "img": "https://image-comic.pstatic.net/webtoon/761596/thumbnail/thumbnail_IMAG21_7089283062092215858.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/774043/thumbnail/thumbnail_IMAG21_7305230228785542756.jpg"
     },
     {
       "id": 142911,
@@ -9086,7 +9086,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=142911",
-      "img": "https://image-comic.pstatic.net/webtoon/729326/thumbnail/thumbnail_IMAG21_4051041973629432674.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/142911/thumbnail/thumbnail_IMAG21_7293973652078475064.jpg"
     },
     {
       "id": 797442,
@@ -9102,7 +9102,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=797442",
-      "img": "https://image-comic.pstatic.net/webtoon/528784/thumbnail/thumbnail_IMAG21_4050815449367458612.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/797442/thumbnail/thumbnail_IMAG21_1569af42-60fe-49bf-8f9a-93e8a59ed3a2.jpg"
     },
     {
       "id": 789979,
@@ -9118,7 +9118,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=789979",
-      "img": "https://image-comic.pstatic.net/webtoon/773796/thumbnail/thumbnail_IMAG21_330b9600-fe34-42f4-b37a-e38361acea4e.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/789979/thumbnail/thumbnail_IMAG21_07d44ecc-faf1-4b21-bbaa-63ff65bd4d67.jpg"
     },
     {
       "id": 771717,
@@ -9134,7 +9134,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=771717",
-      "img": "https://image-comic.pstatic.net/webtoon/597466/thumbnail/thumbnail_IMAG21_3486120583861121847.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/771717/thumbnail/thumbnail_IMAG21_3907207368012751202.jpg"
     },
     {
       "id": 784843,
@@ -9150,7 +9150,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=784843",
-      "img": "https://image-comic.pstatic.net/webtoon/791062/thumbnail/thumbnail_IMAG21_d358a9ab-09bc-436b-8a77-076cae2ea8d1.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/784843/thumbnail/thumbnail_IMAG21_3760895127252513590.jpg"
     },
     {
       "id": 791892,
@@ -9166,7 +9166,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=791892",
-      "img": "https://image-comic.pstatic.net/webtoon/753806/thumbnail/thumbnail_IMAG21_3545848258028386361.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/791892/thumbnail/thumbnail_IMAG21_3834359001091564337.jpg"
     },
     {
       "id": 786908,
@@ -9179,9 +9179,9 @@ const webtoonsData = {
       "description": "모기가 지구 최강의 포식자로 거듭난 후 100년, 아직 인류의 희망은 사라지지 않았다!",
       "rating": 9.95,
       "completed": true,
-      "age": "",
+      "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=786908",
+      "link": "https://series.naver.com/comic/detail.series?productNo=4860153",
       "img": "https://comicthumb-phinf.pstatic.net/20200217_227/pocket_1581867744731I1a3S_JPEG/___%281%29.jpg?type=m260"
     },
     {
@@ -9198,7 +9198,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=794942",
-      "img": "https://image-comic.pstatic.net/webtoon/720190/thumbnail/thumbnail_IMAG21_7305744817343051829.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/794942/thumbnail/thumbnail_IMAG21_706ebfb9-6fa3-4834-bdd3-afd8e5dc8601.jpg"
     },
     {
       "id": 521504,
@@ -9214,7 +9214,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=521504",
-      "img": "https://image-comic.pstatic.net/webtoon/729038/thumbnail/thumbnail_IMAG21_3774634638324215862.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/521504/thumbnail/thumbnail_IMAG21_3919318277370755382.jpg"
     },
     {
       "id": 617882,
@@ -9230,7 +9230,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=617882",
-      "img": "https://image-comic.pstatic.net/webtoon/784255/thumbnail/thumbnail_IMAG21_7003999451307455078.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/617882/thumbnail/thumbnail_IMAG21_3760848063081953592.jpg"
     },
     {
       "id": 764128,
@@ -9246,7 +9246,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=764128",
-      "img": "https://image-comic.pstatic.net/webtoon/724274/thumbnail/thumbnail_IMAG21_4049917182727512368.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/764128/thumbnail/thumbnail_IMAG21_1d8ee74e-24c4-43b7-aee3-52ad2f7dbe9f.jpg"
     },
     {
       "id": 471283,
@@ -9262,7 +9262,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=471283",
-      "img": "https://image-comic.pstatic.net/webtoon/735078/thumbnail/thumbnail_IMAG21_bbbfa6c0-bd41-4c59-a7fb-a44776497691.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/471283/thumbnail/thumbnail_IMAG21_3630571131576345912.jpg"
     },
     {
       "id": 802941,
@@ -9278,7 +9278,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=802941",
-      "img": "https://image-comic.pstatic.net/webtoon/316908/thumbnail/thumbnail_IMAG21_3487306071257985889.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/802941/thumbnail/thumbnail_IMAG21_fec56346-310d-4fe1-a0e7-db94057dbe51.jpg"
     },
     {
       "id": 604146,
@@ -9294,7 +9294,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=604146",
-      "img": "https://image-comic.pstatic.net/webtoon/797253/thumbnail/thumbnail_IMAG21_3adf296f-505b-4824-98b0-61c28432fb2d.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/604146/thumbnail/thumbnail_IMAG21_3760559776203092021.jpg"
     },
     {
       "id": 734918,
@@ -9310,7 +9310,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=734918",
-      "img": "https://image-comic.pstatic.net/webtoon/791140/thumbnail/thumbnail_IMAG21_28c779aa-48bf-47bc-8a52-fd0ede76a9c5.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/734918/thumbnail/thumbnail_IMAG21_85196ed4-dcbc-4bcc-8a67-60ce510e83fc.jpg"
     },
     {
       "id": 772243,
@@ -9326,7 +9326,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=772243",
-      "img": "https://image-comic.pstatic.net/webtoon/799838/thumbnail/thumbnail_IMAG21_e19883fb-74f1-4491-9b72-8731946a11fc.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/772243/thumbnail/thumbnail_IMAG21_3918807214864216674.jpg"
     },
     {
       "id": 771985,
@@ -9342,7 +9342,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=771985",
-      "img": "https://image-comic.pstatic.net/webtoon/733488/thumbnail/thumbnail_IMAG21_4049127711853208369.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/771985/thumbnail/thumbnail_IMAG21_ab69deb6-124b-47c8-ae18-7ae0b995c2b0.jpg"
     },
     {
       "id": 728015,
@@ -9358,7 +9358,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=728015",
-      "img": "https://image-comic.pstatic.net/webtoon/774043/thumbnail/thumbnail_IMAG21_7305230228785542756.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/728015/thumbnail/thumbnail_IMAG21_7a300947-8610-4315-8848-2b055c087935.jpg"
     },
     {
       "id": 622648,
@@ -9374,7 +9374,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=622648",
-      "img": "https://image-comic.pstatic.net/webtoon/142911/thumbnail/thumbnail_IMAG21_7293973652078475064.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/622648/thumbnail/thumbnail_IMAG21_3474352535809254500.JPEG"
     },
     {
       "id": 666670,
@@ -9390,7 +9390,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=666670",
-      "img": "https://image-comic.pstatic.net/webtoon/797442/thumbnail/thumbnail_IMAG21_1569af42-60fe-49bf-8f9a-93e8a59ed3a2.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/666670/thumbnail/thumbnail_IMAG21_4134926116750242354.JPEG"
     },
     {
       "id": 792452,
@@ -9406,7 +9406,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=792452",
-      "img": "https://image-comic.pstatic.net/webtoon/789979/thumbnail/thumbnail_IMAG21_07d44ecc-faf1-4b21-bbaa-63ff65bd4d67.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/792452/thumbnail/thumbnail_IMAG21_7075545548348207714.jpg"
     },
     {
       "id": 727191,
@@ -9422,7 +9422,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=727191",
-      "img": "https://image-comic.pstatic.net/webtoon/771717/thumbnail/thumbnail_IMAG21_3907207368012751202.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/727191/thumbnail/thumbnail_IMAG21_7365182411029950821.jpg"
     },
     {
       "id": 697681,
@@ -9438,7 +9438,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=697681",
-      "img": "https://image-comic.pstatic.net/webtoon/784843/thumbnail/thumbnail_IMAG21_3760895127252513590.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/697681/thumbnail/thumbnail_IMAG21_3905576580996674097.jpg"
     },
     {
       "id": 771044,
@@ -9454,7 +9454,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=771044",
-      "img": "https://image-comic.pstatic.net/webtoon/791892/thumbnail/thumbnail_IMAG21_3834359001091564337.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/771044/thumbnail/thumbnail_IMAG21_7003435216387258676.jpg"
     },
     {
       "id": 778991,
@@ -9470,7 +9470,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=778991",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/778991/thumbnail/thumbnail_IMAG21_3544721241449849699.jpg"
     },
     {
       "id": 723362,
@@ -9486,7 +9486,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=723362",
-      "img": "https://image-comic.pstatic.net/webtoon/794942/thumbnail/thumbnail_IMAG21_706ebfb9-6fa3-4834-bdd3-afd8e5dc8601.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/723362/thumbnail/thumbnail_IMAG21_3832953820815963489.JPEG"
     },
     {
       "id": 89098,
@@ -9502,7 +9502,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=89098",
-      "img": "https://image-comic.pstatic.net/webtoon/521504/thumbnail/thumbnail_IMAG21_3919318277370755382.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/89098/thumbnail/thumbnail_IMAG21_7219324513462530103.jpg"
     },
     {
       "id": 644112,
@@ -9614,7 +9614,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=726842",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://i.namu.wiki/i/g2GSe1Y8M-VhWGrK3hFXU49cojwgbyS453xNDP44EgfzwVhDblRXuXkYs5BFA_bxArapvoTwYgt9da3X8Y5LxqnNtNEGi-0ICveJ-jY6T5-UW-qEeNh_GyI0fFhVV8_aDWReKfLQgh29Xr5Ysr4aoQ.webp"
     },
     {
       "id": 746857,
@@ -9934,7 +9934,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=793350",
-      "img": "https://image-comic.pstatic.net/webtoon/778322/thumbnail/thumbnail_IMAG21_3918807004477994082.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/793350/thumbnail/thumbnail_IMAG21_3545852647434696500.jpg"
     },
     {
       "id": 791616,
@@ -10782,7 +10782,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=517773",
-      "img": "https://image-comic.pstatic.net/webtoon/761102/thumbnail/thumbnail_IMAG21_7162238746713534518.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/517773/thumbnail/thumbnail_IMAG21_3977016233125099056.jpg"
     },
     {
       "id": 793130,
@@ -10829,8 +10829,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=784816",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6743070&isWebtoonAgreePopUp=true",
+      "img": "https://comicthumb-phinf.pstatic.net/20211112_286/pocket_1636682414308ArXqY_JPEG/1%C8%AD%B1%C7%C8%A3%BD%E6%B3%D7%C0%CF%28300x430%29_%281%29.jpg?type=m260"
     },
     {
       "id": 703631,
@@ -11037,8 +11037,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=763851",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5799066&isWebtoonAgreePopUp=true",
+      "img": "https://comicthumb-phinf.pstatic.net/20210118_297/pocket_1610949369987bq6xw_JPEG/__690x1000.jpg?type=m260"
     },
     {
       "id": 695585,
@@ -11182,7 +11182,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=796867",
-      "img": "https://image-comic.pstatic.net/webtoon/733034/thumbnail/thumbnail_IMAG21_3991086678389699384.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/796867/thumbnail/thumbnail_IMAG21_fc03c47f-5289-4c54-b3eb-718592ce8309.jpg"
     },
     {
       "id": 784850,
@@ -11310,7 +11310,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=755982",
-      "img": "https://image-comic.pstatic.net/webtoon/745654/thumbnail/thumbnail_IMAG21_3978989878055821874.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/755982/thumbnail/thumbnail_IMAG21_3847870929396250465.jpg"
     },
     {
       "id": 796302,
@@ -11342,7 +11342,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=789434",
-      "img": "https://image-comic.pstatic.net/webtoon/695585/thumbnail/thumbnail_IMAG21_7161393441227812921.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/789434/thumbnail/thumbnail_IMAG21_3558519244808479285.jpg"
     },
     {
       "id": 792379,
@@ -11947,10 +11947,10 @@ const webtoonsData = {
       "description": "용사가 되려는 자여, 내 드래곤 추적기를 주겠다! '경로안내 시작, 성남시 분당구 구미동 3210번지'",
       "rating": 8.87,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=785449",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://conist-cdn.com/py_c/0a/53/be0f3e1477d93cdd2e3bbb383f55"
     },
     {
       "id": 799805,
@@ -12013,8 +12013,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": false,
-      "link": "https://comic.naver.com/webtoon/list?titleId=63455",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=2582641",
+      "img": "https://comicthumb-phinf.pstatic.net/20161221_187/pocket_1482305742212CYaWy_JPEG/__.jpg?type=m260"
     },
     {
       "id": 738843,
@@ -12381,8 +12381,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=745570",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=2644729&isWebtoonAgreePopUp=true",
+      "img": "https://comicthumb-phinf.pstatic.net/20170207_66/pocket_1486447704816n5aBD_JPEG/b1000x1500.jpg?type=m260"
     },
     {
       "id": 794415,
@@ -12395,10 +12395,10 @@ const webtoonsData = {
       "description": "민백두 유니버스 크로스오버의 완결판. 화제의 작품 [블러드 레인]의 후속작이 다른 주인공과 새로운 사건으로 다시 돌아온다.국내 최대 조직을 무너뜨리기 위한 음모와 진실. 그리고 그 뒤에 숨어있는 거대한 흑막.최강의 주먹 이정우, 조폭사냥꾼 김종일, 윤정임의 동생 윤정희, 백발마녀 김성희 등이들을 통해 보여주는 천외천...새로운 세계가 이제 시작된다.",
       "rating": 9.44,
       "completed": true,
-      "age": "",
+      "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=794415",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=3640815",
+      "img": "https://comicthumb-phinf.pstatic.net/20180917_71/pocket_1537119008725XXlJE_JPEG/2_-01_.jpg?type=m260"
     },
     {
       "id": 737378,
@@ -12510,7 +12510,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=743026",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://i.namu.wiki/i/IKU9BwUXkIzJGmyAWdjQ4VprDBExKklN435E4EygYFtC4wNnb9KjokM2-9N7I6pAmqCY0Mu90WNnddJzrf9pucUwlGaGeXaz3hbYEpCTyrnCBd7tv48l6kcI-C0i3HIywd2iSHTUfIqxdRIy6y0h6Q.webp"
     },
     {
       "id": 803458,
@@ -12574,7 +12574,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=791253",
-      "img": "https://image-comic.pstatic.net/webtoon/775721/thumbnail/thumbnail_IMAG21_3617909151338882146.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/791253/thumbnail/thumbnail_IMAG21_7018352273394119991.jpg"
     },
     {
       "id": 703843,
@@ -12782,7 +12782,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=753383",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://conist-cdn.com/py_c/b2/49/24e02a9eb3457c23fdd1fa798d74"
     },
     {
       "id": 764040,
@@ -12878,7 +12878,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=727784",
-      "img": "https://image-comic.pstatic.net/webtoon/703843/thumbnail/thumbnail_IMAG21_7233963222279403873.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/727784/thumbnail/thumbnail_IMAG21_25e4ca79-9ea7-4f52-ac62-473b0bc2f360.jpg"
     },
     {
       "id": 66913,
@@ -12926,7 +12926,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=722725",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://conist-cdn.com/py_c/86/b0/39ef66e9132bb9dbaf906958abb5"
     },
     {
       "id": 758664,
@@ -13245,8 +13245,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=784810",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6253550",
+      "img": "https://comicthumb-phinf.pstatic.net/20210602_235/pocket_1622620645484HyXfm_JPEG/1_.jpg?type=m260"
     },
     {
       "id": 726211,
@@ -13323,10 +13323,10 @@ const webtoonsData = {
       "description": "좀비가 창궐한 세상, 자아를 가진 사이코패스 좀비가 인류를 구한다?!",
       "rating": 9.14,
       "completed": true,
-      "age": "",
+      "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=801251",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6247179",
+      "img": "https://comicthumb-phinf.pstatic.net/20210610_153/pocket_1623304421902DsCWC_JPEG/__%28690X1000%29.jpg?type=m260"
     },
     {
       "id": 801743,
@@ -13371,10 +13371,10 @@ const webtoonsData = {
       "description": "[한 여자를 죽여야만 살 수 있는 팔자라면, 그건 정말 저주 받은 운명 아닙니까]폭군의 사주를 가지고 태어난 이운, 모두가 기피하는 드센 팔자를 타고 태어난 민해명. 사주로 이어진 우연한 만남과 운명 같은 사랑으로 그려진 픽션 사극 로맨스.",
       "rating": 9.87,
       "completed": true,
-      "age": "",
+      "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=797511",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6255718",
+      "img": "https://comicthumb-phinf.pstatic.net/20210601_224/pocket_1622528732447RwqSS_JPEG/___.jpg?type=m260"
     },
     {
       "id": 784828,
@@ -13435,10 +13435,10 @@ const webtoonsData = {
       "description": "요괴의 저주를 받아 심장을 잃은 산신이1000년의 근신생활 끝에 자신의 심장을 찾아 인간세상으로 나오면서 벌어지는 시끌벅적 코믹 로맨스판타지 \"심장아, 나 너 찾고있냐...?\"",
       "rating": 9.87,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=778740",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5458763",
+      "img": "https://comicthumb-phinf.pstatic.net/20250728_27/pocket_1753670190045SDmnm_JPEG/1%C8%AD-%BD%E6%B3%D7%C0%CF.jpg?type=m260"
     },
     {
       "id": 792372,
@@ -13470,7 +13470,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=726095",
-      "img": "https://image-comic.pstatic.net/webtoon/730811/thumbnail/thumbnail_IMAG21_3616500874495801441.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/726095/thumbnail/thumbnail_IMAG21_3904963066493809207.jpg"
     },
     {
       "id": 795235,
@@ -13758,7 +13758,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=661043",
-      "img": "https://image-comic.pstatic.net/webtoon/726095/thumbnail/thumbnail_IMAG21_3904963066493809207.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/661043/thumbnail/thumbnail_IMAG21_3702865124906133046.jpg"
     },
     {
       "id": 26107,
@@ -14205,8 +14205,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=697680",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://comic.naver.com/webtoon/list?titleId=478261",
+      "img": "https://image-comic.pstatic.net/webtoon/478261/thumbnail/thumbnail_IMAG21_7fbd8610-0a97-40e3-9c63-101ea07fc4b4.jpg"
     },
     {
       "id": 752402,
@@ -14510,7 +14510,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=783057",
-      "img": "https://image-comic.pstatic.net/webtoon/752402/thumbnail/thumbnail_IMAG21_6d7a2e3c-aa28-4dcc-8323-5036c42001d6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/783057/thumbnail/thumbnail_IMAG21_4122825987746510693.jpg"
     },
     {
       "id": 578106,
@@ -14766,7 +14766,7 @@ const webtoonsData = {
       "age": "15세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=790829",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://i.namu.wiki/i/RTW6djoy4hrLzmfQYNjIfHalGW77Y9y_he3rnEONNbsRL75xkJAaoqV5q5xcYu0DaN0eMatyd7ic0UJw9Gwgj34YcDqj0ag_7X3q45jpTutuJ2fseiQNZa8FqrrlJAt0YgM3zUUopEYT0BBvSnjAVg.webp"
     },
     {
       "id": 94761,
@@ -14830,7 +14830,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=707671",
-      "img": "https://image-comic.pstatic.net/webtoon/718016/thumbnail/thumbnail_IMAG21_7221577190187492146.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/707671/thumbnail/thumbnail_IMAG21_3761461582000042291.jpg"
     },
     {
       "id": 801481,
@@ -14877,8 +14877,8 @@ const webtoonsData = {
       "completed": true,
       "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=755758",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5541482",
+      "img": "https://comicthumb-phinf.pstatic.net/20200928_42/pocket_1601267978590P1DGK_JPEG/_.jpg?type=m260"
     },
     {
       "id": 723414,
@@ -15067,10 +15067,10 @@ const webtoonsData = {
       "description": "발칙한 술주정으로 엮여버린 오피스 로맨스네 번째 남자에게 마저 차이고 이별 후유증을 앓고 있는 한시원 대리.매일 한대리의 일처리를 지적하는 비호감 문과장 때문에 자존감까지 바닥이다.쌓일 대로 쌓인 시원은 회식 날 문과장에게 술에 취해 삿대질을 하며 추태를 부리고…시원은 사과를 하려다 그만 문과장에게 말도 안 되는 고백을 하게 된다.당장 고백을 무르고 싶지만 문과장의 수락에 얼떨결에 비밀 사내 연애를 시작하게 된다.",
       "rating": 9.91,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=802034",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5100152",
+      "img": "https://comicthumb-phinf.pstatic.net/20200507_202/pocket_1588836533853HcsPT_JPEG/-_001.jpg?type=m260"
     },
     {
       "id": 751625,
@@ -15149,8 +15149,8 @@ const webtoonsData = {
       "completed": true,
       "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=744081",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4022288",
+      "img": "https://comicthumb-phinf.pstatic.net/20190403_252/pocket_1554278977419ybKTm_JPEG/001.jpg?type=m260"
     },
     {
       "id": 703853,
@@ -15501,8 +15501,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=751642",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5153548",
+      "img": "https://comicthumb-phinf.pstatic.net/20200602_12/pocket_1591088104024MUg2v_JPEG/_.jpg?type=m260"
     },
     {
       "id": 52946,
@@ -15678,7 +15678,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=674209",
-      "img": "https://image-comic.pstatic.net/webtoon/347685/thumbnail/thumbnail_IMAG21_7148400498749564214.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/674209/thumbnail/thumbnail_IMAG21_3689681082105750067.jpg"
     },
     {
       "id": 743720,
@@ -15694,7 +15694,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=743720",
-      "img": "https://image-comic.pstatic.net/webtoon/183558/thumbnail/thumbnail_IMAG21_3919599769544176742.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/743720/thumbnail/thumbnail_IMAG21_7365468283311907380.jpg"
     },
     {
       "id": 730259,
@@ -15710,7 +15710,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=730259",
-      "img": "https://image-comic.pstatic.net/webtoon/150389/thumbnail/thumbnail_IMAG21_7378639139746570548.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/730259/thumbnail/thumbnail_IMAG21_3834596698201941606.jpg"
     },
     {
       "id": 775723,
@@ -15726,7 +15726,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=775723",
-      "img": "https://image-comic.pstatic.net/webtoon/403631/thumbnail/thumbnail_IMAG21_7005129525069887541.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/775723/thumbnail/thumbnail_IMAG21_7077462027865056354.jpg"
     },
     {
       "id": 423383,
@@ -15790,7 +15790,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=756139",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/756139/thumbnail/thumbnail_IMAG21_4eca2f9f-7265-4d1f-b49e-2f1060ae19c7.jpg"
     },
     {
       "id": 654809,
@@ -15853,8 +15853,8 @@ const webtoonsData = {
       "completed": true,
       "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=668103",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=2071977",
+      "img": "https://comicthumb-phinf.pstatic.net/20200723_69/pocket_1595494799765Im2oW_JPEG/ttl.jpg?type=m260"
     },
     {
       "id": 785700,
@@ -16029,8 +16029,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=756606",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5594428",
+      "img": "https://comicthumb-phinf.pstatic.net/20201019_59/pocket_1603090807768P1xEx_JPEG/720x972.jpg?type=m260"
     },
     {
       "id": 25517,
@@ -16174,7 +16174,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=783055",
-      "img": "https://image-comic.pstatic.net/webtoon/802070/thumbnail/thumbnail_IMAG21_fa7ec89a-785c-4c64-97b2-6814ca4d5970.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/783055/thumbnail/thumbnail_IMAG21_4049361017986442036.jpg"
     },
     {
       "id": 784830,
@@ -16365,8 +16365,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=748409",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=3709855",
+      "img": "https://comicthumb-phinf.pstatic.net/20181029_243/pocket_1540799014815YLSt2_JPEG/__00_300x430.jpg?type=m260"
     },
     {
       "id": 745652,
@@ -16526,7 +16526,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=679547",
-      "img": "https://image-comic.pstatic.net/webtoon/703308/thumbnail/thumbnail_IMAG21_3558185887365031217.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/679547/thumbnail/thumbnail_IMAG21_23528023-61e1-4ca0-952f-769549231107.jpg"
     },
     {
       "id": 702170,
@@ -17054,7 +17054,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=509093",
-      "img": "https://image-comic.pstatic.net/webtoon/635174/thumbnail/thumbnail_IMAG21_3991707034828681313.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/509093/thumbnail/thumbnail_IMAG21_7c2d523d-59c9-4c0b-b96f-dd85c8b2a93e.jpg"
     },
     {
       "id": 786496,
@@ -17549,8 +17549,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=746745",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=3998868",
+      "img": "https://comicthumb-phinf.pstatic.net/20190304_139/pocket_1551677423685yusnL_JPEG/___.jpg?type=m260"
     },
     {
       "id": 710750,
@@ -17614,7 +17614,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=94760",
-      "img": "https://image-comic.pstatic.net/webtoon/737835/thumbnail/thumbnail_IMAG21_7004286230555146085.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/94760/thumbnail/thumbnail_IMAG21_7003997255673078625.jpg"
     },
     {
       "id": 657522,
@@ -17934,7 +17934,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=729563",
-      "img": "https://image-comic.pstatic.net/webtoon/759924/thumbnail/thumbnail_IMAG21_7305745916888179257.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/729563/thumbnail/thumbnail_IMAG21_3846699950334305588.jpg"
     },
     {
       "id": 802293,
@@ -17950,7 +17950,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=802293",
-      "img": "https://image-comic.pstatic.net/webtoon/729946/thumbnail/thumbnail_IMAG21_3472338200439304291.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/802293/thumbnail/thumbnail_IMAG21_a3e4736d-dfd6-4e76-aec6-b145f4123845.jpg"
     },
     {
       "id": 803530,
@@ -18877,8 +18877,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": false,
-      "link": "https://comic.naver.com/webtoon/list?titleId=710767",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=9793452",
+      "img": "https://comicthumb-phinf.pstatic.net/20230526_32/pocket_1685093367870Mckhf_JPEG/001.jpg?type=m260"
     },
     {
       "id": 761498,
@@ -18989,8 +18989,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": false,
-      "link": "https://comic.naver.com/webtoon/list?titleId=722591",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=3929522",
+      "img": "https://comicthumb-phinf.pstatic.net/20190402_232/pocket_1554186661152Oo0Ge_JPEG/690_x_1000.jpg?type=m260"
     },
     {
       "id": 783540,
@@ -19150,7 +19150,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=800291",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://i.namu.wiki/i/KFQeO530txulMhL-BE6vq5B1P_PlqJZ08bzEv0TydZhh5A8KV9ks9tATudmie4DnAwVVbUe2qN2JvwSQLNOvGCaUNWs_XWC9navsxUpKB2XegYXWWldYKkh-R_lFg8NdxEzjnf_iTRJW1cBqGYJZXw.webp"
     },
     {
       "id": 798919,
@@ -19885,8 +19885,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=746752",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4111109&isWebtoonAgreePopUp=true",
+      "img": "https://comicthumb-phinf.pstatic.net/20190425_69/pocket_15561764243919cV3u_JPEG/534__.jpg?type=m260"
     },
     {
       "id": 709992,
@@ -20109,8 +20109,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=789528",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5806574",
+      "img": "https://comicthumb-phinf.pstatic.net/20201231_228/pocket_1609404050398qv7FN_JPEG/__%28300x430%29.jpg?type=m260"
     },
     {
       "id": 686018,
@@ -20253,8 +20253,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=784817",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6125870",
+      "img": "https://comicthumb-phinf.pstatic.net/20210419_256/pocket_1618805165002fPoG8_JPEG/___%28690X1000%29.jpg?type=m260"
     },
     {
       "id": 722386,
@@ -20363,10 +20363,10 @@ const webtoonsData = {
       "description": "매 순간마다 오해와 편견으로 부딪히는 남녀의 로맨스!",
       "rating": 9.74,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=793382",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=10737299",
+      "img": "https://comicthumb-phinf.pstatic.net/20240202_45/pocket_1706853410502iVaXC_JPEG/300_430.jpg?type=m260"
     },
     {
       "id": 667010,
@@ -20445,8 +20445,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=748408",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=3642559",
+      "img": "https://comicthumb-phinf.pstatic.net/20180917_170/pocket_1537178844459t1b7S_JPEG/_01_300x472px_.jpg?type=m260"
     },
     {
       "id": 780414,
@@ -21501,8 +21501,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=787731",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=8013743",
+      "img": "https://comicthumb-phinf.pstatic.net/20211216_214/pocket_1639636009717DW36L_JPEG/%B1%C7%C8%A3%BD%E6%B3%D7%C0%CF%28300x430%29.jpg?type=m260"
     },
     {
       "id": 801480,
@@ -21549,8 +21549,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=721462",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=3641166",
+      "img": "https://comicthumb-phinf.pstatic.net/20200103_28/pocket_1578021533480JLnRN_JPEG/_690x1000.jpg?type=m260"
     },
     {
       "id": 780857,
@@ -21614,7 +21614,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=745237",
-      "img": "https://image-comic.pstatic.net/webtoon/635989/thumbnail/thumbnail_IMAG21_7089851320625345377.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/745237/thumbnail/thumbnail_IMAG21_3473735894520050277.jpg"
     },
     {
       "id": 784845,
@@ -21821,8 +21821,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=752530",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5153358",
+      "img": "https://comicthumb-phinf.pstatic.net/20200602_7/pocket_1591088139484dElbe_JPEG/____.jpg?type=m260"
     },
     {
       "id": 423377,
@@ -22030,7 +22030,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=776306",
-      "img": "https://image-comic.pstatic.net/webtoon/797943/thumbnail/thumbnail_IMAG21_6733cb7f-79aa-4ecd-8a22-ed34a17684d8.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/776306/thumbnail/thumbnail_IMAG21_7378079505491322422.jpg"
     },
     {
       "id": 789651,
@@ -22061,8 +22061,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": false,
-      "link": "https://comic.naver.com/webtoon/list?titleId=729883",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4425009",
+      "img": "https://comicthumb-phinf.pstatic.net/20200131_123/pocket_1580454760914FbmfY_JPEG/____%28300x430%29.jpg?type=m260"
     },
     {
       "id": 602910,
@@ -22078,7 +22078,7 @@ const webtoonsData = {
       "age": "12세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=602910",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://i.namu.wiki/i/Q0su8-QRUjWQwa7-qgwk_nUQGh1pD17XkBITUpr4LHqG2kEnTwmEJU4Rww2g5NJaIr-YpaNsXZ2qmGWETo4p6d3rThBkzKtNL8ZdTdL6mgq9eaFJ1dllF7wdkQ0xHgbnU7w5qCKHDCC9NAi6jKIcDA.webp"
     },
     {
       "id": 629056,
@@ -22285,8 +22285,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=784831",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6744255",
+      "img": "https://comicthumb-phinf.pstatic.net/20211102_284/pocket_1635845283980Hb0Gq_JPEG/001%C8%AD_%BC%BC%B7%CE%C7%FC2.jpg?type=m260"
     },
     {
       "id": 579414,
@@ -22398,7 +22398,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=137706",
-      "img": "https://image-comic.pstatic.net/webtoon/616239/thumbnail/thumbnail_IMAG21_b412e69f-b6dc-40eb-b022-0f2c0991389b.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/137706/thumbnail/thumbnail_IMAG21_7075498501158953265.jpg"
     },
     {
       "id": 797259,
@@ -23054,7 +23054,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=697654",
-      "img": "https://image-comic.pstatic.net/webtoon/799557/thumbnail/thumbnail_IMAG21_d9b35ff1-a960-41a0-aab4-483592870946.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/697654/thumbnail/thumbnail_IMAG21_7366027754311279459.jpg"
     },
     {
       "id": 733770,
@@ -23133,8 +23133,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": false,
-      "link": "https://comic.naver.com/webtoon/list?titleId=759923",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5706874",
+      "img": "https://comicthumb-phinf.pstatic.net/20201201_182/pocket_16068071425486i46L_JPEG/1_%28720x972%29.jpg?type=m260"
     },
     {
       "id": 803122,
@@ -23261,8 +23261,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=747961",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5173835",
+      "img": "https://comicthumb-phinf.pstatic.net/20210304_97/pocket_1614828343542Im9ob_JPEG/_.jpg?type=m260"
     },
     {
       "id": 775140,
@@ -23294,7 +23294,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=520600",
-      "img": "https://image-comic.pstatic.net/webtoon/759420/thumbnail/thumbnail_IMAG21_3486404283616945764.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/520600/thumbnail/thumbnail_IMAG21_7366029936957154613.jpg"
     },
     {
       "id": 619935,
@@ -23597,8 +23597,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=788967",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=8063410",
+      "img": "https://comicthumb-phinf.pstatic.net/20220105_171/pocket_1641345538757qTIMq_JPEG/%C1%A6%B8%F1_%BE%F8%C0%BD-1.jpg?type=m260"
     },
     {
       "id": 714834,
@@ -23694,7 +23694,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=789428",
-      "img": "https://image-comic.pstatic.net/webtoon/797153/thumbnail/thumbnail_IMAG21_c1b94426-978d-4055-8ae4-116903dec269.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/789428/thumbnail/thumbnail_IMAG21_3474358206035616101.jpg"
     },
     {
       "id": 687610,
@@ -24094,7 +24094,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=656641",
-      "img": "https://image-comic.pstatic.net/webtoon/800099/thumbnail/thumbnail_IMAG21_4ea5c5fe-f4d4-4481-b435-b55b4a04a4a6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/656641/thumbnail/thumbnail_IMAG21_3977866159116543543.jpg"
     },
     {
       "id": 785450,
@@ -24541,8 +24541,8 @@ const webtoonsData = {
       "completed": true,
       "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=748410",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=3637567",
+      "img": "https://comicthumb-phinf.pstatic.net/20190228_91/pocket_1551319112138eSGpw_JPEG/cover.jpg?type=m260"
     },
     {
       "id": 758676,
@@ -24734,7 +24734,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=423392",
-      "img": "https://image-comic.pstatic.net/webtoon/25714/thumbnail/thumbnail_IMAG21_3846409661397284193.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/423392/thumbnail/thumbnail_IMAG21_4123385633960900153.jpg"
     },
     {
       "id": 748411,
@@ -24782,7 +24782,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=750572",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://conist-cdn.com/py_c/75/71/3c086de40538283ad2e66a445a4a"
     },
     {
       "id": 699659,
@@ -24877,8 +24877,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=769567",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6055427",
+      "img": "https://comicthumb-phinf.pstatic.net/20210324_297/pocket_1616587064438nkiIo_JPEG/mayo_series_cover.jpg?type=m260"
     },
     {
       "id": 793388,
@@ -25038,7 +25038,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=804318",
-      "img": "https://image-comic.pstatic.net/webtoon/748411/thumbnail/thumbnail_IMAG21_7233118762972755504.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/804318/thumbnail/thumbnail_IMAG21_b26fa842-0608-4939-aa2d-f37f67610f9f.jpg"
     },
     {
       "id": 772764,
@@ -25067,10 +25067,10 @@ const webtoonsData = {
       "description": "아이돌과 합주 팀원이 되야 한다고?!한국예술대학교 실용음악과에 재학중인 여주 한주리.?주리는 합주 시간에 팀원을 구하지 못하게 되고 기숙사에서 쫒겨날 판에 쳐하게 된다.?기숙사에서 쫒겨나지 않으려면 팀을 구해야 하는데...?남은 사람은 아이돌스타 블루?",
       "rating": 7.03,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=771992",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5046273",
+      "img": "https://comicthumb-phinf.pstatic.net/20200511_18/pocket_1589190397987jLvK5_JPEG/_--.jpg?type=m260"
     },
     {
       "id": 787314,
@@ -25182,7 +25182,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=186813",
-      "img": "https://image-comic.pstatic.net/webtoon/793388/thumbnail/thumbnail_IMAG21_3481ec05-76fa-4302-9947-7931c6fb8d09.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/186813/thumbnail/thumbnail_IMAG21_3617572712927552820.jpg"
     },
     {
       "id": 738488,
@@ -25819,10 +25819,10 @@ const webtoonsData = {
       "description": "오중석, 나이 41세, 직업은 조폭!온갖 나쁜 짓은 다 하며 수십년 몸 바친 결과 조직 최고의 자리에 오르지만, 부하에게 칼을 맞아 죽는 처참한 최후를 맞는다. '이렇게 죽게 될 줄 알았으면, 좀 착하게 살 걸!'인간답지 않았던 지난 생을 후회하던 그때, 천사가 나타나 그를 1995년 18살 고딩시절로 되돌린다. 이제부터 하나씩, 중석의 '착하게 살자' 프로젝트가 시작된다!",
       "rating": 9.69,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=776295",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6126768",
+      "img": "https://comicthumb-phinf.pstatic.net/20210422_292/pocket_1619055036124LNa4v_JPEG/720x972.jpg?type=m260"
     },
     {
       "id": 766575,
@@ -25853,8 +25853,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=698247",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://page.kakao.com/content/66730547?tab_type=overview",
+      "img": "https://page-images.kakaoentcdn.com/download/resource?kid=b3E591/hAJrc1Ec2b/WDR5E3WXyy97aCIbsKxBdK&filename=o1/dims/resize/384"
     },
     {
       "id": 771011,
@@ -25869,8 +25869,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=771011",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://page.kakao.com/content/66730547?tab_type=overview",
+      "img": "https://page-images.kakaoentcdn.com/download/resource?kid=b3E591/hAJrc1Ec2b/WDR5E3WXyy97aCIbsKxBdK&filename=o1/dims/resize/384"
     },
     {
       "id": 758037,
@@ -25949,8 +25949,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": false,
-      "link": "https://comic.naver.com/webtoon/list?titleId=26431",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://comic.naver.com/webtoon/list?titleId=768095",
+      "img": "https://image-comic.pstatic.net/webtoon/26431/thumbnail/thumbnail_IMAG21_7017793924175717684.jpg"
     },
     {
       "id": 792769,
@@ -25982,7 +25982,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=658823",
-      "img": "https://image-comic.pstatic.net/webtoon/776096/thumbnail/thumbnail_IMAG21_7233679728570557283.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/658823/thumbnail/thumbnail_IMAG21_7363720987539694899.jpg"
     },
     {
       "id": 670131,
@@ -26430,7 +26430,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=400736",
-      "img": "https://image-comic.pstatic.net/webtoon/784838/thumbnail/thumbnail_IMAG21_d89cc0e4-59dc-4d17-9c19-d5aa1f658fa9.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/400736/thumbnail/thumbnail_IMAG21_3847540152640747828.jpg"
     },
     {
       "id": 797222,
@@ -26702,7 +26702,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=747273",
-      "img": "https://image-comic.pstatic.net/webtoon/677452/thumbnail/thumbnail_IMAG21_05f30a57-88b9-4798-8987-4851f1b28f5a.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/747273/thumbnail/thumbnail_IMAG21_3617016544744399462.jpg"
     },
     {
       "id": 26074,
@@ -26859,10 +26859,10 @@ const webtoonsData = {
       "description": "캡틴 비앙카모두가 원하던 새로운 영웅의 등장!!한가로운 해변 마을, 여관에서 허드렛일을 하는 청년 레온은 뜻밖의 손님을 만나게 된다. 해적인 줄만 알았던 무시무시한 분위기의 손님, 비앙카는 희귀한 해양생물을 찾아내서 보호하는 나름(?) 착한 사람. 그녀와 함께 소매치기 펭귄, 딸기 거북이, 사기꾼 해달 등을 만나게 되면서 레온은 점차 비앙카의 매력에 빠지게 된다.한편, 희귀한 해양생물이 유독 많이 등장하는 이 마을이 심상치 않음을 직감한 비앙카 앞에 철천지 원수(?) 실버단의 디고르가 나타나고, 비앙카에게 연정을 숨기지 않는 디고르를 보며 레온은 마음이 복잡해지기만 하는데...지금까지의 판타지와는 결이 다르다!한 번 보면 빠져나올 수 없는 캡틴 비앙카의 매력―!!",
       "rating": 9.6,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=768095",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://ridibooks.com/books/3092046509",
+      "img": "https://img.ridicdn.net/cover/3092046509/xxlarge?dpi=xxhdpi#1"
     },
     {
       "id": 727268,
@@ -27035,10 +27035,10 @@ const webtoonsData = {
       "description": "스스로 교도소에 갇힌 범죄심리학자. 아버지를 잃은 범죄분석관이 벌이는 살인사건에 관한 10번의 인터뷰, 그 속에 숨어 있는 연쇄살인의 진실.\"범죄의 조각들을 꿰어 맞추면 거대한 하나의 실체가 드러나지.\"",
       "rating": 9.76,
       "completed": true,
-      "age": "",
+      "age": "15세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=783969",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/search/search.series?t=all&fs=comic&q=%ED%81%AC%EB%9D%BC%EC%9E%84+%ED%8D%BC%EC%A6%90",
+      "img": "https://comicthumb-phinf.pstatic.net/20160516_47/pocket_14633612864532HiBW_JPEG/image.JPEG?type=m260"
     },
     {
       "id": 801442,
@@ -27405,8 +27405,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=729043",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4286385",
+      "img": "https://comicthumb-phinf.pstatic.net/20190627_280/pocket_1561636211192V9IMo_JPEG/_600x860.jpg?type=m260"
     },
     {
       "id": 732403,
@@ -27774,7 +27774,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=742826",
-      "img": "https://image-comic.pstatic.net/webtoon/773523/thumbnail/thumbnail_IMAG21_4048844244048492131.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/742826/thumbnail/thumbnail_IMAG21_4135537247560229219.jpg"
     },
     {
       "id": 746751,
@@ -28365,8 +28365,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=757579",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5467491",
+      "img": "https://comicthumb-phinf.pstatic.net/20220506_258/pocket_165182947318898d0M_JPEG/%BD%C3%B8%AE%C1%EE_%C7%A5%C1%F6_690x1000.jpg?type=m260"
     },
     {
       "id": 774863,
@@ -28654,7 +28654,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=773417",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/773417/thumbnail/thumbnail_IMAG21_3702580329889150776.jpg"
     },
     {
       "id": 797844,
@@ -28926,7 +28926,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=258205",
-      "img": "https://image-comic.pstatic.net/webtoon/759894/thumbnail/thumbnail_IMAG21_011b8176-c0ed-4740-be46-ca6040dfe0f9.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/258205/thumbnail/thumbnail_IMAG21_3918749809139474738.jpg"
     },
     {
       "id": 597447,
@@ -29118,7 +29118,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=745235",
-      "img": "https://image-comic.pstatic.net/webtoon/697254/thumbnail/thumbnail_IMAG21_3703700941885945441.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/745235/thumbnail/thumbnail_IMAG21_3474299750792049718.jpg"
     },
     {
       "id": 739127,
@@ -29182,7 +29182,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=696617",
-      "img": "https://image-comic.pstatic.net/webtoon/792955/thumbnail/thumbnail_IMAG21_b06704a0-9139-4128-81b5-ee4dc071de48.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/696617/thumbnail/thumbnail_IMAG21_3833797361858392420.jpg"
     },
     {
       "id": 749633,
@@ -29291,10 +29291,10 @@ const webtoonsData = {
       "description": "무협 만화 같은 여자 ‘유비’. 순정 만화 같은 남자 ‘신우’.자신의 장르대로 살아가던 두 사람의 순탄치 않은 썸타기!만화의 정석대로 해피엔딩을 이룰 수 있을까?!",
       "rating": 9.98,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=745207",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5039934",
+      "img": "https://comicthumb-phinf.pstatic.net/20220118_80/pocket_1642502050444vOycG_JPEG/%BA%CF%BD%BA%C7%A5%C1%F6_690x100.jpg?type=m260"
     },
     {
       "id": 783595,
@@ -29838,7 +29838,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=590252",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://file.newswire.co.kr/data/datafile2/thumb_480/2013/10/20131001112402_1159439067.jpg"
     },
     {
       "id": 680193,
@@ -29854,7 +29854,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=680193",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://an2-img.amz.wtchn.net/image/v2/WRJBGfcvggQtNzYe1VJfaQ.webp?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmQyVmlkRzl2Ymk4eE5qUXlOalk1Tmprek1qQXpPVEUzT1RBNUlpd2lkeUk2TkRrd0xDSnhJam80TUgwLjJmekY2bUhMMlNPX09ST3gxeldGekMyeUp6NFNpZk44bVJwODdydXhsSG8=&quot;"
     },
     {
       "id": 643607,
@@ -29870,7 +29870,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=643607",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://conist-cdn.com/py_c/3a/fe/13390eafa7dc1bfa15143d41531c"
     },
     {
       "id": 718707,
@@ -29933,8 +29933,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=746749",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=13255490",
+      "img": "https://comicthumb-phinf.pstatic.net/20251024_95/pocket_1761269462124WgVcB_JPEG/001_%286%29.jpg?type=m260"
     },
     {
       "id": 784822,
@@ -30203,10 +30203,10 @@ const webtoonsData = {
       "description": "[ 운을 공유하는 쌍둥이 이야기 ]내가 사랑하는 사람이 불행해져야 내가 행복해질 수 있다면...? 쌍둥이, 비량과 비별의 수장이 되기 위한 행운 매치.",
       "rating": 9.84,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=789989",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=10857464",
+      "img": "https://comicthumb-phinf.pstatic.net/20240313_255/pocket_17103275795387q8t0_JPEG/300_430.jpg?type=m260"
     },
     {
       "id": 799868,
@@ -30398,7 +30398,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=719508",
-      "img": "https://image-comic.pstatic.net/webtoon/669357/thumbnail/thumbnail_IMAG21_7149242746148565048.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/719508/thumbnail/thumbnail_IMAG21_4049636999763944505.jpg"
     },
     {
       "id": 622639,
@@ -30526,7 +30526,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=670143",
-      "img": "https://image-comic.pstatic.net/webtoon/775334/thumbnail/thumbnail_IMAG21_e6c8e9eb-715f-4d56-a0cb-6d8af732dd98.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/670143/thumbnail/thumbnail_IMAG21_12d5d293-d54d-4022-8e00-c97c5779c701.jpg"
     },
     {
       "id": 759475,
@@ -30766,7 +30766,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=804163",
-      "img": "https://image-comic.pstatic.net/webtoon/800101/thumbnail/thumbnail_IMAG21_8576e02b-28b2-4f36-9473-44da0d77ee16.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/804163/thumbnail/thumbnail_IMAG21_2a332bba-36d6-488e-ad2e-6236b96b649b.jpg"
     },
     {
       "id": 650305,
@@ -31261,8 +31261,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=748412",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4184500",
+      "img": "https://comicthumb-phinf.pstatic.net/20190516_66/pocket_1557999908888lwF2d_JPEG/001.jpg?type=m260"
     },
     {
       "id": 796066,
@@ -31309,8 +31309,8 @@ const webtoonsData = {
       "completed": true,
       "age": "12세 이용가",
       "free": false,
-      "link": "https://comic.naver.com/webtoon/list?titleId=710763",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=3513129",
+      "img": "https://comicthumb-phinf.pstatic.net/20180713_284/pocket_1531468132797LzROx_JPEG/__1.jpg?type=m260"
     },
     {
       "id": 794779,
@@ -31502,7 +31502,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=628997",
-      "img": "https://image-comic.pstatic.net/webtoon/765471/thumbnail/thumbnail_IMAG21_4135538355631055929.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/628997/thumbnail/thumbnail_IMAG21_7378358957538294066.jpg"
     },
     {
       "id": 753973,
@@ -31563,10 +31563,10 @@ const webtoonsData = {
       "description": "차갑고 수상한 성에서 펼쳐지는 생존 로맨스?!귀요미와 허당 매력이 가득한 사랑 듬뿍 받고 자란 막내 아들, 백작 가문의 사생아 출신 에이드리안. 첫째 형은 사망, 둘째 형은 실종되면서 가문의 땅을 지키기 위해 어쩔 수 없이 황제파 귀족 가문과 결혼할 수밖에 없는 처지에 놓인다. 둘째 형이 돌아올 때까지만 버틸 생각으로, 당연히 거절할 거라 생각한, “얼굴을 보면 죽인다”는 악명 높은 전장의 늑대, 프레이 뷔시아 후작을 결혼 상대로 지정하는 에이드리안. 하지만 프레이 후작이 대체 무슨 생각에선지 덜컥 결혼 서명을 해버리면서 에이드리안과 프레이는 거짓말처럼 진짜 “결혼”이란 것을 하고 만다! 으악! 망했다!!! 머리 뜯는 고통의 시간도 잠시…이제 무를 수도 없이 부부인데…….근데 진짜 궁금한 게…왜 얼굴은커녕 머리카락 하나 보기 힘든 거죠? 왜 얼어 죽을 뻔한 사람을 구해줘가지고 사람 마음을 들었다 놨다 하는 거죠? 얼굴을 보면 죽인다는 소문의 주인공 프레이 뷔시아 후작. 차가워도 너무 차가운 그녀의 마음을 과연 이 허술한 에이드리안이 녹일 수 있을까?",
       "rating": 9.93,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=791116",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5899688",
+      "img": "https://comicthumb-phinf.pstatic.net/20210202_283/pocket_1612250820431f1xF8_JPEG/_____300x430.jpg?type=m260"
     },
     {
       "id": 72499,
@@ -31630,7 +31630,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=801582",
-      "img": "https://image-comic.pstatic.net/webtoon/800304/thumbnail/thumbnail_IMAG21_64d41d2c-4a6d-46f1-989d-6f0c1053806b.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/801582/thumbnail/thumbnail_IMAG21_0e3c2c4d-fb79-4402-bbe3-129bb9f5c2c4.jpg"
     },
     {
       "id": 772001,
@@ -31643,10 +31643,10 @@ const webtoonsData = {
       "description": "전래동화 흥부놀부 이후. 다시 제비를 쫓아가는 흥부와 놀부의 목적은 복수?! 한국 전래동화의 기록되지 않은 후일담(?)을 다룬 열혈 무협 판타지 액션물!",
       "rating": 9.75,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=772001",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=11116188",
+      "img": "https://comicthumb-phinf.pstatic.net/20240510_86/pocket_1715325502528HsRgw_JPEG/300_430.jpg?type=m260"
     },
     {
       "id": 783539,
@@ -31886,7 +31886,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=696593",
-      "img": "https://image-comic.pstatic.net/webtoon/770523/thumbnail/thumbnail_IMAG21_b0c43bf3-14b8-4b43-970f-ced56b793582.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/696593/thumbnail/thumbnail_IMAG21_7004002749825627236.jpg"
     },
     {
       "id": 774762,
@@ -31902,7 +31902,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=774762",
-      "img": "https://image-comic.pstatic.net/webtoon/793662/thumbnail/thumbnail_IMAG21_97fb792e-54d4-47c9-8bf1-2b749f14050c.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/774762/thumbnail/thumbnail_IMAG21_3545235829967632689.jpg"
     },
     {
       "id": 693444,
@@ -32315,10 +32315,10 @@ const webtoonsData = {
       "description": "만화가인 아빠의 작품 중에서 강철이 최애캐인 연주는 평범한 일상을 보내던 어느 날 생일파티를 하게 되었다. 그런데 잠깐 잠이 든 사이에 이상한 곳에서 눈을 뜨게 되고 눈앞에는 만화 속에만 보던 캐릭터 주인공, 강철이 서있었다. 정신 차려보니 이곳은 현실이 아닌 만화 속 세계랑 너무 똑같았다.",
       "rating": 9.77,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=789986",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=6027777",
+      "img": "https://comicthumb-phinf.pstatic.net/20210316_260/pocket_1615880150695aRW8l_JPEG/_.jpg?type=m260"
     },
     {
       "id": 778737,
@@ -32331,10 +32331,10 @@ const webtoonsData = {
       "description": "괴현상으로 무너지는 세계, 그리고 세 남녀.  정신을 차려보니 어두운 지하실에 묶여있는 남자, 대부분의 기억을 잃었지만 머릿속에 누군가를 만나야 한다는 생각만은 또렷하다. 그 앞에 나타난 피 묻은 도끼를 든 여자, 광기로 가득 찬 여자는 남자가 자신을 기억해 내기를 바란다. 한편, 어디선가 나타난 금발의 여자, 여자는 두 남녀에 대해 이미 모든 것을 알고 있는데….",
       "rating": 8.36,
       "completed": true,
-      "age": "",
+      "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=778737",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=5286358",
+      "img": "https://comicthumb-phinf.pstatic.net/20200708_30/pocket_15941823132718KvqX_JPEG/300x430.jpg?type=m260"
     },
     {
       "id": 746747,
@@ -32379,10 +32379,10 @@ const webtoonsData = {
       "description": "부모가 남긴 빚을 떠안고 힘겹게 살아가는 유민아. 불어난 빚을 받기 위해 고시원으로 찾아온 사채업자에게 위협을 당하는 순간, 어마어마한 금액의 현금을 가졌으며 기묘한 능력까지 사용하는 배수현으로부터 도움을 받는다. 도움을 주던 중 민아의 재치에 흥미를 느낀 수현은 자신의 비밀에 너무 깊이 개입하게 되었으니 자신과 함께 옛 친구를 찾는 일에 도움을 줄 것을 부탁한다.",
       "rating": 8.5,
       "completed": true,
-      "age": "",
+      "age": "12세 이용가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=799480",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=4875722",
+      "img": "https://comicthumb-phinf.pstatic.net/20200729_226/pocket_1596004620555pWUYx_JPEG/100__.jpg?type=m260"
     },
     {
       "id": 748416,
@@ -32397,8 +32397,8 @@ const webtoonsData = {
       "completed": true,
       "age": "전체연령가",
       "free": true,
-      "link": "https://comic.naver.com/webtoon/list?titleId=748416",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "link": "https://series.naver.com/comic/detail.series?productNo=3997751",
+      "img": "https://comicthumb-phinf.pstatic.net/20250327_178/pocket_17430681379702gsdw_JPEG/300x430%C7%A5%C1%F6102030_re.jpg?type=m260"
     },
     {
       "id": 798303,
@@ -32526,7 +32526,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=773522",
-      "img": "https://image-comic.pstatic.net/webtoon/750198/thumbnail/thumbnail_IMAG21_7076339396414353975.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/773522/thumbnail/thumbnail_IMAG21_3832625290197426742.jpg"
     },
     {
       "id": 703835,
@@ -33118,7 +33118,7 @@ const webtoonsData = {
       "age": "전체연령가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=710769",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://i.namu.wiki/i/R00zZ_XP7YqZp9-XVbZs7pK-fAop1Fculyz7ODCZTpQhVNK9jPE4pLTFsm3ddnqV7Oj6hamSX8XgmOxJkizkapT5Oo0UvT9VBnTTFtiwiU7sP0iD-DUjJZA0p2FynOKUo8DSS3iT6OamEqGmWbUQIg.webp"
     },
     {
       "id": 646568,
@@ -33246,7 +33246,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": false,
       "link": "https://comic.naver.com/webtoon/list?titleId=682265",
-      "img": "https://image-comic.pstatic.net/webtoon/723365/thumbnail/thumbnail_IMAG21_7089339136332937061.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/682265/thumbnail/thumbnail_IMAG21_7233402647375787366.jpg"
     },
     {
       "id": 761253,
@@ -33454,7 +33454,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=750579",
-      "img": "https://image-comic.pstatic.net/webtoon/844226/thumbnail/thumbnail_IMAG21_149b3a07-940d-440b-82e9-0106a0510dc6.jpg"
+      "img": "https://i.namu.wiki/i/v_L8Eu09QtM6Hyiz5pUm1uyPhrbpXvmL5ICphccdKe9kBb3MOY84glNR3OhNB8dN2VdSRROyIpcOtHTBCu3bWRttFMDqA73hw9DuHblTDx67ycY6hKyb6T8IQ6n6nVHzcoKUW2qERoXqpwyHxpvqmw.webp"
     },
     {
       "id": 701081,
@@ -33598,7 +33598,7 @@ const webtoonsData = {
       "age": "18세 이용가",
       "free": true,
       "link": "https://comic.naver.com/webtoon/list?titleId=67235",
-      "img": "https://image-comic.pstatic.net/user_contents_data/challenge_comic/2008/10/30/131837/thumbnail_title_siruzzang_072903_.jpg"
+      "img": "https://image-comic.pstatic.net/webtoon/67235/thumbnail/thumbnail_IMAG21_3546924696990934585.jpg"
     }
   ],
   "genres": [
