@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const closeModal = document.getElementById("closeModal");
     const webtoonDetail = document.getElementById('webtoonDetail');
     const filterButtons = document.querySelectorAll('.filter-btn');
-
+    const yearTrendToggle = document.getElementById('yearTrendToggle');
     // --- 데이터 관련 함수 ---
     function getAllGenres(data) {
             const genres = new Set();
@@ -317,57 +317,198 @@ function updateCharts(filtered) {
     }
   });
 
-  // === 평점 분포 차트 (오른쪽 그래프 유지) ===
-  const buckets = Array(10).fill(0);
-  filtered.forEach(w => {
-    const idx = Math.max(0, Math.min(9, Math.floor(w.rating)));
-    buckets[idx]++;
+// === 평점 분포 / 연도별 서브장르 트렌드 ===
+const buckets = Array(10).fill(0);
+filtered.forEach(w => {
+  const idx = Math.max(0, Math.min(9, Math.floor(w.rating)));
+  buckets[idx]++;
+});
+
+// 체크박스 상태 확인
+const yearTrendToggle = document.getElementById('yearTrendToggle')?.checked ?? false;
+
+if (window.dashboardRatingChart) window.dashboardRatingChart.destroy();
+
+let chartType;
+let labels = [];
+let ratingDatasets = [];
+
+// === 체크박스 OFF → 평점 분포 ===
+if (!yearTrendToggle) {
+  chartType = 'bar';
+  labels = Array.from({ length: 10 }, (_, i) => `${i}`);
+  ratingDatasets = [
+    { label: '평점 분포', data: buckets, backgroundColor: '#ef476f' }
+  ];
+}
+
+// === 체크박스 ON → 연도별 서브장르 트렌드 ===
+else {
+  chartType = 'line';
+
+  //  데이터: 연도별 여러 장르 동시 표시
+ const trendData = [
+    { year: 2006, genre: '드라마', count: 1 },
+  { year: 2007, genre: '드라마', count: 1 },
+  { year: 2008, genre: '드라마', count: 4 },
+  { year: 2009, genre: '드라마', count: 3 },
+  { year: 2010, genre: '드라마', count: 10 },
+  { year: 2011, genre: '드라마', count: 10 },
+  { year: 2012, genre: '드라마', count: 13 },
+  { year: 2013, genre: '드라마', count: 15 },
+  { year: 2014, genre: '드라마', count: 19 },
+  { year: 2015, genre: '드라마', count: 17 },
+  { year: 2016, genre: '드라마', count: 14 },
+  { year: 2017, genre: '드라마', count: 12 },
+  { year: 2018, genre: '드라마', count: 14 },
+  { year: 2019, genre: '드라마', count: 16 },
+  { year: 2020, genre: '드라마', count: 52 },
+  { year: 2021, genre: '드라마', count: 61 },
+  { year: 2022, genre: '드라마', count: 176 },
+
+  { year: 2007, genre: '로맨스', count: 2 },
+  { year: 2008, genre: '로맨스', count: 1 },
+  { year: 2009, genre: '로맨스', count: 2 },
+  { year: 2011, genre: '로맨스', count: 6 },
+  { year: 2012, genre: '로맨스', count: 3 },
+  { year: 2013, genre: '로맨스', count: 5 },
+  { year: 2014, genre: '로맨스', count: 5 },
+  { year: 2015, genre: '로맨스', count: 6 },
+  { year: 2016, genre: '로맨스', count: 3 },
+  { year: 2017, genre: '로맨스', count: 9 },
+  { year: 2018, genre: '로맨스', count: 10 },
+  { year: 2019, genre: '로맨스', count: 23 },
+  { year: 2020, genre: '로맨스', count: 49 },
+
+  { year: 2007, genre: '판타지', count: 1 },
+  { year: 2010, genre: '판타지', count: 1 },
+  { year: 2011, genre: '판타지', count: 3 },
+  { year: 2013, genre: '판타지', count: 2 },
+  { year: 2014, genre: '판타지', count: 3 },
+  { year: 2015, genre: '판타지', count: 1 },
+  { year: 2017, genre: '판타지', count: 1 },
+  { year: 2018, genre: '판타지', count: 4 },
+  { year: 2019, genre: '판타지', count: 4 },
+  { year: 2020, genre: '판타지', count: 12 },
+  { year: 2021, genre: '판타지', count: 8 },
+  { year: 2022, genre: '판타지', count: 46 },
+
+  { year: 2008, genre: '스릴러', count: 1 },
+  { year: 2010, genre: '스릴러', count: 3 },
+  { year: 2011, genre: '스릴러', count: 1 },
+  { year: 2013, genre: '스릴러', count: 4 },
+  { year: 2014, genre: '스릴러', count: 2 },
+  { year: 2015, genre: '스릴러', count: 3 },
+  { year: 2016, genre: '스릴러', count: 4 },
+  { year: 2018, genre: '스릴러', count: 7 },
+  { year: 2019, genre: '스릴러', count: 7 },
+  { year: 2020, genre: '스릴러', count: 12 },
+  { year: 2021, genre: '스릴러', count: 13 },
+  { year: 2022, genre: '스릴러', count: 51 },
+
+  { year: 2008, genre: '개그', count: 2 },
+  { year: 2010, genre: '개그', count: 2 },
+  { year: 2011, genre: '개그', count: 3 },
+  { year: 2012, genre: '개그', count: 4 },
+  { year: 2013, genre: '개그', count: 4 },
+  { year: 2014, genre: '개그', count: 3 },
+  { year: 2015, genre: '개그', count: 3 },
+  { year: 2017, genre: '개그', count: 2 },
+  { year: 2018, genre: '개그', count: 3 },
+  { year: 2019, genre: '개그', count: 6 },
+  { year: 2020, genre: '개그', count: 10 },
+  { year: 2021, genre: '개그', count: 10 },
+  { year: 2022, genre: '개그', count: 46 },
+
+  { year: 2010, genre: '액션', count: 1 },
+  { year: 2012, genre: '액션', count: 2 },
+  { year: 2013, genre: '액션', count: 2 },
+  { year: 2014, genre: '액션', count: 2 },
+  { year: 2015, genre: '액션', count: 2 },
+  { year: 2016, genre: '액션', count: 3 },
+  { year: 2017, genre: '액션', count: 2 },
+  { year: 2018, genre: '액션', count: 6 },
+  { year: 2019, genre: '액션', count: 4 },
+  { year: 2020, genre: '액션', count: 8 },
+  { year: 2021, genre: '액션', count: 8 },
+  { year: 2022, genre: '액션', count: 40 },
+
+  { year: 2012, genre: '에피소드', count: 1 },
+  { year: 2013, genre: '에피소드', count: 1 },
+  { year: 2015, genre: '에피소드', count: 1 },
+  { year: 2016, genre: '에피소드', count: 2 },
+  { year: 2018, genre: '에피소드', count: 3 },
+  { year: 2019, genre: '에피소드', count: 2 },
+  { year: 2020, genre: '에피소드', count: 7 },
+  { year: 2021, genre: '에피소드', count: 9 },
+  { year: 2022, genre: '에피소드', count: 24 }
+];
+
+
+  //  장르별로 그룹화
+  const genreGroups = {};
+  trendData.forEach(d => {
+    if (!genreGroups[d.genre]) genreGroups[d.genre] = [];
+    genreGroups[d.genre].push({ year: d.year, count: d.count });
   });
 
-  if (window.dashboardRatingChart) window.dashboardRatingChart.destroy();
+  //  연도 오름차순 정렬
+  labels = [...new Set(trendData.map(d => d.year))].sort((a, b) => a - b);
 
-  window.dashboardRatingChart = new Chart(ratingCtx, {
-    type: 'bar',
-    data: {
-      labels: Array.from({ length: 10 }, (_, i) => `${i }`),
-      datasets: [
-        { label: '평점 분포', data: buckets, backgroundColor: '#ef476f' }
-      ]
+  //  랜덤 색상 생성 함수
+  const randomColor = () => `hsl(${Math.random() * 360}, 70%, 50%)`;
+
+  //  장르별 데이터셋 생성
+  ratingDatasets = Object.entries(genreGroups).map(([genre, data]) => {
+    const yearToCount = Object.fromEntries(data.map(d => [d.year, d.count]));
+    return {
+      label: genre,
+      data: labels.map(y => yearToCount[y] ?? null),
+      borderColor: randomColor(),
+      borderWidth: 2,
+      tension: 0.3,
+      fill: false,
+      pointRadius: 3,
+    };
+  });
+}
+
+// === 차트 생성 ===
+window.dashboardRatingChart = new Chart(ratingCtx, {
+  type: chartType,
+  data: { labels, datasets: ratingDatasets },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { position: 'top' },
+      title: {
+        display: true,
+        text: yearTrendToggle
+          ? '연도별 주요 서브장르 트렌드'
+          : '평점 분포',
+      },
     },
-    options: {
-      responsive: true,
-      plugins: { legend: { display: false } },
-      scales: { y: { beginAtZero: true } }
-    }
+    scales: {
+      y: {
+        beginAtZero: true,
+        title: { display: true, text: yearTrendToggle ? '작품 수(편)' : '작품 수' },
+      },
+      x: {
+        title: { display: true, text: yearTrendToggle ? '연도' : '평점' },
+      },
+    },
+  },
+});
+
+}
+
+    if (yearTrendToggle) {
+  yearTrendToggle.addEventListener('change', () => {
+    const filteredData = filterWebtoons(); 
+    updateCharts(filteredData);
   });
 }
 
-//  필터 함수 — 완결/미완결 적용
-function filterWebtoons() {
-  const completedOnly = document.getElementById('completed')?.checked || false;
-  const incompleteOnly = document.getElementById('incomplete')?.checked || false;
-  const keyword = (searchInput?.value || "").trim().toLowerCase();
-
-  return webtoonsData.webtoons.filter(w => {
-    const matchGenre =
-      genreSelect.value === 'all' ||
-      (w.genre && w.genre.includes(genreSelect.value));
-    const matchAge =
-      ageSelect.value === 'all' || w.age === ageSelect.value;
-    const matchKeyword =
-      w.title.toLowerCase().includes(keyword) ||
-      w.author.toLowerCase().includes(keyword);
-
-    const isCompleted = String(w.completed).toLowerCase().trim() === 'true';
-
-    let matchCompletion = true;
-    if (completedOnly && !incompleteOnly) matchCompletion = isCompleted;
-    else if (!completedOnly && incompleteOnly) matchCompletion = !isCompleted;
-    else matchCompletion = true;
-
-    return matchGenre && matchAge && matchKeyword && matchCompletion;
-  });
-}
 
 // 전체 렌더링 함수
 function renderDashboardAll() {
@@ -441,6 +582,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 
+
+
     ['avgRatingToggle', 'minRatingToggle', 'maxRatingToggle'].forEach(id => {
   const el = document.getElementById(id);
   if (el) el.addEventListener('change', () => {
@@ -449,62 +592,77 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 
-
-
-  const consonantRanges = {
-    'ㄱ': ['가', '나'],
-    'ㄴ': ['나', '다'],
-    'ㄷ': ['다', '라'],
-    'ㄹ': ['라', '마'],
-    'ㅁ': ['마', '바'],
-    'ㅂ': ['바', '사'],
-    'ㅅ': ['사', '아'],
-    'ㅇ': ['아', '자'],
-    'ㅈ': ['자', '차'],
-    'ㅊ': ['차', '카'],
-    'ㅋ': ['카', '타'],
-    'ㅌ': ['타', '파'],
-    'ㅍ': ['파', '하'],
-    'ㅎ': ['하', '힣']
-  };
-
-// --- 통합 클릭 핸들러 ---
+ // --- 자음/숫자 버튼 필터 (완전 작동 버전) ---
 filterButtons.forEach(btn => {
   btn.addEventListener('click', () => {
-    // 모든 버튼 active 해제
+    // 버튼 상태 초기화
     filterButtons.forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
 
     const type = btn.dataset.type;
-    const value = btn.textContent;
-    let filteredData = [];
+    const value = btn.textContent.trim();
+
+    // 현재 장르/연령/완결 필터 반영
+    const baseFilteredData = filterWebtoons();
+    let finalFilteredData = [];
 
     if (type === 'korean') {
+      const consonantRanges = {
+        'ㄱ': ['가', '나'], 'ㄴ': ['나', '다'], 'ㄷ': ['다', '라'], 'ㄹ': ['라', '마'],
+        'ㅁ': ['마', '바'], 'ㅂ': ['바', '사'], 'ㅅ': ['사', '아'], 'ㅇ': ['아', '자'],
+        'ㅈ': ['자', '차'], 'ㅊ': ['차', '카'], 'ㅋ': ['카', '타'], 'ㅌ': ['타', '파'],
+        'ㅍ': ['파', '하'], 'ㅎ': ['하', '힣']
+      };
       const range = consonantRanges[value];
-      if (!range) return;
-      const [start, end] = range;
-      filteredData = webtoonsData.webtoons.filter(w => {
-        const first = w.title.charAt(0);
-        return first >= start && first < end;
-      });
-    } else if (type === 'number') {
-      filteredData = webtoonsData.webtoons.filter(w => {
-        return w.title.charAt(0) === value;
-      });
+      if (!range) {
+        finalFilteredData = baseFilteredData;
+      } else {
+        const [start, end] = range;
+        finalFilteredData = baseFilteredData.filter(w => {
+          const firstChar = w.title?.charAt(0);
+          return firstChar >= start && firstChar < end;
+        });
+      }
     }
 
-    //  모달창 표시
-    showSearchResults(filteredData);
+    // 숫자 필터
+    else if (type === 'number') {
+      finalFilteredData = baseFilteredData.filter(w => /^[0-9]/.test(w.title?.trim()));
+    }
 
-    //  모달 닫힐 때 active 상태 자동 해제
+    function showSearchResults(data) {
+  resultsContainer.innerHTML = "";
+  webtoonDetail.innerHTML = "";
+  webtoonDetail.classList.add("hidden");
+  resultsContainer.classList.remove("hidden");
+
+  if (!data || data.length === 0) {
+    resultsContainer.innerHTML = '<p class="no-data">검색 결과가 없습니다.</p>';
+  } else {
+    data.forEach(w => {
+      const item = document.createElement("div");
+      item.classList.add("webtoon-item");
+      item.innerHTML = `
+        <img src="${w.img}" alt="${w.title}" onerror="this.src='../img/한교동.png'">
+        <div><strong>${w.title}</strong><br><small>${w.author}</small></div>`;
+      item.addEventListener("click", () => showWebtoonDetail(w));
+      resultsContainer.appendChild(item);
+    });
+  }
+  modal.style.display = "block";
+}
+
+
+    // 결과 표시
+    showSearchResults(finalFilteredData);
+
+    // 모달 닫기 시 active 해제
     const handleClose = () => {
       btn.classList.remove('active');
-      // 한 번만 실행되게 이벤트 제거
       closeModal.removeEventListener('click', handleClose);
       window.removeEventListener('click', handleOutside);
     };
 
-    //  외부 클릭으로 닫힐 때도 처리
     const handleOutside = (e) => {
       if (e.target === modal) {
         btn.classList.remove('active');
@@ -515,12 +673,23 @@ filterButtons.forEach(btn => {
     closeModal.addEventListener('click', handleClose);
     window.addEventListener('click', handleOutside);
   });
+});
+
+
+    //  모달 닫기 버튼
+  closeModal.addEventListener("click", () => {
+    modal.style.display = "none";
   });
 
   // 새로고침 버튼
   document.getElementById("refreshBtn").addEventListener("click", () => {
   location.reload();
   });
+
+  searchInput.addEventListener("input", () => {
+  showSearchResults(filterWebtoons());
+});
+
 
     // 초기화
     fillOptions();
@@ -529,7 +698,7 @@ filterButtons.forEach(btn => {
     // 필터 변경 시 갱신
     genreSelect.addEventListener('change', renderAll);
     ageSelect.addEventListener('change', renderAll);
-    searchInput.addEventListener("input", showSearchResults);
+    
 });
 
 

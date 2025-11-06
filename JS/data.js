@@ -93,7 +93,6 @@ function updateDashboardCharts(filtered) {
   const ctxRating = document.getElementById('ratingChart');
 
   // 디버깅 로그
-  console.log("ctxGenre:", ctxGenre, "ctxRating:", ctxRating);
   if (!ctxGenre || !ctxRating) {
     console.error("❌ 캔버스 요소를 찾지 못했습니다. HTML id 확인!");
     return;
@@ -194,5 +193,4 @@ document.getElementById('completed').addEventListener('change', renderDashboardA
 document.getElementById('incomplete').addEventListener('change', renderDashboardAll);
 
 // 초기화
-fillDashboardOptions();
 renderDashboardAll();
